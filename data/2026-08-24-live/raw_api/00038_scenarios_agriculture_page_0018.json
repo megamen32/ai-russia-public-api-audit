@@ -1,0 +1,278 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkip00jzinjjf5u2t1j0",
+      "titleRu": "ИИ-платформа адаптивного обучения IT-навыкам для сотрудников агросектора",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkip00k1injj1gq0qilj",
+      "titleRu": "ИИ-платформа развития компетенций в области агроцифровизации",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkip00k3injjdxwz7809",
+      "titleRu": "ИИ-модель оценки цифровой зрелости и компетенций персонала агропредприятий",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkip00k5injj161gmbxt",
+      "titleRu": "ИИ-система управления знаниями в области агротехнологий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkip00k7injjdmfq1hbg",
+      "titleRu": "ИИ-платформа для сертификации и оценки компетенций специалистов по цифровому земледелию",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkip00k9injjh6lnckve",
+      "titleRu": "ИИ-разработка блокчейн-платформ для интеллектуальной прослеживаемости и анализа цепочки поставок агропродукции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkip00kbinjjq6c1ndra",
+      "titleRu": "ИИ-платформа для создания цифровых экосистем умного сельского хозяйства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkip00kdinjjilfmbkri",
+      "titleRu": "ИИ-платформа проектирования квантовых алгоритмов для оптимизации агропроизводства",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkip00kfinjjupd73zkr",
+      "titleRu": "ИИ‑оптимизация 5G‑сетей для точного земледелия и управления агроданными",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkip00khinjj20wj1pin",
+      "titleRu": "ИИ-платформа дополненной реальности для агронавигации и поддержки полевых работ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkip00kjinjjx1ordgwt",
+      "titleRu": "ИИ-прогнозирование потребности в сельхозтехнике и запчастях по сезонам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkip00klinjjani9dkqu",
+      "titleRu": "ИИ-анализ надежности и рисков поставщиков семян и агрохимикатов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkip00kninjjm5rurmc0",
+      "titleRu": "ИИ-модель прогнозирования цен на удобрения и ГСМ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkip00kpinjjua4yn4mh",
+      "titleRu": "ИИ‑прогнозирование логистических потребностей для уборочной кампании",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkip00krinjjgutn85vf",
+      "titleRu": "ИИ-анализ рисков срыва поставок критически важных ресурсов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkip00ktinjjn1ujy1do",
+      "titleRu": "ИИ‑система автоматизированных закупок расходных материалов для ферм",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkip00kvinjjkqbiv390",
+      "titleRu": "ИИ-бот для автоматического размещения и оптимизации заказов у поставщиков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkip00kxinjjjeowwr4u",
+      "titleRu": "Интеллектуальная роботизация приемки и контроля качества агрохимикатов на основе компьютерного зрения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkip00kzinjjd8ohsm1b",
+      "titleRu": "ИИ‑система автоматизированного управления складскими запасами в агросекторе",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkip00l1injjj1wtbnvl",
+      "titleRu": "ИИ-оптимизация и автоматизированный выбор транспортных маршрутов в цепочке поставок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

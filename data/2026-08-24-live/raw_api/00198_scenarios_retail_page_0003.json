@@ -1,0 +1,275 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwknl069binjjotxjncwk",
+      "titleRu": "ИИ-планирование и моделирование организационной структуры для реализации стратегии ритейла",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknl069dinjje6yxxtlu",
+      "titleRu": "ИИ‑платформа развития стратегического мышления топ-менеджмента в ритейле",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknl069finjjiay3atps",
+      "titleRu": "ИИ-подбор и развитие ключевых талантов для стратегических инициатив в ритейле и e-com",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknl069hinjj5zjqewyc",
+      "titleRu": "ИИ-система оценки готовности розничной компании к стратегическим изменениям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknm069jinjjhkcjqqra",
+      "titleRu": "ИИ-система формирования KPI и мотивации персонала для достижения стратегических целей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknm069linjjh3ngf8tn",
+      "titleRu": "ИИ-генерация инновационных концепций новых форматов магазинов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknm069ninjj7hubjqhz",
+      "titleRu": "ИИ-платформа поиска и оценки инновационных технологий для ритейла",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknm069pinjjc0l6aona",
+      "titleRu": "ИИ-прогнозирование спроса на новые продуктовые категории в ритейле",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknm069rinjjjpw5d1oh",
+      "titleRu": "ИИ-разработка инновационных бизнес-моделей для e-commerce",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknm069tinjjndceamhf",
+      "titleRu": "AI‑платформа оценки перспективности инновационных стартапов для партнерства в ритейле и e-com",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknm069vinjj3rh4wi3r",
+      "titleRu": "ИИ-прогнозирование денежных потоков от продаж с учетом сезонности и трендов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknm069xinjjzmctbkvq",
+      "titleRu": "ИИ-предиктивная аналитика маржинальности товарных категорий",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknm069zinjj54psf1aa",
+      "titleRu": "AI-прогнозирование потребности в оборотном капитале на основе планов продаж и денежных потоков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknm06a1injjcqb0jphu",
+      "titleRu": "AI-анализ и прогнозирование ROI при открытии новых розничных магазинов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknm06a3injjgznx1ut4",
+      "titleRu": "AI-предиктивное моделирование кредитных рисков в B2B-продажах ритейла",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknm06a5injj3bj4hine",
+      "titleRu": "ИИ-автоматизация процессов бюджетирования и финансового планирования",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknm06a7injj65w6irg8",
+      "titleRu": "Интеллектуальная роботизация процессов управленческой отчётности на основе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknm06a9injjrxtc00iv",
+      "titleRu": "ИИ‑система автоматической сверки финансовых данных между учетными системами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknm06abinjj6fx0lrrz",
+      "titleRu": "ИИ‑автоматизация контроля лимитов и бюджетов по подразделениям в ритейле",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknm06adinjjx8iwp759",
+      "titleRu": "Интеллектуальная роботизация процесса закрытия финансового периода с использованием AI-алгоритмов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

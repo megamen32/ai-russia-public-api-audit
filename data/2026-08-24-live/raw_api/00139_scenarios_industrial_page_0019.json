@@ -1,0 +1,270 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkm104frinjj56zphh55",
+      "titleRu": "ИИ-персонализация условий сотрудничества с поставщиками",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm104ftinjjipa00w7w",
+      "titleRu": "ИИ-программы развития и оценки ключевых поставщиков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm104fvinjjy7uak6ze",
+      "titleRu": "ИИ-оптимизация кастомизированных логистических схем для разных типов промышленных грузов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm104fxinjjqpd7icno",
+      "titleRu": "ИИ-персонализированные порталы для взаимодействия с поставщиками",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm104fzinjjwf39pukl",
+      "titleRu": "ИИ-система адаптивной оценки и ранжирования качества поставщиков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm104g1injjcf2o2skn",
+      "titleRu": "Оптимизация портфеля поставщиков промышленного предприятия с помощью AI‑аналитики",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm104g3injjg97uhstp",
+      "titleRu": "Умное управление складскими запасами с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm104g5injjsp4keoo5",
+      "titleRu": "ИИ-оптимизация маршрутов поставок промышленных грузов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm104g7injj992kf8hv",
+      "titleRu": "AI‑система интеллектуального планирования и оптимизации закупок сырья и материалов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm104g9injjurpvu9b5",
+      "titleRu": "AI-оптимизация размещения складов и распределительных центров",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm104gbinjj05xhu5vl",
+      "titleRu": "AI-мониторинг качества поставляемых промышленных материалов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm104gdinjjawfsv9hf",
+      "titleRu": "ИИ-мониторинг соблюдения сроков поставок критически важных компонентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm104gfinjjvwc8d155",
+      "titleRu": "ИИ‑система отслеживания грузов и предиктивного мониторинга цепочки поставок в реальном времени",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm104ghinjjisak2cga",
+      "titleRu": "AI-мониторинг финансового состояния и рисков ключевых поставщиков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm104gjinjj0lwdhb11",
+      "titleRu": "AI-мониторинг соблюдения ESG-стандартов в цепочке поставок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm204glinjjb59bppg0",
+      "titleRu": "ИИ-советник для выбора поставщиков промышленного оборудования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm204gninjjq24o4kok",
+      "titleRu": "ИИ-система поддержки решений по диверсификации и выбору поставщиков",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm204gpinjjxygdgas0",
+      "titleRu": "ИИ-поддержка и оптимизация переговоров с поставщиками",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm204grinjjp4ite6ui",
+      "titleRu": "ИИ-помощник для оценки и управления рисками в цепочке поставок",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm204gtinjjgrfujxtk",
+      "titleRu": "AI-система рекомендаций по оптимизации логистических процессов и цепочек поставок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

@@ -1,0 +1,276 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkia0027injjbwlvv2q6",
+      "titleRu": "ИИ-система мониторинга выполнения стратегических KPI агрохолдинга",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkia0029injjxrc2izio",
+      "titleRu": "AI-платформа мониторинга и контроля реализации программы цифровизации сельхозпредприятий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkia002binjj9va5cv0i",
+      "titleRu": "ИИ-мониторинг соответствия агробизнеса принципам устойчивого развития",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkia002dinjjrdl8l43f",
+      "titleRu": "AI-система мониторинга и анализа прогресса диверсификации агробизнеса",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkia002finjjy7five4j",
+      "titleRu": "ИИ-мониторинг эффективности стратегических агропартнерств и альянсов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkia002hinjjxjl1rh0g",
+      "titleRu": "ИИ-система поддержки принятия стратегических решений о слияниях и поглощениях",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkia002jinjjdnz8kwyq",
+      "titleRu": "AI-DSS для выбора и приоритизации новых рынков сбыта сельхозпродукции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkia002linjj63dhz03w",
+      "titleRu": "ИИ-платформа принятия решений о инвестициях в агротехнологии",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkia002ninjjs9j5dhtm",
+      "titleRu": "ИИ-система поддержки решений по диверсификации сельскохозяйственного производства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkia002pinjjc2ygzmr0",
+      "titleRu": "ИИ-помощник для стратегического планирования агробизнеса в условиях климатических рисков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkia002rinjjb98xpod8",
+      "titleRu": "ИИ-генератор стратегических презентаций для инвесторов агрокомпаний",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkia002tinjjjwyqtlij",
+      "titleRu": "ИИ-система автоматической генерации стратегических отчетов о развитии аграрной отрасли",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkia002vinjj0xvpotme",
+      "titleRu": "Генерация ИИ-сценариев развития агробизнеса и стратегических рекомендаций",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkib002xinjjuoy4h4jn",
+      "titleRu": "ИИ-генерация стратегических планов развития сельскохозяйственных регионов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkib002zinjjnqf8gvgo",
+      "titleRu": "ИИ-генерация концепций и стратегий новых агротехнологических проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkib0031injjxgpj8bgw",
+      "titleRu": "ИИ-система оценки стратегических рисков климатических изменений для агросектора",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkib0033injj9j9qry9y",
+      "titleRu": "ИИ‑модель анализа рисков продовольственной безопасности региона",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkib0035injjcf0flr0f",
+      "titleRu": "ИИ-платформа управления репутационными рисками агрокомпаний",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkib0037injj5jtd28md",
+      "titleRu": "ИИ-система оценки рисков зависимости от импортных агротехнологий и оборудования",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkib0039injjffb8q4td",
+      "titleRu": "ИИ-анализ и прогнозирование системных рисков в развитии сельского хозяйства",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

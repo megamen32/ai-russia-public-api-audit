@@ -1,0 +1,276 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkik00efinjjzhz7gdtx",
+      "titleRu": "ИИ-платформа адаптивного обучения механизаторов работе с современной сельхозтехникой",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkik00ehinjjzftsk6rm",
+      "titleRu": "ИИ‑платформа развития агрономических компетенций и персонализированного обучения специалистов",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkik00ejinjjn0x6ijlq",
+      "titleRu": "ИИ-модель оценки и прогнозирования эффективности работников животноводства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkik00elinjj1ppyqb03",
+      "titleRu": "AI-система управления и рекомендаций по знаниям в растениеводстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkik00eninjjikkdtsjz",
+      "titleRu": "ИИ-платформа виртуальных тренингов по промышленной безопасности для агропредприятий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkik00epinjj30kxm8y6",
+      "titleRu": "ИИ-разработка систем вертикального земледелия нового поколения",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkik00erinjjnp03hmdy",
+      "titleRu": "ИИ-платформа проектирования и управления роботизированными фермами будущего",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkik00etinjj3cx3zawj",
+      "titleRu": "ИИ-система разработки новых биологических средств защиты растений",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkik00evinjjefhx27ys",
+      "titleRu": "ИИ‑решения для полностью автономного животноводства",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkik00exinjj0rbibfmc",
+      "titleRu": "ИИ-проектирование и управление замкнутыми агроэкосистемами (closed-loop фермы)",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkik00ezinjjotz1zt0n",
+      "titleRu": "ИИ-прогнозирование потребности в сезонных работниках для уборочной кампании",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkik00f1injjfjg5bt5b",
+      "titleRu": "ИИ-аналитика текучести кадров и прогноз факторов удержания персонала в сельхозпредприятиях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkik00f3injjke2x3lws",
+      "titleRu": "ИИ-модель прогнозирования карьерного развития специалистов АПК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkik00f5injjd0gi9820",
+      "titleRu": "ИИ-прогнозирование эффективности программ мотивации персонала в агросекторе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkil00f7injjm0dkp21i",
+      "titleRu": "ИИ-анализ демографических трендов и их влияния на кадровую политику",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkil00f9injjejvafkzq",
+      "titleRu": "ИИ-платформа для автоматизированного рекрутинга механизаторов и агрономов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkil00fbinjjyrs2zreb",
+      "titleRu": "ИИ-бот для проведения первичных собеседований с кандидатами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkil00fdinjj13g9ort5",
+      "titleRu": "ИИ-роботизация процесса адаптации новых сотрудников в агрокомпаниях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkil00ffinjjlxmix5yx",
+      "titleRu": "ИИ-система автоматизированного учета и анализа рабочего времени на полевых работах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkil00fhinjjctgpq7js",
+      "titleRu": "ИИ-автоматизация процесса оценки эффективности персонала в агропромышленном комплексе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

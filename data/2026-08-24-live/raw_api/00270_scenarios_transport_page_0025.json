@@ -1,0 +1,185 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkou07pjinjj5h9ytp6l",
+      "titleRu": "Предиктивный анализ и управление технологическими рисками автономных транспортных систем на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkou07plinjj60vsadmg",
+      "titleRu": "Предиктивное управление киберрисками в умном транспорте с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkov07pninjjpvqafrxt",
+      "titleRu": "Предиктивная оценка рисков окупаемости инвестиций в НИОКР с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkov07ppinjjovwun1nl",
+      "titleRu": "Предиктивная аналитика для предотвращения утечек технологических разработок",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkov07prinjjrwkc1ck9",
+      "titleRu": "AI-платформа для персонализированного обучения инженеров новым методам проектирования транспорта",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkov07ptinjjsmi4mgcs",
+      "titleRu": "ИИ-платформы для развития инновационного мышления и симуляции управленческих задач сотрудников в транспортной отрасли",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkov07pvinjjv4ljgvt1",
+      "titleRu": "AI-система для персонализированного развития компетенций по управлению технологическими проектами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkov07pxinjjfkc2ync3",
+      "titleRu": "Создание AI-платформ для управления компетенциями и развития персонала в перспективных технологиях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkov07pzinjjiuausihk",
+      "titleRu": "Предиктивная аналитика на базе ИИ для привлечения и удержания талантливых исследователей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkov07q1injjc1xbimq3",
+      "titleRu": "Разработка прототипов автономных транспортных средств",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkov07q3injjwowceyyw",
+      "titleRu": "Разработка AI-систем для интеллектуального управления городской логистикой",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkov07q5injjoil5fxyb",
+      "titleRu": "Разработка ИИ-решений для устойчивого и интеллектуального транспорта будущего",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkov07q7injjksjppolw",
+      "titleRu": "Разработка интеллектуальных ИИ-платформ для бесшовной интеграции и оптимизации мультимодальных транспортных услуг",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 493
+}

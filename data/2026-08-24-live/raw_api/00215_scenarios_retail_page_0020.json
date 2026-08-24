@@ -1,0 +1,276 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwko206s7injj2oa7tvd5",
+      "titleRu": "ИИ‑система автоматической генерации и проверки договоров с поставщиками",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko206s9injjbtt7t2xy",
+      "titleRu": "ИИ-создание технических заданий и спецификаций на товары",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko206sbinjjyras65f9",
+      "titleRu": "ИИ‑генерация и анализ отчетов по эффективности работы с поставщиками",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko206sdinjj7rhpmpeq",
+      "titleRu": "ИИ-генерация планов закупок и бюджетов на основе прогнозного спроса",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko206sfinjjhvx10cpa",
+      "titleRu": "ИИ-генерация и анализ аналитических отчетов по рынку поставщиков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko206shinjjsjxcc1rl",
+      "titleRu": "AI-система прогнозирования и управления рисками срыва поставок и дефицита товаров",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko206sjinjj1sr7r40q",
+      "titleRu": "ИИ-мониторинг репутационных рисков поставщиков",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko206slinjjv19wqzw9",
+      "titleRu": "ИИ‑предиктивная аналитика геополитических рисков в закупках",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko206sninjj0fzn1wfc",
+      "titleRu": "AI-система выявления мошенничества в закупочных процедурах",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko206spinjj7ducve1h",
+      "titleRu": "ИИ-система автоматического управления валютными и ценовыми рисками в закупках",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko206srinjj2ynpu183",
+      "titleRu": "ИИ-платформа адаптивного обучения закупщиков и категорийных менеджеров",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko206stinjjf55hnul4",
+      "titleRu": "ИИ-платформа для автоматизированной оценки эффективности procurement-специалистов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko206svinjj41h515xt",
+      "titleRu": "ИИ-платформа развития навыков переговоров с поставщиками",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "ASR"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko206sxinjjw9ztzxlg",
+      "titleRu": "ИИ-планирование ротации и развития персонала в закупочных функциях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko206szinjjqwepzxii",
+      "titleRu": "ИИ-система автоматического формирования и персонализации планов развития для категорийных менеджеров",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko206t1injjq8o6r4ka",
+      "titleRu": "ИИ-платформа для управления и оценки поставщиков в цепочке поставок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko206t3injjzsiohfw0",
+      "titleRu": "ИИ-платформа для разработки новых моделей collaborative commerce в цепочке поставок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko306t5injjy4r2k9vy",
+      "titleRu": "ИИ-платформа для оптимизации прямых поставок от производителей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko306t7injj0p1y5tjb",
+      "titleRu": "ИИ-анализ блокчейн-транзакций для прозрачности и оптимизации закупок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko306t9injjooh649jo",
+      "titleRu": "AI-система визуального контроля качества товаров на основе компьютерного зрения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

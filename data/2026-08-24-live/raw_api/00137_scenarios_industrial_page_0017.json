@@ -1,0 +1,273 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwklz04djinjj05r74ab7",
+      "titleRu": "ИИ-мониторинг кибербезопасности промышленных систем управления (ICS/SCADA)",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklz04dlinjjped2yoku",
+      "titleRu": "ИИ-мониторинг и прогнозирование производительности промышленных баз данных",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklz04dninjjs4zvydei",
+      "titleRu": "ИИ-мониторинг и предиктивный контроль состояния промышленных сетей и коммуникаций",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklz04dpinjjyrkxg06e",
+      "titleRu": "ИИ-мониторинг доступности и предиктивный контроль критически важных промышленных приложений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklz04drinjjx1s9bokc",
+      "titleRu": "ИИ-контроль соответствия IT-систем промышленным стандартам кибербезопасности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklz04dtinjjnj5rmkcs",
+      "titleRu": "ИИ-советник для выбора архитектуры промышленных IT-решений на основе LLM",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklz04dvinjjhczkpfzc",
+      "titleRu": "ИИ-система поддержки решений по модернизации промышленной IT-инфраструктуры",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklz04dxinjjs9yvnd6a",
+      "titleRu": "ИИ-платформа для интеллектуального выбора технологий цифровизации производства и поддержки решений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklz04dzinjjd9hlwj06",
+      "titleRu": "ИИ-помощник для планирования и приоритизации промышленных IT-проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklz04e1injjp927br8g",
+      "titleRu": "ИИ-система рекомендаций по интеграции новых промышленных технологий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklz04e3injje1qz9v8m",
+      "titleRu": "Генерация технической документации для промышленных IT-систем на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklz04e5injjx1i0kfpc",
+      "titleRu": "Генерация ИИ-руководств пользователя для промышленного ПО",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklz04e7injjcyczip0q",
+      "titleRu": "ИИ-генерация отчетов о состоянии промышленной IT-инфраструктуры",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklz04e9injjrghitdg5",
+      "titleRu": "Автоматизированное создание и обновление документации по промышленным API с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm004ebinjj6khe9g2b",
+      "titleRu": "ИИ‑генерация и актуализация планов восстановления после сбоев в промышленности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm004edinjjs19dvixs",
+      "titleRu": "ИИ-анализ и прогнозирование рисков кибератак на промышленные системы управления (ICS/SCADA)",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm004efinjj5woagarh",
+      "titleRu": "AI‑оценка рисков отказов критически важных IT‑систем производства",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm004ehinjjf4y8zs1m",
+      "titleRu": "ИИ‑моделирование рисков утечки промышленных данных",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm004ejinjji90u5wrr",
+      "titleRu": "ИИ-анализ рисков несовместимости при модернизации промышленных IT-систем",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm004elinjjbfcbr2im",
+      "titleRu": "ИИ‑модели для оценки рисков нарушения непрерывности производственных процессов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

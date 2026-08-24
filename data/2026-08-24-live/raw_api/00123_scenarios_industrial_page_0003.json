@@ -1,0 +1,277 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkll03xzinjjvr4n86vr",
+      "titleRu": "ИИ-платформа планирования и развития цифровых компетенций персонала в промышленности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkll03y1injjqjwjke8y",
+      "titleRu": "ИИ-стратегия формирования команд для управления умными заводами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkll03y3injjc7mc80yu",
+      "titleRu": "ИИ-платформа для развития лидерских компетенций в Индустрии 4.0",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkll03y5injj9oknkevc",
+      "titleRu": "ИИ-поддержка планирования организационных изменений при цифровой трансформации",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklm03y7injjylsfyw18",
+      "titleRu": "ИИ-стратегия привлечения и удержания IT-талантов в промышленной компании",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklm03y9injj46ncmzxa",
+      "titleRu": "ИИ-стратегия инновационного развития промышленного предприятия",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklm03ybinjj9z4u5ejq",
+      "titleRu": "Планирование внедрения прорывных производственных технологий на основе ИИ‑анализa и цифровых двойников",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklm03ydinjj2qn5x69d",
+      "titleRu": "ИИ-стратегия создания экосистемы промышленных инноваций и новых продуктов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklm03yfinjjux2u5q1i",
+      "titleRu": "Стратегическое планирование развития ИИ‑поддерживаемых цифровых сервисов для промышленности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklm03yhinjji9chae56",
+      "titleRu": "ИИ-стратегия коммерциализации промышленных R&D-разработок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklm03yjinjjjeot282d",
+      "titleRu": "ИИ-прогнозирование ROI инвестиций в промышленную автоматизацию",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklm03ylinjjaqtdrmmw",
+      "titleRu": "AI-анализ финансовой эффективности внедрения цифровых двойников в промышленности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklm03yninjjimdo61lz",
+      "titleRu": "ИИ-моделирование и прогнозирование денежных потоков от IoT-проектов на производстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklm03ypinjj3ox1jdqe",
+      "titleRu": "ИИ-модели прогнозирования затрат на предиктивное обслуживание промышленного оборудования",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklm03yrinjjruz636af",
+      "titleRu": "AI-анализ и прогноз окупаемости инвестиций в промышленную робототехнику",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklm03ytinjjebm44zhs",
+      "titleRu": "Интеллектуальная автоматизация финансового учета производственных активов на базе ИИ и RPA",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklm03yvinjjfexcwkk4",
+      "titleRu": "Интеллектуальная роботизация процессов бюджетирования производственных подразделений с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklm03yxinjjpye1ynw8",
+      "titleRu": "Интеллектуальная автоматизация расчетов амортизации промышленного оборудования с применением ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklm03yzinjjzp26jdkd",
+      "titleRu": "ИИ-система интеллектуальной обработки и автоматизации проверки счетов от поставщиков оборудования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklm03z1injjg5f395jl",
+      "titleRu": "Интеллектуальная RPA-система для управления оборотным капиталом производственных линий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

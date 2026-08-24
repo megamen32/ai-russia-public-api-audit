@@ -1,0 +1,270 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkl503f3injjmgx20wo8",
+      "titleRu": "ИИ-система аналитики и прогнозирования загрузки операционных блоков и планирования хирургических вмешательств",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl503f5injj6zgq2wg7",
+      "titleRu": "AI‑платформа предиктивной аналитики эффективности использования медицинского оборудования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl503f7injjs8i66lp4",
+      "titleRu": "AI‑модель прогнозирования производительности медицинского персонала по отделениям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl503f9injjufvblrzg",
+      "titleRu": "AI-система аналитики качества медицинских процессов и соблюдения клинических протоколов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl503fbinjjzjmarquq",
+      "titleRu": "ИИ-прогнозирование и оптимизация маршрутизации пациентов внутри медицинского учреждения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl503fdinjjgqbwv791",
+      "titleRu": "Интеллектуальная RPA-система оптимизации планирования операций и распределения операционных залов на основе ИИ-прогнозов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl503ffinjjiuxepoqe",
+      "titleRu": "ИИ‑платформа автоматизированного контроля соблюдения медицинских протоколов и стандартов лечения",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl503fhinjjbxb39j7z",
+      "titleRu": "ИИ-ассистент для автоматизированного и оптимизационного управления расписанием медицинского персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl603fjinjjx5lsc7p8",
+      "titleRu": "Интеллектуальная RPA-система мониторинга состояния медоборудования и прогнозирования техобслуживания",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl603flinjjsy7pihi0",
+      "titleRu": "ИИ-система автоматизации документооборота медицинских карт и результатов обследований",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl603fninjjg6uhzrpk",
+      "titleRu": "ИИ-система персонализации медицинских протоколов лечения под индивидуальные особенности пациентов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl603fpinjjckn79dxh",
+      "titleRu": "AI-платформа персонализации реабилитационных планов после хирургических вмешательств",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl603frinjjqu54yv9k",
+      "titleRu": "ИИ‑модель персонализированных схем медикаментозной терапии с учетом аллергий и противопоказаний",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl603ftinjjol9jcswa",
+      "titleRu": "AI-система персонализации программ послеоперационного наблюдения для различных категорий пациентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl603fvinjj5fz8ld62",
+      "titleRu": "ИИ-система персонализации маршрутов диагностического обследования на основе симптомов пациента",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl603fxinjj9oo1i7zk",
+      "titleRu": "ИИ-система планирования и оптимизации загрузки медицинского персонала для минимизации простоев",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl603fzinjjz4tikava",
+      "titleRu": "ИИ-платформа оптимизации логистики медикаментов и расходных материалов в отделениях",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl603g1injjvhh3onys",
+      "titleRu": "AI-модель оптимизации пропускной способности диагностических кабинетов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl603g3injjzbdh6xfk",
+      "titleRu": "ИИ-система оптимизации энергопотребления медицинского оборудования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl603g5injjdlzllp3d",
+      "titleRu": "ИИ-система оптимизации маршрутов перемещения пациентов в стационаре для сокращения времени ожидания",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

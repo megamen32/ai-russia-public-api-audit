@@ -1,0 +1,278 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwko806zzinjjnfzr1r4t",
+      "titleRu": "Предиктивный мониторинг и аналитика стратегических KPI на основе ИИ для транспортных компаний",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko90701injjrs8e63e7",
+      "titleRu": "Предиктивный ИИ-контроль реализации программы цифровой трансформации",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko90703injj4q9cabvs",
+      "titleRu": "Предиктивный ИИ-мониторинг эффективности слияний и поглощений",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko90705injjgq5vg9rs",
+      "titleRu": "AI-контроль соблюдения ESG-стандартов в транспортной деятельности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko90707injj0wg3dwia",
+      "titleRu": "ИИ-анализ для мониторинга и прогнозирования конкурентной позиции на маршрутах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko90709injjlshb7iab",
+      "titleRu": "AI-система для стратегического планирования и выбора новых направлений развития в транспортной отрасли",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko9070binjjflx73jgv",
+      "titleRu": "Предиктивная AI-платформа для поддержки принятия решений по слияниям и поглощениям",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko9070dinjji2dvjpvn",
+      "titleRu": "ИИ-система для предиктивного анализа и оптимизации стратегических инициатив",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko9070finjjlsiyojb9",
+      "titleRu": "ИИ-платформа для предиктивного анализа и выбора инновационных технологий в транспорте",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko9070hinjjjy4k7463",
+      "titleRu": "ИИ-система поддержки решений по географической экспансии",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko9070jinjj9cfcofn7",
+      "titleRu": "Генерация инвестиционных презентаций для транспортных компаний на базе ИИ-аналитики",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko9070linjj2s9v38ic",
+      "titleRu": "ИИ-генерация аналитических отчетов о состоянии отрасли",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko9070ninjjp6v33pbm",
+      "titleRu": "ИИ-генерация концепций новых транспортных услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko9070pinjjwjf3vxo6",
+      "titleRu": "ИИ-оптимизация и генерация дорожных карт технологического развития",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko9070rinjjw6wplmpp",
+      "titleRu": "Генерация аналитических сценариев развития транспортной отрасли с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko9070tinjjup7p3722",
+      "titleRu": "Предиктивный анализ и управление стратегическими рисками цифровизации транспорта на основе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko9070vinjjqidigsbu",
+      "titleRu": "AI-мониторинг и предиктивный анализ геополитических рисков для международных перевозок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko9070xinjjymictekx",
+      "titleRu": "Предиктивное управление рисками климатических изменений для транспортной инфраструктуры на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko9070zinjjpkbfhjqx",
+      "titleRu": "AI-мониторинг и прогнозирование рисков технологических прорывов конкурентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko90711injjh23mur2c",
+      "titleRu": "AI-мониторинг и предиктивный анализ репутационных рисков в стратегических проектах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 493
+}

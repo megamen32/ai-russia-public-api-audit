@@ -1,0 +1,272 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkjr01tjinjjmys17tb6",
+      "titleRu": "ИИ-консультант для абитуриентов по выбору персонализированной образовательной траектории",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjr01tlinjjecim3pov",
+      "titleRu": "ИИ-помощник для индивидуального сопровождения корпоративных клиентов в образовательных проектах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjs01tninjjap6dgbak",
+      "titleRu": "ИИ-система персональных рекомендаций дополнительных курсов на основе профиля и поведения студента",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjs01tpinjjdb23aw41",
+      "titleRu": "ИИ-персонализация коммуникаций с выпускниками для программ MBA и Executive образования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjs01trinjj9g116w3p",
+      "titleRu": "ИИ-персонализация пакетов образовательных услуг для различных сегментов клиентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjs01ttinjjju53l0ob",
+      "titleRu": "ИИ-оптимизация воронки продаж образовательных программ с учетом сезонности набора",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjs01tvinjjp50m2kze",
+      "titleRu": "ИИ-система оптимального распределения ресурсов между различными направлениями набора студентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjs01txinjj59d2dec5",
+      "titleRu": "ИИ-модуль оптимизации работы приемной комиссии и консультантов по образовательным программам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjs01tzinjjo6ueqo2d",
+      "titleRu": "ИИ-планировщик загрузки преподавателей для оптимизации коммерческих образовательных проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjs01u1injjo21es56l",
+      "titleRu": "AI-система динамического ценообразования на образовательные услуги в зависимости от спроса",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjs01u3injjcrzw659f",
+      "titleRu": "AI-система мониторинга эффективности воронки потенциальных студентов и конверсии заявок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjs01u5injjvp5pd32b",
+      "titleRu": "ИИ-контроллер выполнения планов набора по образовательным программам и направлениям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjs01u7injj9f9v00m8",
+      "titleRu": "AI-модуль мониторинга и предиктивного анализа удовлетворенности студентов образовательными услугами университета",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjs01u9injjxxn9rg95",
+      "titleRu": "AI-система контроля качества консультаций для абитуриентов и их родителей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjs01ubinjj1qa28dd3",
+      "titleRu": "ИИ-аналитика эффективности партнерских программ с школами и образовательными центрами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjs01udinjjg7bvjfsf",
+      "titleRu": "ИИ-система поддержки решений по развитию новых образовательных направлений и специальностей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjs01ufinjjbekffze3",
+      "titleRu": "AI-модуль поддержки решений по партнерствам с международными образовательными организациями",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjs01uhinjj5hwexa69",
+      "titleRu": "ИИ-система поддержки решений по инвестициям в развитие коммерческих образовательных продуктов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjs01ujinjjn7ki2vvb",
+      "titleRu": "ИИ-ассистент для выбора и приоритизации новых регионов развития образовательных услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjs01ulinjjdbsanrve",
+      "titleRu": "ИИ‑платформа поддержки решений по диверсификации источников доходов университета",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

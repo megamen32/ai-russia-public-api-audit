@@ -1,0 +1,272 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkog078vinjj8h6j3y9e",
+      "titleRu": "AI-генерация юридических документов для грузоперевозок с учетом специфики груза",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkog078xinjjweq35c5r",
+      "titleRu": "AI-генерирование маркетинговых материалов для продвижения новых транспортных услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkog078zinjjbozb0uo7",
+      "titleRu": "ИИ-автоматизация генерации аналитических отчетов по работе с клиентами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkog0791injj192jtkza",
+      "titleRu": "Прогнозирование и автоматизированная оценка кредитных рисков новых клиентов с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkog0793injjmtm6z943",
+      "titleRu": "ИИ-анализ и прогнозирование рисков неплатежей и просрочек платежей в транспортной логистике",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkog0795injjhcjmezdr",
+      "titleRu": "Предиктивное управление операционными рисками и безопасностью при перевозке опасных грузов на основе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkog0797injj3pdjvg32",
+      "titleRu": "Предиктивная аналитика рисков для страхования ответственности в международных перевозках",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkog0799injj06s26hds",
+      "titleRu": "ИИ-анализ для проактивного управления репутационными рисками при работе с клиентами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkog079binjj9yzeaw8g",
+      "titleRu": "AI-оптимизация обучения менеджеров по продажам специфике транспортных услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoh079dinjj2nvgcm6o",
+      "titleRu": "AI-симулятор переговоров и аналитики для развития менеджеров по работе с корпоративными клиентами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "ASR"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoh079finjjat2z0978",
+      "titleRu": "AI-анализ и персонализация развития компетенций по управлению ключевыми клиентами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoh079hinjjbeun0h3a",
+      "titleRu": "Предиктивная система наставничества на базе ИИ для повышения эффективности отдела продаж в логистике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoh079jinjj5rhoxosw",
+      "titleRu": "Использование ИИ для предиктивной аналитики удержания и персонализации программ мотивации продавцов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoh079linjjeed2a5h9",
+      "titleRu": "Разработка ИИ-оптимизированных логистических продуктов для e-commerce",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoh079ninjjfqyhnpas",
+      "titleRu": "ИИ-оптимизация логистики и автономная доставка в труднодоступные районы",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoh079pinjj1yh1sr3m",
+      "titleRu": "Разработка ИИ-платформ самообслуживания клиентов для персонализации и предиктивной поддержки",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoh079rinjji06tevo3",
+      "titleRu": "ИИ-моделирование и оптимизация экологичных транспортных решений для корпораций",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoh079tinjjfr4rty50",
+      "titleRu": "Разработка ИИ-решений для персонализации и динамического ценообразования в подписочных моделях логистики",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoh079vinjj3exczfws",
+      "titleRu": "AI-прогнозирование загрузки транспортных средств по маршрутам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoh079xinjjcim5ftmo",
+      "titleRu": "Предиктивная аналитика и оптимизация использования подвижного состава",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 493
+}

@@ -1,0 +1,268 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwklw04a7injjb5vwg0m1",
+      "titleRu": "ИИ-персонализация программ развития и обучения промышленных инженеров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklw04a9injjvvmauopv",
+      "titleRu": "ИИ-система персонализированных планов карьерного роста для сотрудников цифровой промышленности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklw04abinjjowawmkr0",
+      "titleRu": "ИИ-платформа для кастомизированных мотивационных программ для разных категорий персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklw04adinjjc21aiqlq",
+      "titleRu": "ИИ‑персонализация обучения персонала работе с новыми технологиями",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklw04afinjjk6jt51qf",
+      "titleRu": "AI‑адаптивные системы оценки производительности сотрудников на промышленных предприятиях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklw04ahinjjpsnooi43",
+      "titleRu": "Оптимизация численности персонала с помощью ИИ при внедрении автоматизации",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklw04ajinjjy6bopccz",
+      "titleRu": "ИИ‑система оптимизации и планирования смен на автоматизированном производстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklw04alinjjn88s3wdd",
+      "titleRu": "Оптимизация затрат на обучение персонала новым технологиям с помощью ИИ‑аналитики и персонализированных траекторий обучения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklw04aninjjyqbpfonm",
+      "titleRu": "ИИ-система оптимального распределения задач между людьми и промышленными роботами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklw04apinjjhfahfype",
+      "titleRu": "Оптимизация структуры команд для управления умными заводами с помощью ИИ-аналитики",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklw04arinjjaagm7ltb",
+      "titleRu": "ИИ-мониторинг адаптации сотрудников к цифровым технологиям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklx04atinjjdd84x35q",
+      "titleRu": "ИИ-контроль соблюдения техники безопасности на автоматизированном производстве",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklx04avinjjyput4ld3",
+      "titleRu": "ИИ-мониторинг эффективности обучения промышленным технологиям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklx04axinjjb15h3u9s",
+      "titleRu": "ИИ-мониторинг психологического климата персонала при цифровой трансформации",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklx04azinjjzhvfdonu",
+      "titleRu": "AI-мониторинг качества работы операторов автоматизированных систем",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklx04b1injj8yjm9kn8",
+      "titleRu": "ИИ-советник для принятия кадровых решений в промышленности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklx04b3injjxb38bfum",
+      "titleRu": "ИИ-система поддержки решений по реорганизации штата при внедрении автоматизации",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklx04b5injjfxrgy329",
+      "titleRu": "ИИ-система поддержки отбора кандидатов на технические позиции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklx04b7injjpcfk65yy",
+      "titleRu": "ИИ-ассистент для планирования и оптимизации программ переобучения персонала в промышленности",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklx04b9injja7887dxi",
+      "titleRu": "ИИ-система рекомендаций по развитию цифровых компетенций персонала",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

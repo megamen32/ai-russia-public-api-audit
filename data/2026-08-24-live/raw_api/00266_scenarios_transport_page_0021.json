@@ -1,0 +1,278 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkor07l3injjogljq07o",
+      "titleRu": "Интеллектуальная автоматизация подготовки лицензионных документов для перевозок с использованием AI",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "NLP",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkor07l5injjwo3puk0q",
+      "titleRu": "Интеллектуальная автоматизация мониторинга соблюдения трудового законодательства",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkor07l7injjg42bp13j",
+      "titleRu": "Автоматизированный ИИ-анализ и проверка договоров на соответствие законодательству",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkor07l9injjwe02uc0v",
+      "titleRu": "Интеллектуальная автоматизация процессов регистрации транспортных средств",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkor07lbinjjcrj20tmi",
+      "titleRu": "Интеллектуальная автоматизация подготовки отчетности для контролирующих органов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkor07ldinjjfrfr3qqy",
+      "titleRu": "ИИ для персонализированного обучения сотрудников транспортной компании комплаенс-требованиям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkor07lfinjjvzmdh8ro",
+      "titleRu": "ИИ-ассистент для динамической персонализации договоров под специфику перевозок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkor07lhinjj1ueq6lsu",
+      "titleRu": "ИИ-ассистент для персонализированного формирования правовых схем в международных транспортных проектах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkor07ljinjjrs12gh2z",
+      "titleRu": "AI-платформа для персонализированного информирования об изменениях в транспортном законодательстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkor07llinjjb0zet5t1",
+      "titleRu": "ИИ-оптимизация и автоматизация правового сопровождения и комплаенса в транспортных операциях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkor07lninjj8tgb7qia",
+      "titleRu": "ИИ-анализ и оптимизация затрат на внешнее юридическое консультирование",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkor07lpinjjpddsx85d",
+      "titleRu": "Интеллектуальная автоматизация процессов получения разрешений и лицензий",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "NLP",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkor07lrinjjjkrs9wa7",
+      "titleRu": "AI-оптимизация и предиктивный анализ портфеля судебных дел и претензий в транспорте",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkor07ltinjj1zi9qm20",
+      "titleRu": "Предиктивная аналитика для оптимизации инвестиций в комплаенс-контроль",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkor07lvinjjditxrwn0",
+      "titleRu": "AI-мониторинг и контроль соблюдения ПДД и стандартов безопасности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkor07lxinjjvdr1ig5o",
+      "titleRu": "Интеллектуальный мониторинг и контроль экологических требований для транспортных средств",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkor07lzinjjdwge39wr",
+      "titleRu": "ИИ-анализ и мониторинг рисков нарушения антимонопольного законодательства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkor07m1injj2ym52ga5",
+      "titleRu": "Автоматизированный ИИ-контроль соответствия международным стандартам перевозок",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkor07m3injjzl7r08f8",
+      "titleRu": "ИИ-мониторинг и аудит соблюдения требований по защите персональных данных",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkor07m5injjptdp5eh1",
+      "titleRu": "Предиктивная ИИ-система для структурирования транспортных сделок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 493
+}

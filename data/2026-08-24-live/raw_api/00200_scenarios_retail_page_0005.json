@@ -1,0 +1,273 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwknn06bjinjju4t6o8wq",
+      "titleRu": "ИИ-генерация и автоматизация подготовки финансовых отчетов и презентаций для руководства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknn06blinjj708n5lwv",
+      "titleRu": "ИИ-генерация бюджетных планов и финансовых прогнозов для ритейла",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknn06bninjjpneth7h2",
+      "titleRu": "ИИ-генерация пояснительных записок к финансовой отчетности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknn06bpinjjgc501v7t",
+      "titleRu": "Генерация инвестиционных меморандумов на основе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknn06brinjjdrohcwuq",
+      "titleRu": "ИИ-генерация финансовых дашбордов и аналитических справок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknn06btinjjmtdn6ku6",
+      "titleRu": "AI-система раннего предупреждения о финансовых рисках и угрозах",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkno06bvinjjrxef6vaw",
+      "titleRu": "ИИ-мониторинг подозрительных финансовых операций",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkno06bxinjjzalt5yo6",
+      "titleRu": "ИИ‑предиктивная аналитика кредитных и валютных рисков",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkno06bzinjjelf9s2zo",
+      "titleRu": "AI-система выявления и предотвращения мошенничества в финансовых операциях",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkno06c1injjluz85j9b",
+      "titleRu": "AI‑модели для автоматической оценки финансовой устойчивости и рисков поставщиков",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkno06c3injjpd381wkp",
+      "titleRu": "ИИ-платформа адаптивного обучения и аттестации финансовых специалистов в ритейле",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkno06c5injj4cmr5szz",
+      "titleRu": "ИИ-система автоматизированной оценки компетенций финансовых аналитиков",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkno06c7injjdnlbr8pi",
+      "titleRu": "ИИ-система расчёта и оптимизации KPI-мотивации финансового персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkno06c9injjkn3yhl99",
+      "titleRu": "ИИ-планирование карьерных траекторий в финансовом департаменте",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkno06cbinjjvhl9v0fd",
+      "titleRu": "ИИ-платформа автоматического формирования индивидуальных планов развития сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkno06cdinjje9gnwpas",
+      "titleRu": "Разработка инновационных финансовых продуктов для клиентов с использованием ИИ-аналитики и персонализации",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkno06cfinjjpbi8sss8",
+      "titleRu": "ИИ-модели для динамического финансирования и оптимизации товарных запасов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkno06chinjj8428w6p1",
+      "titleRu": "AI-платформа для управления ликвидностью в реальном времени и прогноза денежного потока",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkno06cjinjjzjk2wn8j",
+      "titleRu": "ИИ‑поддерживаемая разработка финтех-решений для e-commerce (скоринг, антифрод, персонализированные финуслуги)",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkno06clinjj5g0ls60x",
+      "titleRu": "ИИ-платформа для продвинутой финансовой аналитики и прогнозирования показателей ритейла",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

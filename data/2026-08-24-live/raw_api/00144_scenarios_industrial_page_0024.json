@@ -1,0 +1,270 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkm604lbinjj93rw6ije",
+      "titleRu": "ИИ-поддержка персонализированных программ инновационного развития клиентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm604ldinjjavlc8i8g",
+      "titleRu": "ИИ для формирования индивидуальных траекторий исследований научных групп",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm604lfinjjg0lgnm4y",
+      "titleRu": "ИИ‑генерация кастомизированных методик экспериментов под конкретные задачи R&D",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm604lhinjjkmaqu079",
+      "titleRu": "ИИ‑система персонализированной мотивации и поощрения исследователей в R&D",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm604ljinjjgumg18dl",
+      "titleRu": "ИИ-оптимизация и персонализация процессов коммерциализации промышленных разработок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm604llinjj83uqlqfm",
+      "titleRu": "ИИ-оптимизация портфеля промышленных R&D-проектов и распределения ресурсов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm604lninjjjdx6b4fp",
+      "titleRu": "ИИ-система оптимизации распределения ресурсов между исследовательскими направлениями",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm604lpinjjq2n53ufh",
+      "titleRu": "ИИ-оптимизация загрузки научного оборудования и планирования работы лабораторий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm604lrinjju8usxhn5",
+      "titleRu": "ИИ-система интеллектуального планирования экспериментов и испытаний в R&D",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm604ltinjj1yqthzlu",
+      "titleRu": "ИИ-оптимизация затрат на промышленные исследования и разработки",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm604lvinjjwunh1kug",
+      "titleRu": "ИИ-мониторинг прогресса промышленных R&D-проектов в режиме реального времени",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm604lxinjjh5lx3rwh",
+      "titleRu": "ИИ-контроль качества в промышленных исследованиях и экспериментах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm604lzinjj2b4yv3q6",
+      "titleRu": "AI-мониторинг и прогнозирование KPI инновационной активности промышленного предприятия",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm604m1injjdby06kdz",
+      "titleRu": "AI-мониторинг соблюдения этических стандартов в научно-исследовательских проектах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm604m3injjufqh1hya",
+      "titleRu": "ИИ-мониторинг и контроль безопасности при проведении промышленных экспериментов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm604m5injjw9wbel1v",
+      "titleRu": "ИИ-советник для выбора приоритетных направлений промышленных исследований и разработок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm604m7injjslpqidsc",
+      "titleRu": "ИИ-система поддержки решений по коммерциализации инноваций в промышленности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm604m9injjoclryu04",
+      "titleRu": "ИИ-система для интеллектуального планирования и оптимизации научных экспериментов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm604mbinjj2ozrqp3r",
+      "titleRu": "ИИ-помощник для оценки перспективности R&D проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm604mdinjja54auady",
+      "titleRu": "AI-система рекомендаций по развитию и приоритизации промышленных технологий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

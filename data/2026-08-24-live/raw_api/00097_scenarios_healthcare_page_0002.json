@@ -1,0 +1,277 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkkx0353injjo39diazs",
+      "titleRu": "AI‑система мониторинга и прогнозирования выполнения стратегических KPI медучреждения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkx0355injj801aupux",
+      "titleRu": "ИИ-платформа для мониторинга и контроля реализации долгосрочных программ модернизации больницы",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkx0357injjdb3wccab",
+      "titleRu": "ИИ-модель мониторинга и прогнозирования стратегических рисков развития частной клиники",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkx0359injjfe22x38c",
+      "titleRu": "AI-платформа мониторинга соответствия развития медцентра государственным программам здравоохранения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkx035binjj8c1prsy2",
+      "titleRu": "ИИ-система мониторинга эффективности стратегических партнерств между медучреждениями",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkx035dinjjm8rjfzal",
+      "titleRu": "ИИ-платформа поддержки стратегических решений по запуску и развитию новых медицинских направлений",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkx035finjjaq6mtrzi",
+      "titleRu": "ИИ-платформа поддержки решений по M&A в сфере здравоохранения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkx035hinjj4t3hw6v6",
+      "titleRu": "ИИ-модель поддержки стратегических решений по инвестициям в телемедицинские технологии",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkx035jinjjs3752g75",
+      "titleRu": "ИИ-система поддержки решений по географической экспансии медицинской сети",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkx035linjjphv189e4",
+      "titleRu": "ИИ-поддержка стратегического планирования и приоритизации научно-исследовательских проектов клиники",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkx035ninjjg2f0nui0",
+      "titleRu": "ИИ-система генерации стратегических презентаций развития медучреждения для инвесторов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkx035pinjjwd5wjh31",
+      "titleRu": "ИИ-платформа для автоматизированной генерации стратегических планов развития медицинских отделений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkx035rinjjdar5a3h2",
+      "titleRu": "ИИ-модель генерации аналитических отчетов о рыночном позиционировании клиники",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkx035tinjjsa4z3upc",
+      "titleRu": "ИИ-платформа для генерации стратегических roadmap внедрения инновационных медицинских технологий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkx035vinjjmywwybo8",
+      "titleRu": "ИИ-платформа для генерации стратегических концепций развития междисциплинарных медицинских центров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkx035xinjjinroitvs",
+      "titleRu": "ИИ-система управления стратегическими рисками репутации медицинского учреждения",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkx035zinjjeh0tuymp",
+      "titleRu": "ИИ‑платформа анализа рисков долгосрочных инвестиций в медицинские технологии",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkx0361injjzjm7xwim",
+      "titleRu": "ИИ-модель управления рисками стратегического планирования здравоохранения в условиях эпидемий",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkx0363injjxl94n5sn",
+      "titleRu": "ИИ-система анализа и прогнозирования рисков стратегических партнерств с зарубежными медицинскими организациями",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkx0365injjwuepihxa",
+      "titleRu": "ИИ-решение управления рисками цифровой трансформации медучреждения",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

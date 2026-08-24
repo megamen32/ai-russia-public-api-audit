@@ -1,0 +1,276 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwknk0687injjta6g1gij",
+      "titleRu": "ИИ-мониторинг выполнения стратегических целей по развитию e-commerce",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknk0689injje6bznwzr",
+      "titleRu": "AI-контроль эффективности стратегических инициатив по цифровой трансформации в ритейле",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknk068binjju9rpjnd7",
+      "titleRu": "AI-мониторинг конкурентных позиций и цен на ключевых рынках в реальном времени",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknk068dinjj15yo3gam",
+      "titleRu": "ИИ-мониторинг и прогноз достижения стратегических показателей клиентского опыта",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknl068finjjm3ntu6wb",
+      "titleRu": "ИИ-мониторинг эффективности ESG-стратегий и устойчивого развития в рознице",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknl068hinjji18y58hz",
+      "titleRu": "ИИ-система поддержки решений о выходе на новые рынки на основе продвинутой аналитики данных",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknl068jinjjoek2kuc4",
+      "titleRu": "ИИ-поддержка принятия решений по стратегическим партнёрствам и альянсам в ритейле",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknl068linjjo3qj4pkw",
+      "titleRu": "ИИ-поддержка решений по M&A конкурентов в ритейле и e-com",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknl068ninjjyh6plakq",
+      "titleRu": "AI-система рекомендаций по стратегическим инвестициям в новые технологии",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknl068pinjjwy5d0dcs",
+      "titleRu": "ИИ-ассистент для стратегического выбора и оптимизации сети магазинов (открытие/закрытие точек)",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknl068rinjjjhskd3em",
+      "titleRu": "ИИ‑генерация стратегических презентаций для совета директоров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknl068tinjjxhitt4ch",
+      "titleRu": "ИИ-создание стратегических отчетов о состоянии рынка и трендах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknl068vinjj4v18d2qt",
+      "titleRu": "Использование генеративного ИИ для подготовки аналитических материалов и сценариев развития в стратегическом планировании ритейла",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknl068xinjjuyl5kewk",
+      "titleRu": "Автоматическая генерация roadmap развития компании с помощью ИИ на основе внутренних и рыночных данных",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknl068zinjjcx00hdoh",
+      "titleRu": "ИИ-генерация сценариев развития ритейл-бизнеса для стратегического планирования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknl0691injjn8vrpwqu",
+      "titleRu": "ИИ-предиктивная аналитика стратегических рисков изменения потребительского спроса",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknl0693injjsumpkqwf",
+      "titleRu": "ИИ-система раннего предупреждения о конкурентных угрозах",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknl0695injjnqjddy9b",
+      "titleRu": "ИИ‑анализ и прогнозирование геополитических рисков для международной экспансии ритейл-сети",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknl0697injjhhorbuob",
+      "titleRu": "ИИ-система мониторинга и управления репутационными рисками бренда в digital-среде",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknl0699injjznfge5qt",
+      "titleRu": "ИИ-прогнозирование регуляторных рисков для стратегического планирования в ритейле и e-com",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

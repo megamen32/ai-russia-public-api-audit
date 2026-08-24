@@ -1,0 +1,281 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkm504k7injj8re9xdda",
+      "titleRu": "ИИ-платформа для адаптивного обучения промышленного персонала основам правового комплаенса",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm504k9injj4a0zjdvp",
+      "titleRu": "ИИ-платформа для развития правовых компетенций у технических специалистов",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm504kbinjj4tq56ws0",
+      "titleRu": "Оптимизация планирования правовых команд на промышленных предприятиях с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm504kdinjjr4mbrqkd",
+      "titleRu": "ИИ‑подход к формированию и мониторингу культуры комплаенса в промышленной компании",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm504kfinjja9df58n0",
+      "titleRu": "ИИ-платформа для развития экспертизы сотрудников в области промышленного права",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm504khinjjqtqhwff7",
+      "titleRu": "ИИ‑решения LegalTech для правового сопровождения промышленного сектора",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm504kjinjjvowdo5g0",
+      "titleRu": "ИИ-платформа на блокчейне для автоматизации промышленных правовых и комплаенс-процессов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm504klinjjnryzo9g9",
+      "titleRu": "Внедрение ИИ в управление промышленной интеллектуальной собственностью",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm504kninjjx9hxxxva",
+      "titleRu": "ИИ-платформа для промышленного комплаенса и мониторинга регуляторных требований",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm504kpinjjotalu59y",
+      "titleRu": "ИИ-платформа для разработки инновационных правовых инструментов Индустрии 4.0",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm504krinjjifg0y6ok",
+      "titleRu": "ИИ-прогнозирование технологических трендов в промышленности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm504ktinjja70086h6",
+      "titleRu": "ИИ-анализ патентных ландшафтов для промышленных инноваций и прогнозирования трендов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm504kvinjjh8jhktqa",
+      "titleRu": "ИИ-моделирование жизненного цикла промышленных технологий и прогнозирование их эффективности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm504kxinjj00u0ikx7",
+      "titleRu": "Прогнозирование ROI инвестиций в промышленные R&D проекты с помощью моделей машинного обучения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm504kzinjjgu96wv5t",
+      "titleRu": "ИИ-аналитика конкурентной среды в области промышленных инноваций и прогнозирование технологических трендов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm504l1injj5empbuhe",
+      "titleRu": "ИИ-автоматизация управления промышленными R&D-проектами (интеллектуальные workflow и приоритизация)",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm504l3injjcpdmfjco",
+      "titleRu": "ИИ-роботизация анализа научно‑технической литературы и патентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm504l5injjl88njvwv",
+      "titleRu": "ИИ‑автоматизация подачи и обработки заявок на промышленные патенты",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm604l7injjgp44c14g",
+      "titleRu": "ИИ-система интеллектуальной автоматизации экспериментального планирования в R&D",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm604l9injjwaefgg64",
+      "titleRu": "ИИ‑RPA для управления лабораторными данными и результатами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

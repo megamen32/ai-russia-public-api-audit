@@ -1,0 +1,273 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkic004finjjzvcvjhf4",
+      "titleRu": "ИИ-платформа персонализированного финансового планирования для фермеров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkic004hinjjsun85jlx",
+      "titleRu": "ИИ-система индивидуальных кредитных предложений и скоринга для сельхозпроизводителей",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkic004jinjj50tvdjlu",
+      "titleRu": "ИИ-помощник по оптимизации налогов для сельскохозяйственных хозяйств и кооперативов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkic004linjjwzstpd5f",
+      "titleRu": "AI‑система персонализированного управления страховыми рисками в АПК",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkic004ninjjao8s3xkq",
+      "titleRu": "ИИ-консультант по выбору оптимальной схемы финансирования техники",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkic004pinjjntro0mqx",
+      "titleRu": "ИИ-оптимизация структуры финансирования и распределения капитала агропроектов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkic004rinjje3ajeukh",
+      "titleRu": "ИИ-система оптимального распределения капитальных вложений по направлениям в сельском хозяйстве",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkic004tinjjimpuru33",
+      "titleRu": "ИИ-модель оптимизации оборотного капитала с учетом циклов выращивания",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkic004vinjjv4u4iijx",
+      "titleRu": "AI-алгоритм оптимального хеджирования ценовых рисков на сельхозпродукцию",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkic004xinjjkqacljom",
+      "titleRu": "ИИ-оптимизация налоговой нагрузки агрохолдингов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkic004zinjjxz99b3lw",
+      "titleRu": "ИИ-система мониторинга финансовых показателей в режиме реального времени",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkic0051injjigx50hpu",
+      "titleRu": "ИИ-платформа контроля исполнения бюджетов и прогнозирования отклонений по подразделениям агрохолдинга",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkic0053injjodhi2v9c",
+      "titleRu": "ИИ-мониторинг ликвидности и платежеспособности сельхозпредприятий",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkic0055injj46u2pfim",
+      "titleRu": "AI-система мониторинга эффективности использования государственных субсидий в АПК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkic0057injjq71qru7q",
+      "titleRu": "ИИ-контроль соблюдения финансовых ковенантов по кредитным договорам",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkic0059injjjee4alst",
+      "titleRu": "ИИ-платформа поддержки решений по привлечению инвестиций в агропроекты на основе предиктивной аналитики",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkic005binjj8beu7r7r",
+      "titleRu": "AI-DSS для выбора оптимальных схем кредитования сезонных сельхозработ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkic005dinjjqljjkx0c",
+      "titleRu": "ИИ-платформа поддержки решений по реструктуризации долговых обязательств агропредприятий",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkid005finjjnrh4qb8v",
+      "titleRu": "AI-система поддержки решений по страхованию урожая и сельхозтехники",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkid005hinjjlh632y3l",
+      "titleRu": "ИИ-помощник для оценки и принятия решений о листинге агрокомпаний на бирже",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

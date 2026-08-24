@@ -1,0 +1,278 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkiv00rrinjjjyedsmaq",
+      "titleRu": "ИИ-генератор научных отчетов по результатам исследований",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiv00rtinjj3vvgqbhl",
+      "titleRu": "Генерация ИИ-текстов для автоматического описания новых сортов культур",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiv00rvinjj3ezefxus",
+      "titleRu": "ИИ-система генерации заявок на гранты и государственное финансирование",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiv00rxinjjfgtvauhl",
+      "titleRu": "ИИ-генерация и обработка патентных описаний в агротехнологиях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiv00rzinjjlta7yigu",
+      "titleRu": "ИИ-генерация рекомендаций по внедрению инновационных агротехнологий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiv00s1injj0j1jbsgc",
+      "titleRu": "ИИ-система оценки рисков неудачи R&D проектов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiv00s3injjze9tfzwh",
+      "titleRu": "AI‑модель анализа биобезопасности и рисков внедрения новых агротехнологий",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiw00s5injjgos1p8ou",
+      "titleRu": "ИИ-платформа управления рисками утечки научных данных",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiw00s7injjvx2baqmx",
+      "titleRu": "ИИ-система оценки экологических рисков инновационных агротехнологий",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiw00s9injjx20zehxq",
+      "titleRu": "ИИ-анализ рисков нарушения патентного законодательства",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiw00sbinjj5m5w4sbm",
+      "titleRu": "ИИ-платформа развития исследовательских компетенций ученых АПК на базе персонализированных рекомендаций и аналитики",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiw00sdinjj4m8gl4wx",
+      "titleRu": "ИИ-платформа управления знаниями для R&D в сельском хозяйстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiw00sfinjj1c3p38ej",
+      "titleRu": "ИИ-модель оценки эффективности и потенциала исследовательских команд в агроинновациях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiw00shinjj7mco4l4p",
+      "titleRu": "ИИ-система подбора и формирования междисциплинарных научных коллективов",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiw00sjinjjnltwok2t",
+      "titleRu": "ИИ‑платформа для обучения сотрудников инновационному мышлению в агробизнесе",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiw00slinjja7bpopdy",
+      "titleRu": "ИИ-разработка новых методов генетического редактирования растений",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiw00sninjjcdur1o4z",
+      "titleRu": "ИИ-платформа проектирования биосенсоров для мониторинга здоровья растений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiw00spinjjbesm476y",
+      "titleRu": "ИИ-система разработки наноматериалов для точного внесения удобрений",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiw00srinjjwu5rkxaz",
+      "titleRu": "ИИ-модели для проектирования и оптимизации систем искусственного фотосинтеза в сельском хозяйстве",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiw00stinjjf4dl52vp",
+      "titleRu": "ИИ‑оптимизация агротехнологических процессов с применением квантовых вычислений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

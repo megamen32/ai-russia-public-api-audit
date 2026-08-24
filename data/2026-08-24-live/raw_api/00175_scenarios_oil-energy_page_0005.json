@@ -1,0 +1,278 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkmz05jrinjjxsoc15h8",
+      "titleRu": "ИИ‑генерация и автоматизация производственных отчетов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmz05jtinjjsxfld8kb",
+      "titleRu": "Генерация технической документации с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmz05jvinjjclcoqjvi",
+      "titleRu": "ИИ-генерация и обновление инструкций по эксплуатации энергетического и нефтегазового оборудования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmz05jxinjjvg7uxsqn",
+      "titleRu": "Генерация паспортов скважин с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmz05jzinjjoi1e31xq",
+      "titleRu": "ИИ‑помощник для автоматизации разработки технологических регламентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn005k1injj3rmfvx7i",
+      "titleRu": "ИИ-система прогнозирования и предотвращения аварий на производстве",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn005k3injj1u5kunz6",
+      "titleRu": "AI-платформа предиктивного управления промышленной безопасностью",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn005k5injjajoqzlho",
+      "titleRu": "ИИ-модель оценки рисков взрывопожароопасности",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn005k7injjr1ffy33e",
+      "titleRu": "AI‑система управления экологическими рисками на производственных объектах",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn005k9injjjcgkpwyo",
+      "titleRu": "AI‑платформа мониторинга и предиктивного контроля соблюдения техники безопасности",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn005kbinjjsbzcrukx",
+      "titleRu": "ИИ-система адаптивного обучения и симуляции для операторов производственного оборудования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn005kdinjj8v9vynfd",
+      "titleRu": "ИИ-платформа для интеллектуальной сертификации и оценки технических специалистов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn005kfinjjxaib9de8",
+      "titleRu": "AI‑поддерживаемые VR‑тренажеры для обучения работе с опасным оборудованием",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn005khinjjpzyddxje",
+      "titleRu": "ИИ-система оценки и развития компетенций производственного персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn005kjinjj6ee7w7fp",
+      "titleRu": "ИИ-платформа адаптации и наставничества для молодых специалистов на производственных активах",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn005klinjjhpfyip6g",
+      "titleRu": "ИИ‑оптимизация методов повышения нефтеотдачи пластов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn005kninjjtdxuwk2i",
+      "titleRu": "ИИ‑платформа цифровых двойников производственных процессов в нефтегазе и энергетике",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn005kpinjjayktfikv",
+      "titleRu": "ИИ-платформа разработки и оптимизации экологичных технологий переработки в нефтегазе и энергетике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn005krinjj5b1d0k94",
+      "titleRu": "ИИ-система оптимизации химических процессов в НПЗ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn005ktinjj5mtbcp6u",
+      "titleRu": "ИИ-решения для полностью безлюдных производственных объектов в нефтегазе и энергетике",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

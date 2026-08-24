@@ -1,0 +1,270 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkn305o7injj5187brl8",
+      "titleRu": "ИИ‑персонализация предложений и акций для клиентов АЗС",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn305o9injjc6rvawtl",
+      "titleRu": "ИИ‑персонализация программ лояльности для корпоративных клиентов в энергетике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn305obinjj9ak10kfj",
+      "titleRu": "ИИ‑персонализация контента в мобильном приложении АЗС",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn305odinjj7yv09l2f",
+      "titleRu": "ИИ-система адаптивных персонализированных скидок на топливо",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn305ofinjjjgas0ji3",
+      "titleRu": "ИИ-персонализация экологических программ и тарифов для клиентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn305ohinjj7gk40wq7",
+      "titleRu": "AI-модели для оптимизации размещения новых АЗС и прогнозирования спроса",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn305ojinjjv139esrq",
+      "titleRu": "ИИ-система оптимизации и управления маркетинговым бюджетом по регионам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn305olinjjkvzx0hdk",
+      "titleRu": "AI-оптимизация ценовой политики на различных энергетических рынках",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn305oninjjtex08msp",
+      "titleRu": "ИИ‑платформа управления брендовыми активами и маркетинговыми материалами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn405opinjj6vixq1hy",
+      "titleRu": "ИИ-система оптимального планирования и таргетинга промо-акций в энергетике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn405orinjjtvhsfoqq",
+      "titleRu": "AI-система мониторинга и анализа узнаваемости бренда в цифровых каналах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn405otinjjtvmby9b9",
+      "titleRu": "AI-платформа мониторинга и анализа упоминаний энергокомпании в СМИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn405ovinjj468vjxj1",
+      "titleRu": "ИИ-мониторинг и оптимизация эффективности рекламных кампаний",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn405oxinjjleremukv",
+      "titleRu": "AI-система мониторинга качества обслуживания на АЗС",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn405ozinjjtjq0ci9i",
+      "titleRu": "ИИ‑платформа мониторинга и прогнозирования конкурентных цен на топливо",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn405p1injjsg9d95y6",
+      "titleRu": "ИИ-DSS для выбора оптимальных каналов продвижения в энергетике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn405p3injj71sk4s83",
+      "titleRu": "AI-система поддержки решений по динамическому ценообразованию в энергетике",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn405p5injjzyl2hj98",
+      "titleRu": "AI-платформа выбора и оценки спонсорских проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn405p7injjvjpv8ivt",
+      "titleRu": "ИИ‑DSS для планирования и оптимизации маркетинговых активностей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn405p9injj9c7whw45",
+      "titleRu": "AI-система поддержки решений по развитию бренда в нефтегазе и электроэнергетике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

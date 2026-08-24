@@ -1,0 +1,271 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkie006ninjjti94qohw",
+      "titleRu": "ИИ-анализ потребительских предпочтений в сфере органических продуктов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkie006pinjjc5txcr5n",
+      "titleRu": "ИИ-прогнозирование трендов здорового питания для планирования агропроизводства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkie006rinjj1gimmjwx",
+      "titleRu": "ИИ-модель анализа эффективности маркетинговых кампаний агропродуктов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkie006tinjjmpoxr234",
+      "titleRu": "ИИ-прогнозирование развития цифровых каналов сбыта сельхозпродукции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkie006vinjjo7zgbmbj",
+      "titleRu": "ИИ-модели для анализа сезонности и прогнозирования спроса на сельхозпродукцию",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkie006xinjjxpuwrltv",
+      "titleRu": "ИИ-система автоматизированного управления и публикации контента в социальных сетях фермерских хозяйств",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkie006zinjjeyi0xi41",
+      "titleRu": "ИИ-бот для автоматического ответа на запросы покупателей сельхозпродукции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkie0071injjhhabfkwr",
+      "titleRu": "ИИ-автоматизация обновления каталогов агропродукции на маркетплейсах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkie0073injjsafyfcny",
+      "titleRu": "ИИ‑управляемая автоматизированная система email-маркетинга для агрокомпаний",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkie0075injj5m3b27at",
+      "titleRu": "ИИ-автоматизация процесса ценообразования на сельхозпродукцию",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkie0077injjdvm9hbnz",
+      "titleRu": "ИИ-платформа персонализированных рекомендаций продуктов для потребителей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkie0079injjkpqwrnb0",
+      "titleRu": "ИИ-система адаптивного маркетинга и персонализированных предложений для сегментов агропокупателей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkie007binjjzml0ivv9",
+      "titleRu": "ИИ-чат-бот с персонализированными советами по выбору сельхозпродукции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkie007dinjj9eqp6th1",
+      "titleRu": "ИИ‑персонализированная система лояльности для покупателей фермерских продуктов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkie007finjjfya2jrpz",
+      "titleRu": "ИИ-платформа персонализированных маркетинговых предложений для B2B-клиентов в агросекторе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkie007hinjj0m2o98o9",
+      "titleRu": "ИИ-оптимизация распределения маркетингового бюджета между каналами продвижения в агробизнесе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkie007jinjjyxs8fy0h",
+      "titleRu": "AI-система оптимального размещения рекламы сельхозпродукции в медиа-каналах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkie007linjjxym4i3og",
+      "titleRu": "ИИ-модель оптимизации ассортимента для розничных агроточек",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkie007ninjjon059bnb",
+      "titleRu": "ИИ-алгоритм оптимального сезонного тайминга маркетинговых активностей в агробизнесе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkie007pinjj5e9pt6ww",
+      "titleRu": "ИИ-оптимизация логистических маршрутов доставки сельскохозяйственной продукции потребителям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

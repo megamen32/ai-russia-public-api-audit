@@ -1,0 +1,69 @@
+{
+  "id": "cms3ogmt3000gmp0ndcl5vq6b",
+  "titleRu": "SourceCraft",
+  "titleEn": null,
+  "company": "ООО \"ЯНДЕКС\"",
+  "industry": {
+    "slug": "it-telecom",
+    "nameRu": "IT и Телеком",
+    "nameEn": null
+  },
+  "businessFunction": {
+    "slug": "it-digitalization",
+    "nameRu": "Информационные технологии и цифровизация",
+    "nameEn": null
+  },
+  "businessTask": {
+    "slug": "process-automation",
+    "nameRu": "Автоматизация процессов (RPA / IPA)",
+    "nameEn": null
+  },
+  "problemRu": "Неэффективный и несогласованный процесс разработки ПО внутри компании",
+  "problemEn": null,
+  "solutionRu": "DevSecOps платформа для полного цикла разработки",
+  "solutionEn": null,
+  "effectRu": "• Сокращение расходов.\n• 60–120 млн руб. в год на 100 разработчиков.\n• Время от задачи до релиза -30%.",
+  "effectEn": null,
+  "contextProblem": "Неэффективный и несогласованный процесс разработки ПО внутри компании",
+  "contextGoal": "Обеспечение эффективного и согласованного процесса разработки ПО за счёт единой DevSecOps платформы полного цикла",
+  "implContour": "Cloud",
+  "timeToMarket": "0 месяцев, ПО находится в Облаке и доступно любым зарегистрированным пользователям.",
+  "investmentVolume": "NDA",
+  "poc": null,
+  "pilot": null,
+  "rollout": "Тираж",
+  "solutionDetails": "Статус реализации: Тираж\n• Хранение и версионирование кода\n• Автоматизация CI/CD pipelines\n• Интеграция инструментов безопасности в процесс разработки\n• Управление зависимостями",
+  "financialPlan": "60–120 млн руб. в год на 100 разработчиков за счет экономии ФОТ разработки, консолидации DevOps-инструментов, снижения трудозатрат DevOps/SRE/AppSec и сокращения потерь от дефектов и инцидентов",
+  "financialFact": "NDA",
+  "satisfactionPlan": "Время на ревью пулл реквестов (-30%)",
+  "satisfactionFact": "NDA",
+  "efficiencyPlan": "Время от задачи до релиза сокращено на 30%",
+  "efficiencyFact": "NDA",
+  "securityPlan": "Количество срочных исправлений после релиза снижено на 20%",
+  "securityFact": "NDA",
+  "resources": "Собственный ресурс компании",
+  "timeToValue": "Time 2 Value: 1 месяц",
+  "usedData": "Другое (Код проекта)",
+  "tools": "AI Studio,  Git,  CI/CD,  Код Ассистент",
+  "contactName": null,
+  "contactEmail": null,
+  "teamMembers": [
+    {
+      "role": "РМ",
+      "name": "1 ПШЕ"
+    },
+    {
+      "role": "Team lead",
+      "name": "1 ПШЕ"
+    },
+    {
+      "role": "Разработчик",
+      "name": "2 ПШЕ"
+    },
+    {
+      "role": "DevOps",
+      "name": "1 ПШЕ"
+    }
+  ],
+  "relatedCases": []
+}

@@ -1,0 +1,37 @@
+{
+  "mode": "live",
+  "generated_at_unix": 1787569472,
+  "industries": 10,
+  "declared_scenario_total_from_industries": 4992,
+  "unique_scenarios_observed": 4992,
+  "enumeration_complete": true,
+  "observed_case_links_sum_caseCount": 13,
+  "observed_exposed_case_links": 13,
+  "unique_exposed_case_ids": 13,
+  "unique_exposed_companies": 2,
+  "companies": [
+    "АО «АЛЬФА-БАНК»",
+    "ООО \"ЯНДЕКС\""
+  ],
+  "matrix_cells_observed": 1000,
+  "matrix_count_distribution": {
+    "3": 1,
+    "4": 7,
+    "5": 991,
+    "6": 1
+  },
+  "matrix_hasCases_distribution": {
+    "False": 990,
+    "True": 10
+  },
+  "pagination_strategy": {
+    "name": "page_limit",
+    "page_size": 20,
+    "first_index": 1
+  },
+  "cell_filter_strategy": null,
+  "case_detail_statuses": {
+    "200": 13
+  },
+  "warnings": []
+}

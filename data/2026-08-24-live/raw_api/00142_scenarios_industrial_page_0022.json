@@ -1,0 +1,283 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkm404j3injjg0xxrkf3",
+      "titleRu": "ИИ-мониторинг соблюдения промышленных стандартов безопасности",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm404j5injj4m72sfdq",
+      "titleRu": "ИИ-мониторинг соответствия производственных процессов экологическим требованиям",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm404j7injjkm0a6lmy",
+      "titleRu": "ИИ-мониторинг и анализ изменений промышленного законодательства",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm404j9injj26umhllr",
+      "titleRu": "ИИ-мониторинг исполнения промышленных контрактов и договорных обязательств",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm404jbinjjzssqc6kt",
+      "titleRu": "ИИ-мониторинг и контроль соблюдения требований кибербезопасности в промышленности",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm404jdinjj4ua8rhe8",
+      "titleRu": "ИИ-советник для правовой оценки промышленных проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm404jfinjj3osxe7xe",
+      "titleRu": "AI-система поддержки решений по разрешению промышленных споров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm404jhinjj2lvfgxg0",
+      "titleRu": "ИИ-поддержка юридического структурирования промышленных сделок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm404jjinjjtzlaau6m",
+      "titleRu": "ИИ-помощник для оценки правовых рисков новых технологий",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm404jlinjjifkjifl1",
+      "titleRu": "AI-система рекомендаций по промышленному комплаенсу",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm404jninjjvawl3ana",
+      "titleRu": "Генерация ИИ-поддерживаемых правовых заключений по промышленным вопросам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm404jpinjja31uivyl",
+      "titleRu": "Генерация ИИ-ассистентом комплаенс-политик для промышленных предприятий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm404jrinjj6fv7jekd",
+      "titleRu": "Использование ИИ для генерации и проверки договоров и соглашений в промышленных сделках",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm404jtinjjxhq5fbth",
+      "titleRu": "Использование генеративного ИИ для создания обучающих материалов по промышленному праву и комплаенсу",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm404jvinjjlt6b06mr",
+      "titleRu": "ИИ-система автоматической подготовки отчетов о правовом соответствии",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm404jxinjjqmk57425",
+      "titleRu": "ИИ-анализ правовых рисков несоблюдения промышленных регламентов и нормативов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm404jzinjj0lsmfq1q",
+      "titleRu": "ИИ-оценка рисков нарушения промышленных стандартов и регуляторных требований",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm504k1injj6eu0056o",
+      "titleRu": "ИИ-моделирование репутационных рисков промышленных нарушений",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm504k3injj3dcwbke0",
+      "titleRu": "ИИ-анализ рисков и нарушений интеллектуальной собственности в промышленности",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkm504k5injjtxtv134h",
+      "titleRu": "ИИ-оценка рисков и санкционных ограничений в международном промышленном праве",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

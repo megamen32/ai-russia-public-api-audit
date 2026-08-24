@@ -1,0 +1,276 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkjh01hbinjjrjjksi0k",
+      "titleRu": "ИИ-мониторинг репутационных рисков от правовых нарушений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjh01hdinjj21irqbip",
+      "titleRu": "ИИ-платформа для адаптивного обучения юристов девелоперской компании актуальному законодательству",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjh01hfinjjoxhd4ui4",
+      "titleRu": "Интеллектуальная платформа для персонализированного развития правовых компетенций в строительной отрасли",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjh01hhinjjlmc5qsdu",
+      "titleRu": "Платформа с ИИ для обучения и сертификации специалистов по правовому сопровождению ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjh01hjinjjfc2fm0rz",
+      "titleRu": "AI-система для интеллектуального управления знаниями и повышения квалификации в строительном праве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjh01hlinjjtja9xbr1",
+      "titleRu": "ИИ-тренажёр правового анализа девелоперских сделок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjh01hninjj12bo7udj",
+      "titleRu": "Использование ИИ для автоматизированной верификации правовых документов ЖК с записью в блокчейн",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjh01hpinjjod4rca3a",
+      "titleRu": "ИИ-система автоматического правового аудита девелоперских проектов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjh01hrinjjt05qdqbr",
+      "titleRu": "AI-платформа для юридической верификации и автоматизации цифрового нотариата сделок с недвижимостью",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjh01htinjju9zpijor",
+      "titleRu": "Разработка инновационных AI-решений для правового обеспечения и комплаенса в строительстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjh01hvinjjnjrld25w",
+      "titleRu": "Система ИИ-анализа правовых прецедентов в сфере долевого строительства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjh01hxinjjz4v5eao6",
+      "titleRu": "ИИ-система прогнозирования востребованности инновационных решений в ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjh01hzinjjf8cilxif",
+      "titleRu": "ИИ-модель прогнозирования эффективности новых строительных технологий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjh01i1injjh9w2ydb5",
+      "titleRu": "Предиктивная AI-система для выявления и прогнозирования инновационных трендов в мировой строительной индустрии",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjh01i3injjfxowzor9",
+      "titleRu": "Предиктивная AI-платформа для оценки ROI R&D-инвестиций в девелоперских проектах",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkji01i5injjgkgg3p5k",
+      "titleRu": "ИИ-анализатор патентного ландшафта в сфере строительных технологий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkji01i7injjsm53gz4b",
+      "titleRu": "Роботизированная система интеллектуального поиска и анализа инновационных строительных решений на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkji01i9injjewvxc0ae",
+      "titleRu": "Платформа интеллектуальной автоматизации (IPA) управления портфелем R&D-проектов в девелопменте",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkji01ibinjju9lw4q9q",
+      "titleRu": "RPA и NLP для интеллектуального мониторинга патентной активности в строительстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkji01idinjjzw0k5j40",
+      "titleRu": "Интеллектуальная автоматизация процедур тестирования новых материалов для ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

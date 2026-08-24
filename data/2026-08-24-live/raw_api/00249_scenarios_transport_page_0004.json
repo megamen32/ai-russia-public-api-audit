@@ -1,0 +1,256 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkoa0727injjuvvliqtw",
+      "titleRu": "ИИ-оптимизация персонализированных тарифных планов для лояльных клиентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoa0729injjicccszsk",
+      "titleRu": "AI-оптимизация персонализированных условий оплаты для крупных грузоотправителей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkob072binjjbjgtm1mg",
+      "titleRu": "Предиктивные финансовые дашборды на базе ИИ для корпоративных клиентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkob072dinjj0x5w0545",
+      "titleRu": "ИИ-система для персонализации финансовых предложений малому бизнесу в транспорте",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkob072finjjzdrwg9b0",
+      "titleRu": "AI-оптимизированные персонализированные программы лояльности с индивидуальными финансовыми преимуществами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkob072hinjj61farmvv",
+      "titleRu": "Оптимизация финансирования транспортного парка с помощью ИИ и прогнозной аналитики",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkob072jinjj1iv753ea",
+      "titleRu": "Оптимизация оборотного капитала в сезонных перевозках на базе прогнозной аналитики ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkob072linjjc4mrrmqa",
+      "titleRu": "ИИ-оптимизация налогового планирования и управления рисками в международных перевозках",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkob072ninjjy94ggxag",
+      "titleRu": "Прогнозное управление ликвидностью на основе ИИ при неравномерных грузопотоках",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkob072pinjjx3hrjywv",
+      "titleRu": "Предиктивное моделирование для оптимизации инвестиций в обновление подвижного состава",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkob072rinjj4m5uusna",
+      "titleRu": "Предиктивный анализ и оптимизация финансовой эффективности маршрутов с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkob072tinjj6w4az0hz",
+      "titleRu": "Предиктивный AI-контроль и оптимизация исполнения бюджетов транспортных подразделений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkob072vinjjcxtwtf92",
+      "titleRu": "Предиктивный мониторинг и управление дебиторской задолженностью грузоотправителей с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkob072xinjjz0vbygyg",
+      "titleRu": "Предиктивный контроль и оптимизация расходов на топливо на основе ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkob072zinjjvdku451v",
+      "titleRu": "ИИ-прогнозирование и контроль валютных рисков в международных перевозках",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkob0731injj7pakddf8",
+      "titleRu": "Система поддержки решений по ценообразованию на перевозки на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkob0733injje4d7gza6",
+      "titleRu": "Платформа на базе ИИ для поддержки принятия инвестиционных решений по флоту",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkob0735injjm7wzojnx",
+      "titleRu": "ИИ-система для предиктивного анализа и оптимизации выбора между лизингом и покупкой транспорта",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkob0737injjqkp2fqcq",
+      "titleRu": "ИИ-платформа для прогнозирования и управления финансовыми рисками в транспортной отрасли",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkob0739injjjd2kgwpj",
+      "titleRu": "ИИ-система для предиктивной аналитики и оптимизации решений по реструктуризации долгов в транспорте",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 493
+}

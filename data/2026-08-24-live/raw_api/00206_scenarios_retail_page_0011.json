@@ -1,0 +1,268 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwknt06i7injjh8vur2tf",
+      "titleRu": "Прогнозирование спроса на товары с помощью ИИ для оптимизации закупок и управления запасами",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknt06i9injj3fzmh6zp",
+      "titleRu": "Предиктивная аналитика загруженности складов на базе ML-прогнозирования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknt06ibinjjketz8yco",
+      "titleRu": "AI-анализ и прогнозирование времени доставки заказов в e-commerce",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknt06idinjjz5hscgk1",
+      "titleRu": "ИИ-прогнозирование потребности в транспортных ресурсах и планирование логистики",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknt06ifinjjkovm4arf",
+      "titleRu": "ИИ-предиктивное моделирование сбоев в цепочке поставок",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknt06ihinjjzw9tlnmz",
+      "titleRu": "Интеллектуальная автоматизация приемки и размещения товаров на складе с использованием компьютерного зрения и RPA",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknt06ijinjjybhyswmg",
+      "titleRu": "Интеллектуальная роботизация инвентаризации и контроля складских остатков на базе компьютерного зрения",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknt06ilinjj02w0dvpq",
+      "titleRu": "Оптимизация и автоматическое планирование маршрутов доставки на основе ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknt06ininjj7or1loq7",
+      "titleRu": "ИИ‑управляемая автоматизация процесса комплектации и упаковки заказов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknu06ipinjjqqxo8o4t",
+      "titleRu": "Интеллектуальная роботизация контроля качества товаров с компьютерным зрением",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknu06irinjj3r48wpus",
+      "titleRu": "AI-персонализация способов и слотов доставки на основе предпочтений клиентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknu06itinjjx0002mry",
+      "titleRu": "ИИ‑персонализация упаковки и оформления заказов в e‑commerce",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknu06ivinjjf66ul09n",
+      "titleRu": "AI-оптимизация персонализированных временных окон доставки",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknu06ixinjjlhylkjpq",
+      "titleRu": "AI-персонализация уведомлений о статусе заказа и доставки в реальном времени",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknu06izinjj9y12kdkp",
+      "titleRu": "ИИ‑подбор оптимального пункта выдачи заказов для клиента",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknu06j1injj36t61xc9",
+      "titleRu": "Оптимизация размещения товаров на складе с помощью ML-прогноза частоты заказов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknu06j3injjig84ktdm",
+      "titleRu": "ИИ-система интеллектуального управления товарными запасами ABC-XYZ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknu06j5injjvijxkhco",
+      "titleRu": "Оптимизация загрузки транспорта и маршрутов доставки с помощью ML-алгоритмов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknu06j7injj8ukovcbv",
+      "titleRu": "AI‑система динамического управления персоналом склада по загруженности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknu06j9injjowquhozj",
+      "titleRu": "Оптимизация энергопотребления складских и торговых помещений с помощью ИИ‑аналитики",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

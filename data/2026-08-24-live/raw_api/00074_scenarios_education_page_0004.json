@@ -1,0 +1,272 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkjn01nzinjji5gav9re",
+      "titleRu": "ИИ-платформа персонализации финансовых льгот и скидок для студентов разных категорий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjn01o1injj4gn1239h",
+      "titleRu": "ИИ-консультант по персонализированным схемам оплаты обучения и рассрочке для абитуриентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjn01o3injjqbbesynb",
+      "titleRu": "ИИ-система персональных финансовых рекомендаций для студентов по стипендиальным программам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjn01o5injj9igkkh5k",
+      "titleRu": "AI‑калькулятор стоимости обучения с учетом выбранных дисциплин и дополнительных услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjn01o7injjd58caygu",
+      "titleRu": "ИИ‑персонализация финансовых отчетов для родителей о расходах на образование ребенка",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjn01o9injjvrsu7gmm",
+      "titleRu": "ИИ-оптимизатор распределения бюджетных средств между научными и образовательными проектами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjn01obinjj4cjjbk57",
+      "titleRu": "ИИ-система оптимального управления эндаументом и инвестиционным портфелем университета",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjn01odinjjuy4x6yi5",
+      "titleRu": "ИИ-модуль оптимизации расходов на учебно-методическое обеспечение образовательного процесса",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjn01ofinjj4zloo5d0",
+      "titleRu": "ИИ-планировщик оптимального использования финансовых ресурсов в период каникул и межсессий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjn01ohinjjtfi4anxa",
+      "titleRu": "ИИ-система оптимизации налогового планирования для образовательных и научных подразделений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjn01ojinjjvuw65dwc",
+      "titleRu": "AI-система непрерывного мониторинга и прогнозирования финансовых показателей эффективности образовательных программ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjn01olinjjsrraqfwb",
+      "titleRu": "ИИ-система мониторинга исполнения бюджетов факультетов с прогнозом и предупреждением превышения лимитов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjn01oninjjwypf9b8v",
+      "titleRu": "AI-модуль прогнозирования и мониторинга дебиторской задолженности студентов за обучение",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjn01opinjjx69gyfaw",
+      "titleRu": "ИИ-система мониторинга и контроля финансовых потоков в научно-исследовательских центрах и лабораториях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjn01orinjjjmnq0mvk",
+      "titleRu": "ИИ-аудитор соответствия финансовых операций требованиям образовательного законодательства",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjn01otinjjk5qj5yr4",
+      "titleRu": "ИИ-система поддержки принятия решений по инвестициям в развитие образовательной инфраструктуры",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjn01ovinjjqk0vxggl",
+      "titleRu": "AI-модуль поддержки решений по финансированию новых научно-исследовательских направлений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjn01oxinjj3tt85bgy",
+      "titleRu": "ИИ-система поддержки решений по динамическому ценообразованию дополнительных образовательных услуг",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjn01ozinjjn5ewe9ee",
+      "titleRu": "ИИ-консультант для поддержки решений о финансовых партнёрствах с образовательными фондами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjo01p1injj6efbp5m9",
+      "titleRu": "ИИ-платформа поддержки решений по оптимизации структуры доходов и расходов университета",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

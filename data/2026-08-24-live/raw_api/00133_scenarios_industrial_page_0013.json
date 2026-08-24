@@ -1,0 +1,276 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwklv0493injjj7lsuppw",
+      "titleRu": "ИИ-платформа для адаптивного обучения операторов работе с автоматизированными производственными системами",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "ASR"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklv0495injjah9zugb3",
+      "titleRu": "ИИ-платформа для развития и тренировки навыков работы с промышленными роботами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklv0497injjjkei9yxq",
+      "titleRu": "Планирование переобучения персонала при цифровизации на основе ИИ‑аналитики компетенций",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklv0499injj6kaxlc1u",
+      "titleRu": "Формирование и оптимизация команд для управления умными производствами с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklv049binjj2b01ag4a",
+      "titleRu": "ИИ-платформа для обучения и оценки компетенций по промышленной кибербезопасности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklv049dinjjqcc44ta7",
+      "titleRu": "Оптимизация аддитивного производства и 3D-печати с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklv049finjj1msky2v0",
+      "titleRu": "ИИ-решения для разработки и внедрения технологий умного производства",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklv049hinjjlyt2v0ri",
+      "titleRu": "Применение ИИ для разработки инновационных производственных процессов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklv049jinjj7vvi7c4o",
+      "titleRu": "Внедрение коллаборативных роботов с компьютерным зрением и ML-оптимизацией на производстве",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklv049linjjju6g3vw9",
+      "titleRu": "ИИ‑поддерживаемые системы дополненной реальности для производства и обучения персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklw049ninjjqx5wjc4q",
+      "titleRu": "ИИ-прогнозирование потребности в персонале при автоматизации производственных процессов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklw049pinjjofuk8pgb",
+      "titleRu": "ИИ‑модели прогнозирования текучести персонала в условиях цифровой трансформации",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklw049rinjj9xosj2c2",
+      "titleRu": "ИИ-моделирование и прогнозирование карьерных траекторий персонала в индустрии 4.0",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklw049tinjjcbjuvbar",
+      "titleRu": "Прогнозирование эффективности обучающих программ по новым технологиям с помощью ИИ-анализa данных сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklw049vinjjc7kf9zll",
+      "titleRu": "ИИ‑анализ и прогноз влияния роботизации на структуру рабочих мест",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklw049xinjjbh89r183",
+      "titleRu": "Интеллектуальная автоматизация подбора промышленных специалистов на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklw049zinjjj5gsd469",
+      "titleRu": "ИИ‑система роботизированной оценки и профилирования компетенций технических специалистов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklw04a1injjpclwqcpc",
+      "titleRu": "Интеллектуальная автоматизация планирования обучения по промышленным технологиям на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklw04a3injjf3evv5tf",
+      "titleRu": "ИИ‑ориентированная интеллектуальная автоматизация адаптации и онбординга новых сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklw04a5injjkfz5rwu0",
+      "titleRu": "Интеллектуальная RPA-система для автоматизации HR-документооборота в промышленности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

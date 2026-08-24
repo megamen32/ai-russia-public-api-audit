@@ -1,0 +1,275 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkli03uninjjnqjygs1v",
+      "titleRu": "ИИ-система генерации медицинских заключений и протоколов обследований",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklj03upinjjysjse1xw",
+      "titleRu": "ИИ‑платформа автоматического формирования персонализированных планов лечения на основе клинических данных",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklj03urinjje5hfbp5x",
+      "titleRu": "ИИ‑модель генерации персонализированных рекомендаций для пациентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklj03utinjj7u9rlaho",
+      "titleRu": "ИИ-платформа для генерации и адаптации образовательного контента для медицинского персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklj03uvinjjlcxvhe2d",
+      "titleRu": "ИИ-платформа для автоматической генерации отчетов по результатам клинических исследований",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklj03uxinjji2z67kzv",
+      "titleRu": "ИИ-система управления рисками медицинских ошибок и повышения безопасности пациентов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklj03uzinjj5nag2r1p",
+      "titleRu": "AI-платформа прогностического анализа рисков внутрибольничных инфекций",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklj03v1injjzgjoolts",
+      "titleRu": "AI‑модель управления рисками лекарственной безопасности и прогнозирования побочных эффектов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklj03v3injjfzel5bb8",
+      "titleRu": "ИИ-система анализа рисков медицинского оборудования и биомедицинской безопасности",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklj03v5injj69t2gco8",
+      "titleRu": "ИИ-решение управления рисками конфиденциальности медицинских данных",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklj03v7injjr2kx7drg",
+      "titleRu": "ИИ-платформа для персонализированного развития профессиональных компетенций медицинского персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklj03v9injjhp86x30e",
+      "titleRu": "AI‑платформа для организации междисциплинарного взаимодействия и поддержки решений медицинской команды",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklj03vbinjjsdzlcbz8",
+      "titleRu": "ИИ-модель развития лидерских компетенций у заведующих медицинскими отделениями",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklj03vdinjjwgyezhaf",
+      "titleRu": "ИИ-платформа для организации непрерывного медицинского образования врачей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklj03vfinjj2cczho86",
+      "titleRu": "ИИ-платформа для мониторинга и развития культуры безопасности пациентов в медучреждении",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklj03vhinjjrr4hgmsj",
+      "titleRu": "ИИ-система разработки инновационных методов малоинвазивной хирургии",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklj03vjinjjhrinyhwz",
+      "titleRu": "ИИ-платформа проектирования и адаптации телемедицинских сервисов для удаленных регионов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklj03vlinjjdnw59c3k",
+      "titleRu": "ИИ-модель разработки персонализированных медицинских имплантов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklj03vninjjb3n0vva4",
+      "titleRu": "Система создания инновационных диагностических алгоритмов на основе ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklj03vpinjjijmztb8t",
+      "titleRu": "ИИ-платформа для разработки новых методов регенеративной медицины",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

@@ -1,0 +1,270 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwko90713injjxeqot4to",
+      "titleRu": "Развитие стратегического мышления топ-менеджмента с помощью ИИ-симуляций и аналитики",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoa0715injj1hb6t989",
+      "titleRu": "ИИ-платформы для персонализированного развития лидеров цифровой трансформации в транспортной отрасли",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoa0717injjauo1v4et",
+      "titleRu": "ИИ-платформа для персонализированного развития и оценки компетенций по управлению инновационными проектами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoa0719injjtgj0ispq",
+      "titleRu": "AI-аналитика для оптимизации организационных изменений и адаптации персонала к новой стратегии в транспортной логистике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoa071binjj7er08n6r",
+      "titleRu": "AI-платформа для развития инновационных компетенций и формирования культуры инноваций в транспортной компании",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoa071dinjjqnwp0f15",
+      "titleRu": "Создание концепции интеллектуальной мультимодальной транспортной экосистемы на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoa071finjj79mpbxkq",
+      "titleRu": "ИИ-оптимизация и персонализация в моделях \"Транспорт как услуга\"",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoa071hinjjwaz8zvn8",
+      "titleRu": "Разработка ИИ-системы для управления и оптимизации транспорта в умных городах",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoa071jinjju4562kho",
+      "titleRu": "Разработка стратегии внедрения автономного транспорта с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoa071linjj7orok3jl",
+      "titleRu": "Разработка ИИ-моделей для инновационной устойчивой логистики",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoa071ninjjor61ggvy",
+      "titleRu": "Прогнозирование денежных потоков транспортных операций с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoa071pinjj5fpqp8q1",
+      "titleRu": "Предиктивная аналитика рентабельности грузоперевозок с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoa071rinjjtwrtk49x",
+      "titleRu": "ИИ-прогнозирование влияния цен на топливо на финансовые результаты",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoa071tinjjfv1m22ny",
+      "titleRu": "Прогнозирование финансовой эффективности новых маршрутов с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoa071vinjj1l62j046",
+      "titleRu": "Прогнозирование кредитных рисков корпоративных клиентов-грузоотправителей с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoa071xinjj0ledp9jb",
+      "titleRu": "Интеллектуальная автоматизация обработки транспортных накладных и счетов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "NLP",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoa071zinjjlpz13qdd",
+      "titleRu": "Роботизация процессов сверки топливных карт и расходов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoa0721injjfoz1opjn",
+      "titleRu": "Интеллектуальная автоматизация расчета себестоимости перевозок по маршрутам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoa0723injj3x0sfl4n",
+      "titleRu": "Роботизация процессов валютного хеджирования при международных перевозках",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoa0725injjv1f1dxd0",
+      "titleRu": "Интеллектуальная автоматизация составления финансовой отчетности по сегментам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 493
+}

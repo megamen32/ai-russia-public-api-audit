@@ -1,0 +1,273 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwknx06mninjjiqfwqsw9",
+      "titleRu": "ИИ‑ассистент для автоматической генерации должностных инструкций и job description",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknx06mpinjj81e3ravk",
+      "titleRu": "ИИ‑генерация персонализированных программ обучения для сотрудников ритейла",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknx06mrinjj5ohesu67",
+      "titleRu": "Автоматизированная генерация HR‑отчетов и аналитических справок на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknx06mtinjjnbp9fgqn",
+      "titleRu": "ИИ-генерация и адаптация материалов для корпоративного обучения персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknx06mvinjjohgm4kqg",
+      "titleRu": "Генерация ИИ-контента для внутренних HR‑коммуникаций",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknx06mxinjjyr0wos4h",
+      "titleRu": "ИИ-система прогнозирования риска ухода ключевых сотрудников",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknx06mzinjjnj32ln65",
+      "titleRu": "ИИ-мониторинг рисков трудовых споров и конфликтов на основе анализа коммуникаций",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknx06n1injj0dumaoal",
+      "titleRu": "ИИ-предиктивная аналитика рисков нарушения трудовой дисциплины персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknx06n3injj0ljwj5i7",
+      "titleRu": "ИИ-система мониторинга и управления репутационными рисками работодателя",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknx06n5injjg4fr25kj",
+      "titleRu": "ИИ-мониторинг признаков профессионального выгорания сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknx06n7injj3s4mr1h5",
+      "titleRu": "ИИ-платформа персонального развития и карьерного планирования для сотрудников ритейла",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknx06n9injjm94hed1o",
+      "titleRu": "AI-платформа 360-градусной обратной связи и оценки компетенций персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknx06nbinjjl2tttfu8",
+      "titleRu": "ИИ-система интеллектуального подбора и матчинга менторов и коучей для развития персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkny06ndinjj23ksp3f3",
+      "titleRu": "ИИ‑платформа для развития лидерских компетенций сотрудников в ритейле",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkny06nfinjjldrjyfa6",
+      "titleRu": "ИИ-система автоматизированного подбора и формирования проектных команд",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkny06nhinjjt5i3i3av",
+      "titleRu": "ИИ-разработка и оптимизация инновационных форматов удаленной работы в ритейле",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkny06njinjjv0psu021",
+      "titleRu": "ИИ-проектирование и оптимизация гибридных форм занятости в ритейле",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkny06nlinjj6i15mmx0",
+      "titleRu": "ИИ‑решения для геймификации HR‑процессов в рознице и e‑commerce",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkny06nninjjrtofd67v",
+      "titleRu": "ИИ-управляемая VR/AR-платформа для адаптивного обучения и обучения персонала ритейла",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkny06npinjjmccbtdcl",
+      "titleRu": "AI‑система персонализированного wellness и заботы о сотрудниках в ритейле",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

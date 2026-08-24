@@ -1,0 +1,282 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkk50293injjfo68l7jz",
+      "titleRu": "ИИ-платформа развития правовых компетенций административного персонала университета",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk50295injj8l6mkg1y",
+      "titleRu": "ИИ-модуль обучения преподавателей основам образовательного права и этики",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk50297injjgvuwi6di",
+      "titleRu": "ИИ‑платформа развития навыков правового анализа для руководителей структурных подразделений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk50299injjr8sjbupy",
+      "titleRu": "ИИ-платформа адаптивных тренингов по антикоррупционной политике для всех категорий сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk5029binjjdd67nvae",
+      "titleRu": "ИИ-коуч для развития навыков правового мышления в академической деятельности",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk5029dinjjljbrofbm",
+      "titleRu": "ИИ-разработка и симуляционное тестирование новых моделей правового регулирования цифрового образования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk5029finjj0ydc1jis",
+      "titleRu": "ИИ-система проектирования и сопровождения правовых форматов онлайн-образования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk5029hinjj38s2iudc",
+      "titleRu": "ИИ‑модуль верификации правового статуса образовательных документов на базе блокчейна",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk5029jinjjlzfbul0s",
+      "titleRu": "ИИ-лаборатория создания интеллектуальных систем правового анализа в образовании",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk5029linjjwrzpag2s",
+      "titleRu": "ИИ-платформа для управления правовыми рисками и комплаенсом академической мобильности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk5029ninjjz00nuq4a",
+      "titleRu": "ИИ-аналитика трендов научных исследований и инновационных разработок в университете",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk5029pinjj4u2vnmla",
+      "titleRu": "ИИ-система прогнозирования потенциала коммерциализации научных результатов преподавателей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk5029rinjjvtcwiqpa",
+      "titleRu": "ИИ-модуль аналитики и прогнозирования эффективности научно-исследовательских проектов и грантов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk6029tinjj6eky1c7s",
+      "titleRu": "ИИ-прогнозирование направлений развития инновационной экосистемы вуза",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk6029vinjjtt1r112g",
+      "titleRu": "AI-платформа аналитики цитируемости научных публикаций и прогноза академической репутации",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk6029xinjj6nd0e1jz",
+      "titleRu": "ИИ‑система роботизации процесса подачи и обработки заявок на гранты и научные конкурсы",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk6029zinjjfdg5iq2g",
+      "titleRu": "ИИ-автоматизация мониторинга выполнения научно-исследовательских проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk602a1injj2dbckgw7",
+      "titleRu": "ИИ-система автоматизации процессов регистрации и сопровождения интеллектуальной собственности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk602a3injjwki8s5j6",
+      "titleRu": "ИИ-робот для автоматического формирования и анализа отчетов о научной деятельности кафедр",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk602a5injjt04wxwvi",
+      "titleRu": "ИИ‑автоматизация экспертизы и рецензирования научных работ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

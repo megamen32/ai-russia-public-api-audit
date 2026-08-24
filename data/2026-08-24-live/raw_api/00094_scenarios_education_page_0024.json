@@ -1,0 +1,278 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkk602a7injjya2zw30m",
+      "titleRu": "ИИ‑рекомендации научных направлений и треков развития для молодых исследователей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk602a9injjz7kzhdp2",
+      "titleRu": "ИИ-помощник для индивидуализации исследовательских траекторий аспирантов и докторантов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk602abinjjykf01pfu",
+      "titleRu": "ИИ-система персональных рекомендаций грантовых программ для исследователей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk602adinjjwxicdinf",
+      "titleRu": "ИИ-платформа для персонализированной коммерциализации научных разработок преподавателей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk602afinjjd46uajsm",
+      "titleRu": "ИИ-платформа персонализированных научных коллабораций на основе профилей и публикаций исследователей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk602ahinjjxqk9pu4r",
+      "titleRu": "ИИ-оптимизация распределения научного оборудования между исследовательскими группами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk602ajinjj9gcx9anw",
+      "titleRu": "ИИ-система оптимального планирования и распределения ресурсов в R&D-проектах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk602alinjj7ia50j75",
+      "titleRu": "ИИ-модуль оптимизации затрат на научные исследования и инновационные разработки",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk602aninjjuchtbwgg",
+      "titleRu": "ИИ-планировщик оптимального распределения времени исследователей между научными проектами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk602apinjjp78p4p64",
+      "titleRu": "ИИ-система оптимизации портфеля научных проектов по критериям риск–доходность",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk602arinjjp7sc5xhw",
+      "titleRu": "ИИ-система мониторинга качества научных исследований и соблюдения этических стандартов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk602atinjj7tsvabvh",
+      "titleRu": "ИИ-система мониторинга и контроля выполнения планов НИР в реальном времени",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk602avinjjmw9bwqqk",
+      "titleRu": "AI-модуль мониторинга эффективности использования грантовых средств исследователями",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk602axinjjapc5s1n9",
+      "titleRu": "ИИ-система мониторинга соблюдения требований безопасности в научных лабораториях",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk702azinjj73q9kndx",
+      "titleRu": "ИИ-аналитика результативности научной деятельности по международным стандартам и бенчмаркам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk702b1injjzqjmgnyy",
+      "titleRu": "ИИ-платформа поддержки решений по выбору и развитию приоритетных научных направлений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk702b3injjd99j6bwf",
+      "titleRu": "AI-модуль поддержки решений по созданию технопарков и инновационных центров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk702b5injjgllu0mbw",
+      "titleRu": "ИИ-система поддержки решений по инвестициям в научное оборудование",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk702b7injjkwix6pjx",
+      "titleRu": "ИИ-консультант для принятия решений о научных партнерствах и коллаборациях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk702b9injj6zqfmrk4",
+      "titleRu": "ИИ‑платформа поддержки решений по коммерциализации результатов научных исследований",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

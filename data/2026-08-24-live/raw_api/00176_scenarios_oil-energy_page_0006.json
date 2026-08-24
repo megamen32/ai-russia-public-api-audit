@@ -1,0 +1,272 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkn005kvinjjyon6utzn",
+      "titleRu": "ИИ-модель прогнозирования денежных потоков от месторождений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn005kxinjjttpdigpl",
+      "titleRu": "ИИ-система анализа и прогнозирования финансовой эффективности проектов геологоразведки",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn005kzinjjbx4o5tqj",
+      "titleRu": "AI-модели для прогнозирования валютных рисков в международных операциях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn005l1injjd084mst2",
+      "titleRu": "ИИ-модель прогнозной оценки стоимости нефтегазовых активов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn005l3injjp6nq3usp",
+      "titleRu": "ИИ-анализ и прогноз рентабельности различных методов добычи углеводородов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn005l5injjo5wpahop",
+      "titleRu": "Интеллектуальная автоматизация финансовой отчетности по РСБУ и МСФО с использованием ИИ и RPA",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn105l7injjvlhp5327",
+      "titleRu": "Интеллектуальная RPA-обработка счетов-фактур поставщиков с применением ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn105l9injjfkzqccvr",
+      "titleRu": "Интеллектуальная система управления дебиторской задолженностью с применением ИИ и RPA",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn105lbinjj2g9ia0gk",
+      "titleRu": "ИИ‑роботизация процессов бюджетного планирования и контроля исполнения бюджета",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn105ldinjjike3hd1t",
+      "titleRu": "Интеллектуальная IPA-автоматизация процедур финансового контроля в нефтегазовой и электроэнергетической компании",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn105lfinjjs0yrmztg",
+      "titleRu": "ИИ-платформа персонализированной финансовой аналитики для менеджеров проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn105lhinjjaytumfit",
+      "titleRu": "ИИ-аналитика для персонализированных финансовых дашбордов руководителей подразделений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn105ljinjj07uvp6kb",
+      "titleRu": "ИИ-система адаптивного бюджетирования под специфику направлений бизнеса",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn105llinjjo060byhk",
+      "titleRu": "ИИ‑персонализация финансовых отчетов для корпоративных клиентов",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn105lninjjzvjuejkn",
+      "titleRu": "ИИ‑модели для персонализированной оценки эффективности инвестиций клиентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn105lpinjjboh50t4w",
+      "titleRu": "ИИ-модели для оптимизации структуры капитала нефтегазовой компании",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn105lrinjjfaytuqws",
+      "titleRu": "AI-платформа прогнозирования ликвидности и оптимизации cash-flow",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn105ltinjjurkci1ld",
+      "titleRu": "ИИ-платформа оптимального размещения финансовых резервов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn105lvinjj73ks5lhw",
+      "titleRu": "Применение ИИ для оптимизации налогового планирования в нефтегазовом секторе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn105lxinjj6sx332f8",
+      "titleRu": "ИИ-система оптимизации и управления валютными позициями",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

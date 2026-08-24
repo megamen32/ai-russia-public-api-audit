@@ -1,0 +1,273 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkkc02hhinjjms62pdlr",
+      "titleRu": "Адаптивное обучение финансовому моделированию с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkc02hjinjjdw5d73p3",
+      "titleRu": "Предиктивная аналитика эффективности финансовых команд на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkc02hlinjjlmgvipfh",
+      "titleRu": "ИИ-подбор и оценка кандидатов в финансовые подразделения",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkc02hninjj1pojfurd",
+      "titleRu": "ИИ-анализ и моделирование для оптимизации организационной структуры финансовых департаментов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkc02hpinjjwquc2mle",
+      "titleRu": "Разработка инновационных финансовых инструментов с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkc02hrinjjyigy9i04",
+      "titleRu": "Применение ИИ для разработки инновационных моделей оценки активов и деривативов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkd02htinjjlkfelb7u",
+      "titleRu": "ИИ-оптимизация и разработка инновационных продуктов секьюритизации",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkd02hvinjjc02mv9a5",
+      "titleRu": "ИИ-driven продукты для управления личными финансами",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkd02hxinjjpl06237j",
+      "titleRu": "Разработка AI-моделей кредитования с использованием альтернативных данных",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkd02hzinjju6lwzqlr",
+      "titleRu": "Прогнозирование поведения клиентов и их жизненной ценности (LTV)",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkd02i1injjw7hzyrp8",
+      "titleRu": "AI-оптимизация атрибуции и прогнозирование эффективности маркетинговых каналов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkd02i3injjeapnd312",
+      "titleRu": "Предиктивная сегментация клиентской базы",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkd02i5injj9rdko677",
+      "titleRu": "ИИ-прогнозирование регионального спроса на финансовые продукты",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkd02i7injjo8vgvjmg",
+      "titleRu": "ИИ-анализ sentiment и прогнозирование брендинговых трендов в социальных сетях",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkd02i9injjb2tkwbak",
+      "titleRu": "Интеллектуальная автоматизация разработки и запуска персонализированных рекламных кампаний",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkd02ibinjjutwqi5xr",
+      "titleRu": "Интеллектуальная автоматизация лидогенерации и квалификации с применением ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkd02idinjjtl8dh9lp",
+      "titleRu": "AI-оптимизация и автоматизация контент-стратегии для социальных сетей",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkd02ifinjj5qh0doey",
+      "titleRu": "Интеллектуальная автоматизация email-маркетинга",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkd02ihinjj0agqlwys",
+      "titleRu": "Интеллектуальная автоматизация создания маркетинговых отчетов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkd02ijinjjnowckg2s",
+      "titleRu": "Персонализированные финансовые предложения на основе ИИ-анализа поведения клиентов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 499
+}

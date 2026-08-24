@@ -1,0 +1,273 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkiu00qninjj7h0lgnol",
+      "titleRu": "ИИ-платформа персонализированных рекомендаций по внедрению агроинноваций для клиентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiu00qpinjj1ot1mzbz",
+      "titleRu": "AI-система адаптивного R&D планирования сельхозпродукции под запросы рынка",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiu00qrinjje39j2q7d",
+      "titleRu": "ИИ-помощник для выбора приоритетных направлений аграрных исследований",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiu00qtinjj9jp217vr",
+      "titleRu": "AI-система персонализированной оценки готовности хозяйств к внедрению агроинноваций",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiu00qvinjjhhfu7pu6",
+      "titleRu": "ИИ-платформа персонализированного сопровождения инновационных агропроектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiv00qxinjj9jfa0ndl",
+      "titleRu": "ИИ-оптимизация распределения R&D бюджета между проектами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiv00qzinjj4cy55wtj",
+      "titleRu": "ИИ-система оптимального планирования и дизайна аграрных научных экспериментов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiv00r1injje47xzegl",
+      "titleRu": "ИИ-модель для оптимизации графиков и загрузки лабораторного оборудования в агроисследованиях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiv00r3injj2yafcf9n",
+      "titleRu": "ИИ-алгоритм оптимизации портфеля агроинновационных проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiv00r5injjrgmvsycy",
+      "titleRu": "ИИ-оптимизация временных циклов разработки новых сортов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiv00r7injjn57x35bn",
+      "titleRu": "ИИ-система мониторинга прогресса селекционных программ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiv00r9injj5ubi5l26",
+      "titleRu": "AI-платформа контроля качества проведения полевых агроопытов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiv00rbinjjq1zlbevt",
+      "titleRu": "ИИ-мониторинг эффективности инвестиций в R&D проекты",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiv00rdinjjewkpvy89",
+      "titleRu": "AI-система мониторинга и анализа внедрения агроинноваций в производстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiv00rfinjjpuijtmgt",
+      "titleRu": "ИИ-контроль соблюдения протоколов научных исследований",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiv00rhinjj5j72mkrj",
+      "titleRu": "ИИ-система поддержки решений по выбору направлений селекции",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiv00rjinjjryt82u1p",
+      "titleRu": "AI-DSS для приоритизации R&D проектов в сельском хозяйстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiv00rlinjjm1z51abb",
+      "titleRu": "ИИ-платформа поддержки решений по коммерциализации аграрных R&D-разработок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiv00rninjj501pa1lx",
+      "titleRu": "AI-система поддержки решений по выбору и управлению инновационными партнёрствами в агробизнесе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiv00rpinjjznxo9a94",
+      "titleRu": "ИИ-помощник для выбора стратегии защиты интеллектуальной собственности в агроисследованиях",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

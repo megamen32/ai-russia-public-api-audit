@@ -1,0 +1,272 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkmv05fbinjjsfhmugp7",
+      "titleRu": "ИИ-модель прогнозирования цен на нефть и газ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmw05fdinjjcdzh5owk",
+      "titleRu": "ИИ-система анализа и прогнозирования геополитических рисков на энергетических рынках",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmw05ffinjjyncfj36e",
+      "titleRu": "ИИ‑платформа прогнозирования спроса на энергоресурсы",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmw05fhinjjnt3jkwbz",
+      "titleRu": "ML-модель оценки и прогнозирования перспективности нефтегазовых месторождений",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmw05fjinjjjl34amyw",
+      "titleRu": "ИИ-система анализа конкурентной среды энергетического сектора",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmw05flinjjkxf2fwun",
+      "titleRu": "ИИ-автоматизация процесса стратегического планирования добычи нефти и газа",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmw05fninjjmb0gj0gk",
+      "titleRu": "ИИ‑поддерживаемая RPA-платформа для подготовки отчетов по ESG‑показателям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmw05fpinjjrr8q6k0g",
+      "titleRu": "AI‑система интеллектуального анализа и отбора инвестиционных проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmw05frinjjy3g8dn73",
+      "titleRu": "ИИ‑управляемая роботизация процессов M&A в энергетике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmw05ftinjjpyfftc9d",
+      "titleRu": "Интеллектуальная IPA-платформа для оптимизации портфеля энергетических и нефтегазовых активов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmw05fvinjj78x9riy4",
+      "titleRu": "ИИ-платформа персонализированной аналитики для инвесторов и акционеров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmw05fxinjjgxggsuhm",
+      "titleRu": "ИИ-дашборды для топ-менеджмента с персонализированной аналитикой",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmw05fzinjjp2j7gne9",
+      "titleRu": "AI‑система персонализированных уведомлений о стратегически важных событиях для клиентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmw05g1injj4ywbv5zs",
+      "titleRu": "AI‑генерация персонализированной регуляторной отчётности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmw05g3injjgi924qa6",
+      "titleRu": "ИИ‑подпитываемые адаптивные интерфейсы стратегического планирования для персонализированного клиентского опыта",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmw05g5injjxbtw3wiq",
+      "titleRu": "AI‑платформа оптимизации капиталовложений в разведку месторождений",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmw05g7injju9ni97nj",
+      "titleRu": "ИИ-система управления стратегическими резервами энергоресурсов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmw05g9injjjcotvrt5",
+      "titleRu": "Оптимизация географического портфеля активов с помощью AI-моделей прогнозирования добычи и цен",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmw05gbinjj1926q6qn",
+      "titleRu": "AI‑платформа управления инновационными проектами и портфелем R&D",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmw05gdinjj2jx6lxpj",
+      "titleRu": "AI-система оптимального распределения бюджета по направлениям",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

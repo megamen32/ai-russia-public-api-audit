@@ -1,0 +1,276 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkoq07jzinjj08lv1411",
+      "titleRu": "Предиктивная аналитика для управления рисками перебоев в поставках критически важных материалов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoq07k1injjvydw8dcn",
+      "titleRu": "Предиктивное управление рисками зависимости от единственных поставщиков с ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoq07k3injj7qreab3l",
+      "titleRu": "AI-прогнозирование и хеджирование валютных рисков в международных закупках",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoq07k5injjmok3v0z9",
+      "titleRu": "Предиктивная оценка рисков качества автокомпонентов с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoq07k7injjxitwuzls",
+      "titleRu": "Предиктивный анализ и ИИ-мониторинг рисков безопасности поставщиков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoq07k9injj8o5g2t3h",
+      "titleRu": "AI-ассистент для персонализированного обучения закупщиков специфике транспортной отрасли",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoq07kbinjjzoedi7oq",
+      "titleRu": "Система на базе ИИ для персонализированного обучения и симуляции переговоров с поставщиками",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoq07kdinjjc59ic6k7",
+      "titleRu": "Персонализированное развитие компетенций по управлению категориями закупок на основе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoq07kfinjjdq17oxie",
+      "titleRu": "Платформа на базе ИИ для развития компетенций по управлению поставщиками и оптимизации работы центров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoq07khinjjozoem9td",
+      "titleRu": "ИИ-аналитика и обучающие программы для повышения этики и комплаенса в закупочной деятельности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoq07kjinjjvutjrkul",
+      "titleRu": "AI-платформа для интеллектуального управления поставщиками и оптимизации логистических цепочек",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoq07klinjj0w9aj7s7",
+      "titleRu": "Предиктивная аналитика ИИ для повышения прозрачности и эффективности цепей поставок на базе блокчейна",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoq07kninjj0qhcjo3y",
+      "titleRu": "Интеллектуальная система для оптимизации поиска и выбора поставщиков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoq07kpinjj1h3whziy",
+      "titleRu": "ИИ-анализ IoT-данных для предиктивного мониторинга качества поставок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoq07krinjjnzg1h5o6",
+      "titleRu": "Разработка инновационных моделей сотрудничества с поставщиками на основе ИИ-анализа данных",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoq07ktinjjr6dmudws",
+      "titleRu": "Предиктивная аналитика изменений в транспортном законодательстве на основе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoq07kvinjjej3a8iji",
+      "titleRu": "AI-прогнозирование и анализ рисков нарушений в международных грузоперевозках",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoq07kxinjjfmehy3aq",
+      "titleRu": "ИИ-прогнозирование влияния новых экологических норм на транспортную отрасль",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoq07kzinjjbc4ujsvi",
+      "titleRu": "AI-анализ судебной практики и прогнозирование исходов транспортных споров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoq07l1injjq4uxqfyd",
+      "titleRu": "AI-прогнозирование изменений в налоговом регулировании транспортной отрасли",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 493
+}

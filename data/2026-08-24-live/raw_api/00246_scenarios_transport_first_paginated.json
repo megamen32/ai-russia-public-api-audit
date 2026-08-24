@@ -1,0 +1,271 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwko806yvinjjkmth08wo",
+      "titleRu": "Предиктивная аналитика на базе ИИ для стратегического развития логистических коридоров",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko806yxinjjeyc14c43",
+      "titleRu": "Предиктивная аналитика интермодальных перевозок на базе ИИ для стратегического планирования",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko806yzinjjee1re5n3",
+      "titleRu": "AI-прогнозирование воздействия климатических изменений на транспортную инфраструктуру",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko806z1injj13fx629i",
+      "titleRu": "Прогнозирование грузопотоков между регионами с использованием машинного обучения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko806z3injjgu2mrckb",
+      "titleRu": "AI-прогнозирование развития беспилотного транспорта в логистике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko806z5injj4hurfvtr",
+      "titleRu": "Интеллектуальная автоматизация и анализ данных для стратегических отчетов по развитию транспорта",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko806z7injjj9x8yfzr",
+      "titleRu": "Роботизация процессов сбора данных для стратегического анализа рынка",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko806z9injj9yxd69n6",
+      "titleRu": "AI-мониторинг и интеллектуальный анализ конкурентной среды в транспортной отрасли",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko806zbinjjhb9mp537",
+      "titleRu": "Интеллектуальная автоматизация планирования инвестиций в транспортную инфраструктуру",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko806zdinjjr0la1ta1",
+      "titleRu": "ИИ-генерация и систематизация презентаций для совета директоров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko806zfinjj39kw4vp6",
+      "titleRu": "Использование ИИ для разработки персонализированных стратегий развития корпоративных клиентов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko806zhinjjzqo1zi8t",
+      "titleRu": "ИИ-рекомендации для персонализированных стратегий цифровизации партнеров в транспорте",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko806zjinjjwdawxc3p",
+      "titleRu": "ИИ-анализ для персонализированного развития региональных хабов с улучшением клиентского опыта",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko806zlinjj9rxrsp8h",
+      "titleRu": "Персонализация предложений устойчивой логистики и ESG-коммуникаций с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko806zninjj2hg25t62",
+      "titleRu": "Персонализация партнерских отношений с перевозчиками на основе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko806zpinjjyigmfufj",
+      "titleRu": "AI-оптимизация распределения капитальных инвестиций в транспортной отрасли",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko806zrinjjxck3iehh",
+      "titleRu": "AI-оптимизация и предиктивное управление портфелем стратегических проектов в транспортной индустрии",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko806ztinjjdtb38thp",
+      "titleRu": "Предиктивная оптимизация структуры транспортной сети на основе ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko806zvinjjsz7d4hbg",
+      "titleRu": "ИИ-оптимизация и предиктивное управление ресурсами для международной экспансии",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko806zxinjjlq0iy691",
+      "titleRu": "Предиктивное моделирование и ИИ-оптимизация инвестиций в устойчивые транспортные технологии",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 493
+}

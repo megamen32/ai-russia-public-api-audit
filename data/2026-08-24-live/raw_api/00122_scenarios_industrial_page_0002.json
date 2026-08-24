@@ -1,0 +1,275 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwklk03wvinjjns0v9v8x",
+      "titleRu": "AI-мониторинг реализации стратегии цифровизации производства и контроль KPI",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklk03wxinjj9dvdclpi",
+      "titleRu": "ИИ-мониторинг соответствия промышленной стратегии ESG-целям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklk03wzinjj3f6ejge2",
+      "titleRu": "ИИ-мониторинг ключевых индикаторов промышленной безопасности на стратегическом уровне",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkll03x1injjna1qafkb",
+      "titleRu": "ИИ-мониторинг конкурентных преимуществ в области умного производства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkll03x3injjqzinjgdv",
+      "titleRu": "AI‑мониторинг эффективности инвестиций в инициативы Индустрии 4.0",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkll03x5injjg4h9rhan",
+      "titleRu": "ИИ-советник для стратегических решений по модернизации производства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkll03x7injjfvaxatfv",
+      "titleRu": "AI-система поддержки решений по диверсификации промышленного портфеля",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkll03x9injjiwm9bq27",
+      "titleRu": "ИИ-система поддержки выбора технологий автоматизации в промышленности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkll03xbinjjs2zpy2q1",
+      "titleRu": "ИИ-помощник для принятия решений о промышленных партнерствах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkll03xdinjjzdm319lr",
+      "titleRu": "AI-система рекомендаций по стратегическому развитию и оптимизации производственных линий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkll03xfinjjwv980ubi",
+      "titleRu": "ИИ-генерация стратегических презентаций по промышленной трансформации",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkll03xhinjj1rsyk97w",
+      "titleRu": "ИИ-система автоматической генерации отчетов о состоянии промышленных активов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkll03xjinjj4kfmvxce",
+      "titleRu": "ИИ-генерация стратегических roadmap по внедрению умного производства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkll03xlinjj74rfazml",
+      "titleRu": "ИИ-аналитика для создания обзоров промышленных технологий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkll03xninjj2yct9vj6",
+      "titleRu": "ИИ‑ассистент для автоматической подготовки материалов к заседаниям совета директоров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkll03xpinjjmxwpdpkw",
+      "titleRu": "ИИ-прогнозирование стратегических рисков цифровизации производства",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkll03xrinjjhwdvtphz",
+      "titleRu": "ИИ-анализ и прогнозирование киберрисков промышленных систем управления (ICS/SCADA)",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkll03xtinjjw5g45xe8",
+      "titleRu": "ИИ‑модели для оценки и прогнозирования рисков прерывания производственных цепочек",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkll03xvinjjly7n75rx",
+      "titleRu": "AI-моделирование рисков промышленных инвестиционных проектов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkll03xxinjjlma8l047",
+      "titleRu": "ИИ-анализ регуляторных рисков и мониторинг комплаенса для промышленных предприятий",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

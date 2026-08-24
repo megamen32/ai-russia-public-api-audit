@@ -1,0 +1,271 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkl0039jinjj7enobj57",
+      "titleRu": "ИИ-система аналитики и прогнозирования эффективности рекламных кампаний медицинских услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl0039linjjhogyndee",
+      "titleRu": "AI-платформа предиктивной аналитики узнаваемости бренда клиники среди целевых пациентских сегментов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl1039ninjjql0r6a8n",
+      "titleRu": "AI-модель прогнозирования ROI маркетинговых инвестиций в продвижение медицинских услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl1039pinjjmafjhw8f",
+      "titleRu": "ИИ-система аналитики и прогнозирования конкурентного позиционирования на рынке частной медицины",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl1039rinjjwh0vspn4",
+      "titleRu": "ИИ-прогнозирование потенциала географического расширения медицинских услуг и спроса на них",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl1039tinjjuy2dazm3",
+      "titleRu": "Интеллектуальная RPA-платформа для автоматизации управления digital-маркетингом медицинских услуг с использованием AI",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl1039vinjjnldqmwez",
+      "titleRu": "ИИ-платформа для автоматизированной персонализированной email-рассылки медицинских напоминаний пациентам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl1039xinjjh3skoj8w",
+      "titleRu": "ИИ-бот для автоматического управления репутацией клиники в медицинских онлайн-каталогах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl1039zinjjm7lx1tsy",
+      "titleRu": "ИИ- и RPA-решение автоматизации контент-маркетинга для продвижения профилактических медицинских программ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl103a1injjnm5hk63q",
+      "titleRu": "Интеллектуальная RPA‑система с ИИ для автоматизации CRM-процессов привлечения новых пациентов в клинику",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl103a3injj461ej4p3",
+      "titleRu": "ИИ-система персонализации маркетинговых сообщений под медицинские потребности пациентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl103a5injji8hco9zt",
+      "titleRu": "AI-платформа персонализации рекламных предложений медицинских услуг по возрастным группам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl103a7injjzwqq9doo",
+      "titleRu": "ИИ-модель персонализированных программ лояльности для пациентов с хроническими заболеваниями",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl103a9injjh0nkspmr",
+      "titleRu": "ИИ-система персонализированной выдачи контента на сайте клиники для разных сегментов пациентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl103abinjjqe9ppwxo",
+      "titleRu": "ИИ-решение персонализации маркетинговых кампаний под сезонные медицинские потребности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl103adinjjy3ga9c5p",
+      "titleRu": "ИИ-система оптимизации бюджетов на рекламу различных медицинских направлений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl103afinjjdangxofr",
+      "titleRu": "AI‑платформа оптимизации маркетинговых каналов привлечения пациентов по медицинским специализациям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl103ahinjjlhe52nfc",
+      "titleRu": "ИИ-модель оптимизации медиа-микса для продвижения инновационных медицинских технологий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl103ajinjjuf83bw4r",
+      "titleRu": "AI-система оптимизации маркетинговых инвестиций в развитие телемедицинских сервисов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl103alinjjjb3kzddt",
+      "titleRu": "ИИ-решение оптимизации стратегии ценообразования на платные медицинские услуги",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

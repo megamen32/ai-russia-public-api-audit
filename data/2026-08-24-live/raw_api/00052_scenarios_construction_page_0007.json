@@ -1,0 +1,269 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkj200zjinjjyeuxi69e",
+      "titleRu": "ИИ-система для оптимизации распределения рекламного инвентаря между строительными проектами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj200zlinjjdirldnl7",
+      "titleRu": "ИИ-анализ репутации бренда девелопера в медиа и соцсетях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj200zninjjcb98jvry",
+      "titleRu": "ИИ-система для предиктивного мониторинга и контроля эффективности рекламных кампаний ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj200zpinjjgmjkhddx",
+      "titleRu": "ИИ-контроль качества клиентского сервиса в отделах продаж новостроек",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "ASR"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj200zrinjjzppyxvpa",
+      "titleRu": "AI-система для интеллектуального мониторинга и анализа конкурентных цен на объекты недвижимости",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj200ztinjjeyl30h49",
+      "titleRu": "ИИ-анализ и автоматический контроль соответствия маркетинговых материалов бренд-гайдам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj200zvinjjls2nyojn",
+      "titleRu": "Предиктивная AI-система для динамического ценообразования на квартиры в ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj200zxinjjst0686h8",
+      "titleRu": "ИИ-советник по выбору маркетинговой стратегии для различных сегментов ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj200zzinjjepi8cvne",
+      "titleRu": "AI-система предиктивной аналитики для выбора партнёрских риелторских агентств",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj20101injj0c4fh1ki",
+      "titleRu": "AI-система предиктивного анализа и оптимизации инвестиций в digital-маркетинг девелоперских проектов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj20103injjvwjr7j5p",
+      "titleRu": "ИИ-помощник в выборе концепции брендинга новых жилых комплексов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj20105injj5son36jv",
+      "titleRu": "ИИ-генератор рекламных текстов для продвижения квартир в новостройках",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj20107injjc0mkmvex",
+      "titleRu": "AI-платформа для автоматической генерации виртуальных туров по жилым комплексам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj20109injj9226zd2q",
+      "titleRu": "ИИ-генератор персонализированных презентаций квартир для покупателей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj2010binjj1oqta2y1",
+      "titleRu": "ИИ-создание контент-плана для социальных сетей девелоперской компании",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj2010dinjji59r7ka0",
+      "titleRu": "AI-генерация пресс-релизов о новых ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj3010finjj4cgv31fz",
+      "titleRu": "AI-система мониторинга и прогнозирования репутационных рисков девелоперского бренда",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj3010hinjjefsud2r2",
+      "titleRu": "ИИ-мониторинг рисков негативного PR вокруг строительных проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj3010jinjjuiseucfm",
+      "titleRu": "ИИ-система для автоматизированного анализа рекламного контента и снижения юридических рисков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj3010linjjoamvsl4u",
+      "titleRu": "Система прогнозного управления рисками срыва маркетинговых кампаний ЖК на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

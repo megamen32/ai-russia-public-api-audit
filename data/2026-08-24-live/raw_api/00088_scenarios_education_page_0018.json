@@ -1,0 +1,277 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkk0023jinjjn9hoby7j",
+      "titleRu": "ИИ-платформа развития цифровых компетенций преподавателей и административного персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk0023linjjahvoa33q",
+      "titleRu": "ИИ-модуль обучения цифровым и IT‑навыкам для эффективного использования образовательных технологий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk0023ninjjfmxhirr0",
+      "titleRu": "ИИ-платформа для развития навыков создания цифрового контента у преподавателей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk0023pinjj48l2l632",
+      "titleRu": "ИИ-платформа адаптивных тренингов по кибербезопасности для пользователей образовательных систем",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk0023rinjj8e2crcp1",
+      "titleRu": "ИИ-коуч на базе LLM для развития навыков работы с большими данными в образовательной аналитике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk0023tinjj0bmq1q3f",
+      "titleRu": "ИИ-платформы для персонализированного обучения с VR/AR/MR и интеллектуальной адаптацией контента",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk0023vinjjef1mzm7w",
+      "titleRu": "ИИ-платформа для создания геймифицированных форматов дистанционного обучения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk0023xinjj40mw1hnf",
+      "titleRu": "ИИ-платформа разработки блокчейн-решений для интеллектуальной верификации образовательных достижений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk0023zinjjobevc0n1",
+      "titleRu": "ИИ-лаборатория создания адаптивных систем искусственного интеллекта в образовании",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk00241injjtc7wbwpx",
+      "titleRu": "ИИ‑платформа интеллектуальной интеграции и управления IoT‑устройствами в образовательной среде университета",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk00243injjnzxgivo3",
+      "titleRu": "ИИ-аналитика потребностей в учебных материалах и оборудовании для образовательного процесса",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk10245injjgi7io0q2",
+      "titleRu": "ИИ-система прогнозирования потребности в учебной литературе и цифровых образовательных ресурсах",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk10247injj4prgkt44",
+      "titleRu": "ИИ-модуль анализа и прогнозирования эффективности поставщиков лабораторного и научного оборудования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk10249injjr1l2ec5h",
+      "titleRu": "ИИ-прогнозирование потребностей в канцелярских и расходных материалах для учебных заведений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk1024binjjjvij3l7e",
+      "titleRu": "AI-платформа аналитики и прогнозирования совокупной стоимости владения образовательными технологиями и оборудованием",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk1024dinjjfdp5mq7l",
+      "titleRu": "Интеллектуальная роботизация процесса заказа учебников и методических материалов для библиотеки с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk1024finjjrkdaoody",
+      "titleRu": "ИИ‑автоматизация закупочных процедур лабораторного и компьютерного оборудования (RPA/ML)",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk1024hinjjddm9vtfi",
+      "titleRu": "ИИ-система автоматизации контроля качества поставляемых образовательных ресурсов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk1024jinjjckly8d8v",
+      "titleRu": "Интеллектуальный RPA-робот для автоматического формирования заявок на хозяйственные нужды университета",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk1024linjjqmoyr2qh",
+      "titleRu": "Интеллектуальная автоматизация инвентаризации и учета материально-технических средств с применением ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

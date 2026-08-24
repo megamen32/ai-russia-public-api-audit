@@ -1,0 +1,269 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkjw01z3injjmtc20xil",
+      "titleRu": "ИИ-платформа персонализированных программ профессионального развития для преподавателей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjw01z5injjtezxw8mr",
+      "titleRu": "ИИ-помощник для индивидуализации карьерных траекторий сотрудников университета",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjw01z7injjzpffsc3e",
+      "titleRu": "ИИ-система персональных рекомендаций по повышению квалификации и обучению сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjw01z9injjk6gmimma",
+      "titleRu": "ИИ-персонализация мотивации и вовлечения преподавателей в научную деятельность",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjw01zbinjj0l3uigqm",
+      "titleRu": "ИИ-планирование рабочего времени с персонализацией графиков под потребности сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjw01zdinjjg6oofzfk",
+      "titleRu": "ИИ-оптимизация распределения учебной нагрузки между преподавателями кафедр",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjw01zfinjjuycuclu9",
+      "titleRu": "ИИ-система оптимального планирования и моделирования штатного расписания образовательного учреждения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjx01zhinjjgsegtoj3",
+      "titleRu": "ИИ-модуль оптимизации затрат на обучение и развитие персонала университета",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjx01zjinjj3b01ru0e",
+      "titleRu": "ИИ-планировщик и оптимизатор рабочего времени административного персонала в образовательной организации",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjx01zlinjj1etla4dk",
+      "titleRu": "AI-система оптимизации замещения временно отсутствующих преподавателей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjx01zninjj6ca95nvq",
+      "titleRu": "ИИ‑система мониторинга качества преподавания и оценки педагогического мастерства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjx01zpinjjz2duguqv",
+      "titleRu": "ИИ-контроллер соблюдения трудового законодательства в образовательной сфере",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjx01zrinjjl455v8bj",
+      "titleRu": "AI‑модуль мониторинга и прогнозирования профессионального выгорания преподавателей и сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjx01ztinjjr5uc6wj2",
+      "titleRu": "ИИ-система мониторинга выполнения индивидуальных планов развития персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjx01zvinjjvcpng529",
+      "titleRu": "ИИ-аналитика эффективности HR-процессов и кадровых решений в университете",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjx01zxinjjxthtqb07",
+      "titleRu": "ИИ-система поддержки решений по найму и продвижению академических кадров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjx01zzinjjpu73o0k7",
+      "titleRu": "ИИ-модуль поддержки решений по реорганизации кафедр и академических подразделений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjx0201injjtfizwlwi",
+      "titleRu": "AI-платформа поддержки решений по инвестициям в развитие человеческого капитала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjx0203injj0mwh0roe",
+      "titleRu": "ИИ-консультант для принятия HR-решений по условиям труда и социальным льготам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjx0205injjp0jz98qr",
+      "titleRu": "AI-платформа поддержки решений по управлению талантами в образовательных организациях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

@@ -1,0 +1,269 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkkz038finjjekrskwdd",
+      "titleRu": "ИИ-платформа автоматической генерации и консолидации финансовой отчетности по медицинским направлениям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl0038hinjjl98diavb",
+      "titleRu": "ИИ-платформа автоматизированного формирования бюджетных планов медицинских отделений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl0038jinjjcrdfwl60",
+      "titleRu": "ИИ‑модель генерации инвестиционных предложений для развития клиники",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl0038linjjidsx3egk",
+      "titleRu": "ИИ-система автоматизированного создания финансовых презентаций эффективности медицинских услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl0038ninjjrl5w9mh9",
+      "titleRu": "ИИ-решение для генерации и анализа отчетов о рентабельности медицинских направлений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl0038pinjj68rzauht",
+      "titleRu": "ИИ-система управления финансовыми рисками медицинского страхования",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl0038rinjj4rx3rnii",
+      "titleRu": "AI-платформа анализа кредитных рисков и скоринга финансирования медицинских проектов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl0038tinjjrt4dn97k",
+      "titleRu": "ИИ‑модель управления валютными рисками при закупке импортного медоборудования",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl0038vinjjghlju9b1",
+      "titleRu": "ИИ-система прогнозирования и анализа рисков ликвидности в сезонные периоды медицинской активности",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl0038xinjjvzzzd7l0",
+      "titleRu": "ИИ-система прогнозирования и управления риском неплатежей пациентов за медицинские услуги",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl0038zinjjkiptfc06",
+      "titleRu": "ИИ-платформа прогнозирования и оптимизации бюджета на обучение и развитие медицинского персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl00391injjsrk32kjt",
+      "titleRu": "ИИ-платформа финансового планирования и оптимизации программ мотивации врачей и медсестер",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl00393injjqszg1mfg",
+      "titleRu": "ИИ-модель оптимизации затрат на программы повышения квалификации медицинских специалистов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl00395injj5jcbdu67",
+      "titleRu": "ИИ-система бюджетирования и оптимизации корпоративных программ поддержки медицинского персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl00397injj31hcb7kl",
+      "titleRu": "ИИ-платформа финансового планирования и моделирования организационных изменений в клинике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl00399injjyfsr6asu",
+      "titleRu": "ИИ-платформа финансового планирования и оценки окупаемости внедрения инновационных медицинских технологий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl0039binjjxba6etqn",
+      "titleRu": "ИИ-платформа прогнозного бюджетирования разработки новых медицинских сервисов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl0039dinjjbfavexet",
+      "titleRu": "ИИ-модели оценки и отбора финансирования пилотных проектов цифровой медицины",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl0039finjj59z4vc5v",
+      "titleRu": "ИИ-система инвестиционного планирования и оценки окупаемости центров персонализированной медицины",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl0039hinjjzqpjjkr5",
+      "titleRu": "ИИ-платформа для финансового обоснования внедрения систем ИИ-диагностики в медицинских учреждениях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

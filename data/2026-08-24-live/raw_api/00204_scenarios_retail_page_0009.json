@@ -1,0 +1,267 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwknr06fzinjjtca1pqva",
+      "titleRu": "Персонализированные товарные рекомендации на основе истории покупок с использованием моделей машинного обучения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknr06g1injjar2pxqvr",
+      "titleRu": "AI-персонализация индивидуальных скидок и предложений для повышения лояльности клиентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknr06g3injjgo88trif",
+      "titleRu": "ИИ‑персонализация онбординга новых клиентов в e-com",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknr06g5injj7232q77h",
+      "titleRu": "Персональные консультации и поддержка клиентов через ИИ чат-ботов на базе LLM",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknr06g7injjrxwnf80k",
+      "titleRu": "ИИ-персонализация способов доставки и оплаты для клиентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknr06g9injjlrzu570a",
+      "titleRu": "Оптимизация товарного ассортимента с помощью ML по маржинальности и оборачиваемости",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknr06gbinjjr9risu6r",
+      "titleRu": "AI-оптимизация и прогнозирование товарных запасов в рознице",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkns06gdinjjukps0810",
+      "titleRu": "AI-оптимизация динамического ценообразования для максимизации прибыли в e-com",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkns06gfinjjuvoh5e8e",
+      "titleRu": "ИИ-оптимизация графиков и численности персонала продаж по загруженности точек",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkns06ghinjjwalr0t7r",
+      "titleRu": "Оптимизация размещения товаров в торговом зале с помощью компьютерного зрения и ML",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkns06gjinjje5c5qau6",
+      "titleRu": "ИИ‑система реального мониторинга и прогноза KPI продаж",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkns06glinjjlf7z12b1",
+      "titleRu": "AI-контроль выполнения планов продаж по подразделениям в режиме реального времени",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkns06gninjjr0sx0nrl",
+      "titleRu": "ИИ-система автоматического мониторинга качества обслуживания клиентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkns06gpinjj5j7k80k4",
+      "titleRu": "AI-аналитика эффективности работы продавцов и консультантов в рознице",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkns06grinjj1vf66w52",
+      "titleRu": "AI-мониторинг конкурентоспособности цен и ассортимента в режиме реального времени",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkns06gtinjjw410mzsm",
+      "titleRu": "AI-система поддержки решений по расширению ассортимента",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkns06gvinjja99nwaps",
+      "titleRu": "ИИ-рекомендации по оптимизации воронки продаж",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkns06gxinjjryddih9p",
+      "titleRu": "AI-поддержка решений по ценообразованию в ритейле и e-com",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkns06gzinjjbynu963f",
+      "titleRu": "AI-система рекомендаций по работе с проблемными клиентами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkns06h1injj9tl02a8s",
+      "titleRu": "ИИ-ассистент для принятия решений об открытии и закрытии офлайн-точек продаж",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

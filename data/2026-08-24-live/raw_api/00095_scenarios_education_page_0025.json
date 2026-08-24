@@ -1,0 +1,282 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkk702bbinjj0hyf6ne4",
+      "titleRu": "ИИ-генератор научных отчетов и публикаций на основе результатов исследований",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk702bdinjj8x1w18mp",
+      "titleRu": "ИИ-система автоматической подготовки заявок на патенты и регистрацию изобретений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk702bfinjjkek06n8e",
+      "titleRu": "ИИ‑генератор презентаций научных результатов для конференций и симпозиумов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk702bhinjjaqwiqc1l",
+      "titleRu": "ИИ-помощник для автоматизированной подготовки ТЗ на научно-исследовательские работы",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk702bjinjjymhb72lp",
+      "titleRu": "ИИ-система автоматической генерации и анализа обзоров научных направлений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk702blinjjwohzy78w",
+      "titleRu": "ИИ-система оценки рисков научно-исследовательских проектов и их финансирования",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk702bninjjhfioe549",
+      "titleRu": "ИИ-модуль управления рисками безопасности при работе с опасными веществами в лабораториях",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk702bpinjjranf60dp",
+      "titleRu": "ИИ-система оценки этических рисков научных исследований с участием человека",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk702brinjjyel641d8",
+      "titleRu": "ИИ-анализатор рисков утечки результатов научных исследований и коммерческих секретов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk702btinjjpkk6oqlh",
+      "titleRu": "ИИ‑платформа управления репутационными рисками при публикации спорных научных результатов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk702bvinjj3zismg5b",
+      "titleRu": "ИИ-платформа развития исследовательских компетенций молодых ученых и аспирантов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk702bxinjjo4fj8amp",
+      "titleRu": "ИИ-модуль для адаптивного обучения навыкам проектного управления в научно-исследовательских организациях",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk702bzinjjmg1h64vl",
+      "titleRu": "ИИ-платформа развития навыков коммерциализации и трансфера технологий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk702c1injj629c5rhd",
+      "titleRu": "ИИ-платформа менторинга для начинающих исследователей с рекомендацией наставников и контента",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk802c3injj5f3fqhj7",
+      "titleRu": "ИИ-коуч на базе LLM для развития навыков научной коммуникации и презентации результатов исследований",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "TTS"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk802c5injj5du6bd4s",
+      "titleRu": "ИИ-платформа для разработки прорывных образовательных технологий на основе анализа научных исследований",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk802c7injjowatxrua",
+      "titleRu": "ИИ‑платформа для разработки новых форматов исследовательского образования и научных программ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk802c9injje39fov4t",
+      "titleRu": "ИИ‑модуль для разработки и тестирования инновационных методов проведения научных исследований",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk802cbinjjyxgnp8hh",
+      "titleRu": "ИИ-лаборатория по созданию междисциплинарных научно-образовательных продуктов на базе LLM и ИИ-агентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk802cdinjjss46p30p",
+      "titleRu": "ИИ-платформа для управления инновациями и развития стартап-экосистемы в университете",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

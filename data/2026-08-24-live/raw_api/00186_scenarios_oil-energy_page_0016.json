@@ -1,0 +1,275 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkna05vzinjjfnnutd3n",
+      "titleRu": "ИИ-анализ производительности IT-инфраструктуры",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkna05w1injj60iwkyx4",
+      "titleRu": "ИИ-прогнозирование потребности в вычислительных ресурсах ИТ-инфраструктуры",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkna05w3injj9gx43gu6",
+      "titleRu": "ИИ-система анализа трендов цифровизации нефтегазового сектора",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkna05w5injjtspv8lf4",
+      "titleRu": "ИИ-модель прогнозирования киберугроз и уязвимостей для ИТ-инфраструктуры",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkna05w7injj9cxzdk1m",
+      "titleRu": "ИИ-платформа для оценки эффективности и приоритизации цифровых проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkna05w9injjjq18ocur",
+      "titleRu": "Интеллектуальная автоматизация резервного копирования и восстановления с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkna05wbinjjeozfjst5",
+      "titleRu": "ИИ-управление пользователями и доступами с использованием RPA",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkna05wdinjjpvbnqtvx",
+      "titleRu": "Интеллектуальная система мониторинга и предиктивной аналитики IT-инфраструктуры",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkna05wfinjjm7wmqdby",
+      "titleRu": "Интеллектуальная роботизация процессов планирования и выполнения обновлений ПО",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkna05whinjjpjuw4hdr",
+      "titleRu": "Интеллектуальная IPA-платформа для автоматизации процедур технической поддержки в энергетике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkna05wjinjjtx8golwu",
+      "titleRu": "ИИ‑персонализация корпоративного портала для сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkna05wlinjjj403t2h1",
+      "titleRu": "ИИ-персонализация цифровых рабочих мест для сотрудников энергокомпаний",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkna05wninjjzoy926tj",
+      "titleRu": "Персонализированная AI-система уведомлений и предиктивных алертов для клиентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkna05wpinjjgnq1x55c",
+      "titleRu": "AI‑поддерживаемые адаптивные интерфейсы производственных систем для персонализации рабочих мест",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkna05wrinjjz8gsfqif",
+      "titleRu": "ИИ-персонализация дашбордов для различных ролей пользователей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknb05wtinjjnyk4qksp",
+      "titleRu": "ИИ-оптимизация использования облачных вычислительных ресурсов в энергетике и нефтегазе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknb05wvinjjnnpil8pn",
+      "titleRu": "ИИ-система оптимизации и управления лицензиями программного обеспечения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknb05wxinjj38ar4j9y",
+      "titleRu": "ИИ-оптимизация архитектуры корпоративного хранилища данных в энергетике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknb05wzinjjof3wl2iv",
+      "titleRu": "ИИ‑платформа интеллектуального управления IT‑активами в нефтегазовой компании",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknb05x1injj82dtk16g",
+      "titleRu": "AI-система оптимального планирования и прогнозирования IT-бюджета",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

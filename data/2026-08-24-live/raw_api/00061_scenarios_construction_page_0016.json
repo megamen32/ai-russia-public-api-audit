@@ -1,0 +1,262 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkja019jinjj38pnsb61",
+      "titleRu": "Система ИИ-рекрутинга специалистов строительной отрасли",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkja019linjjbf7ihzv2",
+      "titleRu": "ИИ-система прогнозирования IT-потребностей девелоперских проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkja019ninjjvolqrc6t",
+      "titleRu": "AI-модель прогнозирования цифровой зрелости строительных компаний",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkja019pinjj49f2q103",
+      "titleRu": "Предиктивная ИИ-аналитика эффективности цифровых решений в ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkja019rinjju8i7t16w",
+      "titleRu": "ИИ-платформа прогнозирования киберугроз для строительной отрасли",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkja019tinjj8sov4whx",
+      "titleRu": "ИИ-анализатор ROI от внедрения цифровых технологий в девелопменте",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjb019vinjj5n1jkdmr",
+      "titleRu": "Роботизация процесса интеграции информационных систем ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjb019xinjjkzyb70hx",
+      "titleRu": "Автоматизация развёртывания IT-инфраструктуры на строительных объектах с использованием RPA/IPA",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjb019zinjj2lhz9lwx",
+      "titleRu": "RPA-бот для управления цифровыми активами девелоперской компании",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjb01a1injj0hti3ibs",
+      "titleRu": "Интеллектуальная автоматизация процессов резервного копирования данных в строительстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjb01a3injjcsh3pj1u",
+      "titleRu": "Предиктивный мониторинг и автоматизация реагирования на инциденты IT-систем ЖК на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjb01a5injjhgl75jdx",
+      "titleRu": "Мобильные приложения для жителей ЖК с ИИ-персонализацией услуг и контента",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjb01a7injjwxtm8thg",
+      "titleRu": "ИИ-система индивидуальной настройки умных квартир в новостройках",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjb01a9injj26t864ae",
+      "titleRu": "Интеллектуальная платформа персонализированного сервиса для дольщиков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjb01abinjjfzc7u8bv",
+      "titleRu": "AI-система персонализации CRM-интерфейса для повышения эффективности сотрудников и улучшения клиентского опыта",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjb01adinjjnmu8yia2",
+      "titleRu": "AI-помощник для персонализации клиентского опыта в УК ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjb01afinjjiclroy83",
+      "titleRu": "ИИ-оптимизация распределения IT-бюджетов между строительными проектами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjb01ahinjjy0oldpew",
+      "titleRu": "Предиктивное управление лицензиями ПО с помощью ИИ в строительстве и девелопменте",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjb01ajinjjqbgcw6ml",
+      "titleRu": "ИИ-планировщик оптимального размещения серверного оборудования ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjb01alinjjy15nqgnj",
+      "titleRu": "Предиктивная ИИ-оптимизация пропускной способности телекоммуникационных сетей в жилых комплексах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

@@ -1,0 +1,275 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkio00ivinjjpbv09f5z",
+      "titleRu": "ИИ-система мониторинга производительности IT-систем агропредприятий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkio00ixinjj8uubft45",
+      "titleRu": "ИИ-платформа контроля качества данных от IoT-сенсоров на полях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkio00izinjj0j53m9kv",
+      "titleRu": "ИИ-мониторинг и предиктивный контроль инцидентов информационной безопасности в АПК",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkio00j1injjm7kivzs7",
+      "titleRu": "ИИ-система мониторинга и анализа использования цифровых сервисов фермерами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkio00j3injjfrlyp12d",
+      "titleRu": "ИИ-контроль работоспособности систем точного земледелия",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkio00j5injj5fimtzjy",
+      "titleRu": "ИИ-система поддержки решений по выбору IT-архитектуры для цифровых ферм",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkio00j7injj0jh6omjm",
+      "titleRu": "ИИ-DSS для приоритизации проектов цифровизации в агрокомпаниях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkio00j9injjlcy5t546",
+      "titleRu": "ИИ-платформа поддержки решений по миграции ИТ-инфраструктуры агробизнеса в облако",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkio00jbinjjunstg9r5",
+      "titleRu": "ИИ-система поддержки решений по закупке IT-оборудования в агропредприятии",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkio00jdinjj22rw1vzq",
+      "titleRu": "ИИ-ассистент для выбора и оценки поставщиков цифровых решений в агробизнесе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkio00jfinjj51ia5wnv",
+      "titleRu": "ИИ-генератор технических спецификаций для агро-IT проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkio00jhinjjtbdeb9t4",
+      "titleRu": "ИИ‑система автоматической генерации и обновления IT-документации для фермерских хозяйств",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkio00jjinjjd6wn83tr",
+      "titleRu": "ИИ-помощник генерации и рефакторинга кода для интеграции сельхозоборудования с цифровыми платформами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkio00jlinjjoe0dbuso",
+      "titleRu": "ИИ-система автоматизированной подготовки отчетов по IT-инцидентам в агробизнесе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkio00jninjjbib9mqqh",
+      "titleRu": "ИИ-генерация обучающих материалов по цифровым технологиям",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkio00jpinjjmoevegqz",
+      "titleRu": "ИИ-система защиты от кибератак на критическую агроинфраструктуру",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkio00jrinjjl8qmgmuw",
+      "titleRu": "ИИ-модель анализа и прогнозирования рисков утечки данных в агротехнологиях",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkio00jtinjj019q43ny",
+      "titleRu": "ИИ-платформа прогнозирования и управления рисками отказа IT-систем во время посевной кампании",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkio00jvinjjxfk73ohh",
+      "titleRu": "ИИ-система оценки рисков несовместимости агро-IoT устройств",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkip00jxinjjxo070g38",
+      "titleRu": "ИИ-анализ уязвимостей в системах автономной сельхозтехники",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

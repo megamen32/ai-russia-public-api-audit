@@ -1,0 +1,275 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkin00hrinjjx7j8h07r",
+      "titleRu": "ИИ-прогнозирование потребностей в IT-инфраструктуре для агрохолдингов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkin00htinjj37vg8bbm",
+      "titleRu": "ИИ‑аналитика эффективности внедрения цифровых решений в сельском хозяйстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkin00hvinjjo601amd6",
+      "titleRu": "ИИ-модель прогнозирования кибератак на системы точного земледелия",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkin00hxinjjjc8782ej",
+      "titleRu": "ИИ-прогнозирование агротехнологических трендов и связанных ИТ-требований",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkin00hzinjj00qfpzgw",
+      "titleRu": "ИИ-анализ ROI от инвестиций в цифровизацию агропроцессов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkin00i1injj7su4rjx3",
+      "titleRu": "ИИ-платформа для интеллектуальной интеграции и управления IoT-устройствами на фермах",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkin00i3injje85pxw1v",
+      "titleRu": "ИИ-агент для автоматического обновления и управления ПО сельскохозяйственной техники",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkin00i5injjmmzu6o4j",
+      "titleRu": "Интеллектуальная роботизация процесса резервного копирования и мониторинга данных агрохозяйств на основе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkin00i7injj8fqygva4",
+      "titleRu": "ИИ‑система интеллектуального мониторинга и предиктивной диагностики IT‑инфраструктуры ферм",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkin00i9injjung5gprq",
+      "titleRu": "ИИ-автоматизация развертывания облачных решений для АПК с помощью интеллектуальных RPA/IPA-агентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkin00ibinjj51jku3i4",
+      "titleRu": "ИИ‑платформа персонализированных цифровых решений для разных типов сельскохозяйственных хозяйств",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkin00idinjjjm5zmbur",
+      "titleRu": "ИИ-система адаптивного пользовательского интерфейса для агроприложений",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkin00ifinjjxyl7btnm",
+      "titleRu": "ИИ-консультант для подбора оптимального софта под специфику фермы",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkin00ihinjjm4va2rne",
+      "titleRu": "ИИ-платформа персонализированного обучения цифровой грамотности для фермеров",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkin00ijinjj0ngwxvn0",
+      "titleRu": "ИИ-платформа персонализированных аналитических дашбордов для агроменеджеров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkin00ilinjjkouhsjat",
+      "titleRu": "ИИ‑оптимизация использования облачной инфраструктуры в агробизнесе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkin00ininjjr5i212kg",
+      "titleRu": "ИИ-система оптимального размещения дата-центров для агрохолдингов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkin00ipinjjqihhinoz",
+      "titleRu": "ИИ-модель оптимизации энергопотребления IT-систем на фермах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkio00irinjjw1zh54sq",
+      "titleRu": "ИИ-алгоритм оптимизации пропускной способности сетей для агро IoT-датчиков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkio00itinjjb9of9jx2",
+      "titleRu": "ИИ-оптимизация лицензионных затрат на программное обеспечение в агрохолдинге",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

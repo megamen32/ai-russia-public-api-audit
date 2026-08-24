@@ -1,0 +1,270 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkjd01cvinjj9ru0ucby",
+      "titleRu": "Интеллектуальная система контроля исполнения договоров поставки на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjd01cxinjjq74v2fns",
+      "titleRu": "ИИ-платформа для персонализированного подбора и закупок материалов под индивидуальные требования дольщиков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjd01czinjjl9vyw9vp",
+      "titleRu": "ИИ-система индивидуального подбора поставщиков для специфичных ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjd01d1injjqxsmipbq",
+      "titleRu": "Предиктивная AI-система персонализированного мониторинга поставок для прорабов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjd01d3injj8u1kuwsu",
+      "titleRu": "AI-платформа для персонализированного управления отношениями с ключевыми поставщиками в строительстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjd01d5injjswdmduxn",
+      "titleRu": "AI-ассистент для персонализированного подбора оптимальных стройматериалов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjd01d7injjkkvt4zzs",
+      "titleRu": "ИИ-оптимизация и предиктивное управление межобъектными складскими запасами стройматериалов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjd01d9injj0pflpihh",
+      "titleRu": "AI-система интеллектуальной оптимизации транспортной логистики на стройплощадках",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjd01dbinjjohdhugb4",
+      "titleRu": "ИИ-планировщик оптимальных маршрутов доставки строительных грузов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjd01ddinjji89ykosj",
+      "titleRu": "ИИ-оптимизация выбора и управления поставщиками для девелоперских проектов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjd01dfinjjxbitruep",
+      "titleRu": "Предиктивная AI-оптимизация распределения закупочного бюджета между объектами строительства",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkje01dhinjjbfdeusai",
+      "titleRu": "ИИ-мониторинг качества поставляемых стройматериалов на основе компьютерного зрения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkje01djinjjpuu5zfyg",
+      "titleRu": "AI-система прогнозирования и контроля сроков поставок на строительные объекты",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkje01dlinjjjehxzupp",
+      "titleRu": "ИИ-контроль соответствия закупок бюджету строительных проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkje01dninjjkz5hwa3s",
+      "titleRu": "ИИ-платформа для предиктивного мониторинга и оптимизации логистики поставок стройматериалов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkje01dpinjjvnc0mfw2",
+      "titleRu": "AI-система предиктивного анализа финансового состояния ключевых поставщиков",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkje01drinjjds9t1glu",
+      "titleRu": "ИИ-платформа для предиктивного анализа и выбора оптимальных поставщиков стройматериалов для ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkje01dtinjjkcgl3dtn",
+      "titleRu": "ИИ-советник по структурированию долгосрочных контрактов на поставки",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkje01dvinjj1zmqgebm",
+      "titleRu": "ИИ-платформа для предиктивной аналитики и оптимизации стратегических запасов материалов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkje01dxinjjo7qsbd7w",
+      "titleRu": "ИИ-система поддержки принятия решений для выбора оптимальных условий поставки в строительстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

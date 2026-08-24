@@ -1,0 +1,273 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkly04cfinjjlbxp3yn7",
+      "titleRu": "ИИ‑прогнозирование нагрузки и сбоев промышленных IT‑систем",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkly04chinjjdieas6qg",
+      "titleRu": "AI‑аналитика эффективности и прогнозирование влияния внедрения IoT в производственные процессы",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkly04cjinjj5s1q558c",
+      "titleRu": "ИИ-моделирование архитектуры цифровых двойников производственных линий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkly04clinjj77ptj811",
+      "titleRu": "ИИ-прогнозирование потребностей в вычислительных ресурсах умных заводов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkly04cninjj66wfdpc8",
+      "titleRu": "ИИ‑анализ и прогнозирование производительности промышленных Big Data-платформ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkly04cpinjjf5y2r1mi",
+      "titleRu": "ИИ‑управляемая автоматизация развертывания промышленного программного обеспечения (RPA/IPA)",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkly04crinjjnm6ohzkr",
+      "titleRu": "Интеллектуальная роботизация мониторинга производственных IT-систем на основе ML",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkly04ctinjjopshtbsm",
+      "titleRu": "Интеллектуальная автоматизация интеграции новых промышленных устройств в сеть с использованием AI‑ориентированного RPA",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkly04cvinjj6o6euyus",
+      "titleRu": "ИИ‑управляемая интеллектуальная автоматизация резервного копирования и восстановления производственных данных",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkly04cxinjj12nbpk6k",
+      "titleRu": "Интеллектуальная RPA-автоматизация управления обновлениями систем промышленной автоматизации",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkly04czinjjt8i5ev7d",
+      "titleRu": "ИИ-персонализация интерфейсов операторов производственных линий",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkly04d1injjkoizqcfd",
+      "titleRu": "ИИ-дашборды для персонализированного мониторинга технологических процессов инженерами",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkly04d3injje8285uy6",
+      "titleRu": "ИИ‑персонализация мобильных приложений для промышленного персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklz04d5injjbn7e22m7",
+      "titleRu": "AI‑система персонализированных уведомлений о состоянии промышленного оборудования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklz04d7injjgct56mzm",
+      "titleRu": "ИИ‑поддерживаемые адаптивные интерфейсы для разных ролей на производстве",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklz04d9injj4jusjp6s",
+      "titleRu": "ИИ-оптимизация использования облачных ресурсов для промышленных приложений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklz04dbinjj7x6h84xk",
+      "titleRu": "ИИ для умного управления пропускной способностью промышленных сетей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklz04ddinjjnic3un9y",
+      "titleRu": "Оптимизация размещения вычислительных ресурсов на умном заводе с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklz04dfinjjc6d87l67",
+      "titleRu": "ИИ-система интеллектуального планирования и управления обновлениями промышленного ПО",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklz04dhinjjpxn3275z",
+      "titleRu": "ИИ-оптимизация энергопотребления IT-инфраструктуры производства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

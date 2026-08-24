@@ -1,0 +1,272 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkii00c7injjw7so4szy",
+      "titleRu": "ИИ-прогнозирование урожайности на основе спутниковых данных и IoT-сенсоров",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkii00c9injju403ky03",
+      "titleRu": "ИИ-прогнозирование оптимальных сроков посева с учетом метеоданных",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkii00cbinjjloe89ned",
+      "titleRu": "ИИ-модель прогнозирования потребности в рабочей силе по сезонам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkii00cdinjj2cgll9af",
+      "titleRu": "ИИ-прогнозирование заболеваний растений с помощью компьютерного зрения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkii00cfinjj3galz6pj",
+      "titleRu": "ИИ-анализ и прогноз эффективности агротехнологических практик на основе данных с полей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkii00chinjj1bwh0as7",
+      "titleRu": "Автономные тракторы с ИИ-навигацией для точного земледелия",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkii00cjinjj42f2kocy",
+      "titleRu": "ИИ-роботы для автоматического сбора урожая овощей и фруктов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkii00clinjjad3cuijh",
+      "titleRu": "Роботизированные доильные системы с ИИ‑анализом качества молока и автоматизацией процесса доения",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkii00cninjjqq2t5ubs",
+      "titleRu": "ИИ-система автоматизированного кормления животных с оптимизацией индивидуальных рационов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkii00cpinjjwuce6wg4",
+      "titleRu": "ИИ-дроны для автоматического опрыскивания и мониторинга посевов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkij00crinjjbbxzo602",
+      "titleRu": "ИИ-система персонализированных рекомендаций по агротехнологиям для каждого поля",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkij00ctinjjefru2t1e",
+      "titleRu": "ИИ-алгоритмы адаптивного управления микроклиматом в теплицах для персонализированного обслуживания агропредприятий",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkij00cvinjjzppgr3zy",
+      "titleRu": "ИИ‑ассистент для персонализированного планирования севооборотов под каждого клиента",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkij00cxinjjvp556uks",
+      "titleRu": "ИИ-система персонализированного мониторинга и предиктивной диагностики здоровья животных",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkij00czinjjqylcrbd6",
+      "titleRu": "ИИ-платформа персонализированных рекомендаций для органического земледелия",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkij00d1injjzksuyt3e",
+      "titleRu": "ИИ-оптимизация расхода воды в системах капельного орошения",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkij00d3injjfuzd23f3",
+      "titleRu": "ИИ-система оптимизации внесения удобрений на основе анализа данных о почве",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkij00d5injjcxfpi1uc",
+      "titleRu": "ИИ-модель оптимизации маршрутов сельхозтехники по полям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkij00d7injjqej0e1zn",
+      "titleRu": "AI-алгоритм оптимального размещения культур и планирования севооборота",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkij00d9injj6q1cvj9c",
+      "titleRu": "ИИ-оптимизация энергопотребления в животноводческих комплексах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

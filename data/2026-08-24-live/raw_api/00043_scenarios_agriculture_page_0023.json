@@ -1,0 +1,281 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkit00pjinjjjz5spzkb",
+      "titleRu": "ИИ-платформа для адаптивного обучения правовой грамотности руководителей агрохозяйств",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkit00plinjjt220hjyu",
+      "titleRu": "ИИ-платформа развития экспертизы юристов по аграрному праву",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkit00pninjjwkw1ch7r",
+      "titleRu": "ИИ-модель для оценки эффективности и оптимизации работы правового департамента в агробизнесе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkit00ppinjj75mqerh0",
+      "titleRu": "ИИ-система управления правовыми знаниями и правоприменительной практикой в АПК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiu00prinjj7844qmbu",
+      "titleRu": "ИИ-платформа для адаптивного обучения сотрудников комплаенс-процедурам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiu00ptinjjfi131hdp",
+      "titleRu": "ИИ-решение на базе блокчейна для интеллектуального управления земельным кадастром и правами собственности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiu00pvinjjb7yf9663",
+      "titleRu": "ИИ-платформа для автоматизированного создания и проверки смарт-контрактов в агросделках",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiu00pxinjjfyjjnagr",
+      "titleRu": "ИИ‑платформа для разработки цифровых правовых и комплаенс-инструментов в АПК",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiu00pzinjj9nnh3efo",
+      "titleRu": "ИИ-решения для интеллектуального электронного документооборота с госорганами в агробизнесе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiu00q1injjoyvwuajv",
+      "titleRu": "ИИ-создание систем предиктивной юриспруденции для агросектора",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiu00q3injjdanxlfaz",
+      "titleRu": "ИИ-прогнозирование потенциала новых селекционных программ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiu00q5injjbrmpoti6",
+      "titleRu": "ИИ‑аналитика и прогнозирование перспективных направлений развития агробиотехнологий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiu00q7injjh5ay4moz",
+      "titleRu": "ИИ-модель прогнозирования эффективности НИОКР в сельском хозяйстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiu00q9injjgeahlvvx",
+      "titleRu": "ИИ-прогноз коммерциализации инновационных агротехнологий и успеха вывода на рынок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiu00qbinjjlscptuih",
+      "titleRu": "ИИ-анализ патентных трендов в сельскохозяйственных инновациях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiu00qdinjjz86lla1j",
+      "titleRu": "ИИ‑управляемая автоматизированная система проведения полевых сельскохозяйственных экспериментов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiu00qfinjjkltfb4so",
+      "titleRu": "ИИ‑управляемые роботы для автоматизированного селекционного отбора растений",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiu00qhinjjybtob5kq",
+      "titleRu": "ИИ‑роботизация анализа образцов почвы и растений для автоматизированной агродиагностики",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiu00qjinjjzjgcndnd",
+      "titleRu": "AI‑управляемая система автоматизации лабораторных исследований в аграрном R&D",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiu00qlinjjhwe3wr4l",
+      "titleRu": "ИИ-автоматизация процесса подготовки и подачи заявок на патенты в агротехнологиях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

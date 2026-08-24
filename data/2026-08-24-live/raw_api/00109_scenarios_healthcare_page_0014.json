@@ -1,0 +1,268 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkl803ifinjjm3za4z7w",
+      "titleRu": "ИИ-система персонализации программ развития карьеры для медицинских специалистов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl803ihinjjazcfeyzd",
+      "titleRu": "ИИ-платформа персонализации планов обучения врачей по современным медицинским технологиям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl803ijinjjwwsmz9kh",
+      "titleRu": "ИИ-модель персонализированных мотивационных программ для медицинского персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl803ilinjj1qh7hbx6",
+      "titleRu": "ИИ-система персонализации траекторий профессионального развития медицинского персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl803ininjjj6fog905",
+      "titleRu": "ИИ-система персонализации оплаты труда медицинского персонала на основе результатов и показателей эффективности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl803ipinjjn7jpl5yt",
+      "titleRu": "ИИ-система оптимизации и прогнозирования штатного расписания медицинского персонала по отделениям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl803irinjjf7w1s488",
+      "titleRu": "ИИ-платформа оптимизации затрат на обучение и развитие медицинских кадров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl803itinjjc7rk9tm6",
+      "titleRu": "ИИ-модель оптимизации процесса найма узкоспециализированных медицинских специалистов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl803ivinjj057f8h7w",
+      "titleRu": "ИИ-система управления мотивацией и удержанием ключевого медицинского персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl803ixinjjx82vv6wu",
+      "titleRu": "ИИ-решение оптимизации рабочих процессов медицинского персонала для повышения эффективности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl803izinjjilfyc356",
+      "titleRu": "ИИ-система мониторинга производительности и качества работы медицинского персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl803j1injjlv4vb3mb",
+      "titleRu": "ИИ-платформа мониторинга соблюдения трудового законодательства в медицинском учреждении",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl803j3injjzbwucvij",
+      "titleRu": "AI-модель мониторинга и прогнозирования уровня профессиональных компетенций врачей и медсестер",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl903j5injjzqcha6nc",
+      "titleRu": "AI-система мониторинга и анализа психологического климата в медицинских коллективах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl903j7injjh52m0xx4",
+      "titleRu": "ИИ-мониторинг эффективности программ непрерывного медицинского образования для персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl903j9injjc4uqb72c",
+      "titleRu": "ИИ‑система поддержки клинических решений для врачей при выборе оптимальных методов лечения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl903jbinjjthj0pnta",
+      "titleRu": "ИИ-платформа поддержки решений по диагностике редких заболеваний",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl903jdinjjk12tvfjn",
+      "titleRu": "AI-модель поддержки терапевтических решений для онкологических пациентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl903jfinjjwxl65aio",
+      "titleRu": "ИИ-система поддержки решений для назначения персонализированной терапии пациентам",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl903jhinjjt98vuz0p",
+      "titleRu": "ИИ-система поддержки выбора оптимальных схем реабилитации пациентов на основе предиктивной аналитики",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

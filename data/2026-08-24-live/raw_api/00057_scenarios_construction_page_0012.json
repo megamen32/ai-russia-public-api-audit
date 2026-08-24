@@ -1,0 +1,270 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkj60153injjdd7mwok7",
+      "titleRu": "Предиктивная AI-система оптимизации энергопотребления на строительных объектах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj60155injjrs7i8mga",
+      "titleRu": "Система ИИ-видеоаналитики для 24/7 мониторинга и контроля строительных площадок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj70157injj969kwlrm",
+      "titleRu": "ИИ-контроль качества и соблюдения строительных норм",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj70159injj78qzfzah",
+      "titleRu": "AI-платформа для интеллектуального мониторинга безопасности труда на объектах строительства и недвижимости",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj7015binjjsd6v4m27",
+      "titleRu": "AI-система визуального контроля качества материалов при поставке на стройку",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj7015dinjjpif63aqy",
+      "titleRu": "Предиктивный мониторинг выполнения строительного графика по портфелю ЖК с использованием компьютерного зрения",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj7015finjjh54u59pk",
+      "titleRu": "Предиктивная ИИ-система для выбора оптимальных подрядчиков в строительстве ЖК",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj7015hinjj37pqftp0",
+      "titleRu": "ИИ-советник по выбору оптимальных строительных технологий",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj7015jinjjju21veyc",
+      "titleRu": "ИИ-платформа для предиктивной оценки и принятия решений по изменениям в строительных проектах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj7015linjjm9p20rvv",
+      "titleRu": "AI-система предиктивного анализа для обоснования инвестиций в строительное оборудование",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj7015ninjj0s0rctug",
+      "titleRu": "ИИ-система поддержки принятия решений для оптимизации сроков и ускорения строительных проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj7015pinjjwxjdbp61",
+      "titleRu": "ИИ-система для автоматической генерации и адаптации отчетов о ходе строительства для дольщиков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj7015rinjj928k7ox3",
+      "titleRu": "ИИ-система для автоматизированной генерации технической документации в строительстве",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj7015tinjj5czgkzy0",
+      "titleRu": "Генерация и адаптация инструкций по технике безопасности с помощью ИИ для строительных объектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj7015vinjj98ynnct2",
+      "titleRu": "ИИ-система автоматизированной генерации визуальных отчетов о ходе строительных работ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj7015xinjj40leu8sv",
+      "titleRu": "ИИ-генератор технических заданий для субподрядчиков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj7015zinjjj9aelumg",
+      "titleRu": "AI-система предиктивного управления рисками срыва сроков строительства ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj70161injjby7lcn1b",
+      "titleRu": "ИИ-анализатор рисков несчастных случаев на строительных объектах",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj70163injjruuy4jw8",
+      "titleRu": "AI-система предиктивного мониторинга экологических рисков на строительных объектах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj70165injj25em8kea",
+      "titleRu": "Предиктивная система управления рисками дефектов в строительстве новостроек с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

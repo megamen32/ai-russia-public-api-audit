@@ -1,0 +1,276 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkmo056dinjjmyozzf0p",
+      "titleRu": "ИИ-анализ рисков зависимости от облачных провайдеров и прогноз отказов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmo056finjje6xux3hm",
+      "titleRu": "ИИ-платформа для адаптивного обучения ИТ-персонала новым технологиям и методологиям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmo056hinjju8uzp2bs",
+      "titleRu": "ИИ-платформа для развития компетенций сотрудников в области информационной безопасности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmo056jinjj4gjmtvcu",
+      "titleRu": "ИИ-планирование карьерного развития архитекторов и технических лидеров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmo056linjjs5xggcjh",
+      "titleRu": "Обучение персонала использованию ИИ для работы с большими данными и аналитикой",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmo056ninjjpeigzq4t",
+      "titleRu": "Использование ИИ для развития культуры DevSecOps и автоматизации непрерывной интеграции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmo056pinjjoo7ygylb",
+      "titleRu": "ИИ-генерация идей новых ИТ-продуктов и технологических решений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmo056rinjjgsb8a3q5",
+      "titleRu": "ИИ‑подходы к интеллектуальной интеграции и оркестрации IT‑систем",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmo056tinjjoqzs3acs",
+      "titleRu": "ИИ‑системы для обнаружения и предотвращения киберугроз нового поколения",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmo056vinjjga7kuuzi",
+      "titleRu": "ИИ-решения для управления edge computing и IoT-инфраструктурой",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmo056zinjjtsdrtzeg",
+      "titleRu": "ИИ-прогнозирование потребности в ИТ-оборудовании и комплектующих для закупок",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmo0571injjnn4l0bdi",
+      "titleRu": "ИИ‑анализ и прогнозирование рисков поставщиков технологического оборудования",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmo0573injjv9v1ujwl",
+      "titleRu": "ИИ-предиктивная аналитика и прогноз цен на серверы, сетевое оборудование и программные лицензии",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmo0575injjz8shuj8a",
+      "titleRu": "Прогнозирование сроков поставок телеком‑оборудования с помощью моделей машинного обучения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmo0577injjyvgdqdsk",
+      "titleRu": "AI-анализ total cost of ownership для сравнения технологических решений в IT и телеком",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmo0579injj0hf163ne",
+      "titleRu": "Интеллектуальная RPA-автоматизация закупки ИТ-оборудования и ПО на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmp057binjjz6qm4c28",
+      "titleRu": "Интеллектуальная роботизация управления контрактами с поставщиками на основе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmp057dinjjk9fdvip3",
+      "titleRu": "ИИ‑система автоматизированного управления складскими запасами и инвентаризацией",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmp057finjjif13onmv",
+      "titleRu": "Интеллектуальная AI‑автоматизация процессов тендеров и RFP",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmp057hinjjygbak4g4",
+      "titleRu": "ИИ-автоматизация приемки и контроля качества телеком-оборудования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

@@ -1,0 +1,274 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkmx05hjinjj1zd2u7sw",
+      "titleRu": "Программа развития стратегического мышления руководителей с использованием ИИ-ассистентов и аналитики на базе LLM",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmx05hlinjjyh2n6l2q",
+      "titleRu": "ИИ-система планирования преемственности и подбора топ-менеджмента",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmx05hninjj6yf25n8t",
+      "titleRu": "ИИ‑платформа формирования и подбора стратегических команд",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmy05hpinjjhg97c64j",
+      "titleRu": "ИИ-платформа оценки готовности персонала и организации к цифровой трансформации",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmy05hrinjj8gq83x6b",
+      "titleRu": "ИИ-платформа для развития лидерских компетенций в энергетической компании",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmy05htinjjoz3isl2v",
+      "titleRu": "ИИ‑платформа поиска и оценки прорывных энергетических технологий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmy05hvinjjgwaz45u0",
+      "titleRu": "ИИ-система управления портфелем инновационных проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmy05hxinjjcq4kn3r8",
+      "titleRu": "ИИ-платформа для выявления и моделирования новых бизнес-моделей в энергетике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmy05hzinjjy4jrnvff",
+      "titleRu": "ИИ-система анализа глобальных трендов в области зеленой энергетики для стратегического планирования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmy05i1injjjg2gz27y",
+      "titleRu": "AI-платформа краудсорсинга и приоритизации инновационных идей в нефтегазе и энергетике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmy05i3injjrwggprpx",
+      "titleRu": "AI-модель прогнозирования дебита скважин",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmy05i5injjwg0rdbg7",
+      "titleRu": "Модель машинного обучения для прогнозирования износа бурового оборудования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmy05i7injj5ahfzkfj",
+      "titleRu": "ИИ-анализ эффективности нефтеперерабатывающих процессов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmy05i9injjzoq3f7ws",
+      "titleRu": "Прогнозирование оптимального времени ремонта оборудования с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmy05ibinjj9vsjeqrp",
+      "titleRu": "ИИ-система предсказания качества добываемой нефти",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmy05idinjj50u5dbpe",
+      "titleRu": "ИИ‑система интеллектуального управления параметрами буровых работ (RPA/IPA)",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmy05ifinjjw3qfdi58",
+      "titleRu": "Интеллектуальная RPA-обработка производственной документации с применением NLP и LLM",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmy05ihinjjvyganxoe",
+      "titleRu": "ИИ‑управляемая RPA-система планирования производственных смен",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmy05ijinjjcufa98qj",
+      "titleRu": "Интеллектуальная RPA‑система управления складскими операциями на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmy05ilinjjgtfurewv",
+      "titleRu": "Интеллектуальная IPA-оптимизация загрузки нефтеперерабатывающих мощностей на базе ML",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

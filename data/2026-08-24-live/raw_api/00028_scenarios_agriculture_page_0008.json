@@ -1,0 +1,278 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkif008vinjjkhcxovpv",
+      "titleRu": "ИИ-система обучения маркетологов специфике продвижения агропродукции",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkif008xinjjtioflna7",
+      "titleRu": "ИИ-платформа развития навыков цифрового маркетинга для сотрудников АПК",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkif008zinjjuxhbvlhr",
+      "titleRu": "ИИ-модель оценки эффективности и развития маркетинговых менеджеров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkif0091injj0batu2et",
+      "titleRu": "ИИ-система управления знаниями и лучшими практиками в агромаркетинге",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkig0093injjotzr3zq3",
+      "titleRu": "ИИ-платформа для обучающих программ фермеров по брендингу собственной продукции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkig0095injjmp9ri2j4",
+      "titleRu": "ИИ-персонализация AR/VR-презентаций сельхозпродукции для маркетинга",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkig0097injjrozsb0gt",
+      "titleRu": "AI-платформа для создания интерактивных виртуальных туров по фермерским хозяйствам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkig0099injj639pcsgu",
+      "titleRu": "ИИ-система для разработки и оптимизации блокчейн-маркетинга по отслеживанию происхождения агропродукции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkig009binjj69m7pgq5",
+      "titleRu": "AI-платформа геймификации и персонализации покупки сельхозпродукции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkig009dinjjj947rayl",
+      "titleRu": "ИИ-голосовые помощники для подбора и рекомендаций сельскохозяйственных товаров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "ASR",
+        "TTS"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkig009finjjq5qt23ha",
+      "titleRu": "ИИ-прогнозирование объемов продаж сельхозпродукции по регионам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkig009hinjjs6qh19ag",
+      "titleRu": "ИИ-анализ и прогнозирование потенциала новых экспортных рынков сбыта зерна",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkig009jinjjrc7mizuf",
+      "titleRu": "ИИ-модель прогнозирования поведения покупателей агропродукции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkig009linjjdnpq39ea",
+      "titleRu": "Прогноз эффективности каналов продаж сельхозтехники с помощью моделей машинного обучения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkig009ninjjilyedeab",
+      "titleRu": "ИИ-анализ сезонных колебаний спроса на семенной материал",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkig009pinjj0s3duuc0",
+      "titleRu": "ИИ‑система RPA для автоматизированной обработки заказов на сельхозпродукцию",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkig009rinjjpapckpee",
+      "titleRu": "ИИ-чат-бот для автоматизированной квалификации лидов в агробизнесе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkig009tinjj6v5no5co",
+      "titleRu": "ИИ-автоматизация формирования коммерческих предложений для агроклиентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkig009vinjj6w5pjkv8",
+      "titleRu": "ИИ‑система автоматизированного управления воронкой продаж в агропромышленном комплексе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkig009xinjjtvgf5air",
+      "titleRu": "ИИ-автоматизация процесса заключения контрактов на поставку зерна",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

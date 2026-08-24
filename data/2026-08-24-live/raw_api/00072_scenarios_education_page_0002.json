@@ -1,0 +1,276 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkjl01lrinjj2f9qynpg",
+      "titleRu": "AI-система мониторинга качества образовательного процесса с предиктивными KPI по успеваемости и трудоустройству",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjl01ltinjj2mg79uze",
+      "titleRu": "ИИ-дашборд для контроля выполнения стратегических целей университета по научной и образовательной деятельности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjl01lvinjjo37mzl11",
+      "titleRu": "ИИ-система мониторинга соответствия учебных программ образовательным стандартам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjl01lxinjjtga99yy3",
+      "titleRu": "ИИ-анализатор эффективности использования бюджетных средств в образовательных проектах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjl01lzinjj92fi0ox1",
+      "titleRu": "AI‑платформа мониторинга академической репутации вуза на основе анализа публикаций и цитируемости",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjl01m1injjd658d6f8",
+      "titleRu": "ИИ-система поддержки принятия решений по открытию новых образовательных программ на основе анализа рынка труда",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjl01m3injj87ca8te9",
+      "titleRu": "ИИ-модуль поддержки стратегических решений по партнерствам с зарубежными университетами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjl01m5injj7i1i4uwi",
+      "titleRu": "ИИ-система поддержки решений по инвестициям в научно-исследовательские проекты с прогнозом научного и коммерческого потенциала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjl01m7injjaijr5jgu",
+      "titleRu": "ИИ-консультант для поддержки решений по найму и отбору профессорско-преподавательского состава",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjl01m9injjdplijomo",
+      "titleRu": "ИИ‑платформа поддержки управленческих решений по цифровой трансформации образовательного процесса в вузе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjl01mbinjj5mtdv3kq",
+      "titleRu": "ИИ-генератор стратегических документов университета: миссия, видение, программы развития",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjl01mdinjjyiaji0cx",
+      "titleRu": "ИИ-система автоматической генерации отчетов о деятельности вуза для министерства образования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjl01mfinjjvpuglmu7",
+      "titleRu": "ИИ-помощник для автоматизированного создания презентаций стратегических инициатив ректората и ученого совета",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjl01mhinjj05zcj3jy",
+      "titleRu": "ИИ‑генератор аналитических справок по мониторингу конкурентной среды в образовании",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjl01mjinjjowbin30f",
+      "titleRu": "ИИ-система создания стратегических планов развития факультетов на основе анализа образовательных и научных трендов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjl01mlinjj7zl656j8",
+      "titleRu": "ИИ-система оценки академических рисков при реструктуризации образовательных программ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjl01mninjjn4tk4xav",
+      "titleRu": "AI‑модуль мониторинга репутационных рисков вуза при изменении образовательного законодательства",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjm01mpinjjrzqbxrjz",
+      "titleRu": "AI-система прогнозирования финансовых рисков при стратегическом планировании развития университета",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjm01mrinjj78nt2fa4",
+      "titleRu": "ИИ-анализатор рисков безопасности данных студентов и преподавателей в цифровой образовательной среде",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjm01mtinjjf4jk5ypg",
+      "titleRu": "ИИ-платформа управления операционными рисками при внедрении инновационных образовательных технологий",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

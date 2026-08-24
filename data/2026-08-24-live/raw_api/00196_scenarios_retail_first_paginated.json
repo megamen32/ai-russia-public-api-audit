@@ -1,0 +1,273 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwknj0673injj09592d6d",
+      "titleRu": "ИИ-прогнозирование трендов потребительского спроса на основе социальных и макроэкономических данных",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknj0675injj6iyyn4ji",
+      "titleRu": "ИИ-анализ конкурентной среды на основе открытых данных и социальных сетей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknj0677injjxdmvv7zu",
+      "titleRu": "ИИ-предиктивное моделирование сезонного спроса для стратегического управления ассортиментом",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknk0679injjyc62vorg",
+      "titleRu": "ИИ-прогнозирование эффективности экспансии в новые географические регионы в ритейле",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknk067binjj6hgk5ac7",
+      "titleRu": "ИИ-аналитика и прогнозирование долгосрочных трендов покупательского поведения для стратегического планирования в ритейле",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknk067dinjjalnr8yd5",
+      "titleRu": "ИИ‑автоматизация стратегического планирования ассортимента и управления категорийным портфелем",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknk067finjjz9n8v80a",
+      "titleRu": "ИИ‑роботизация сбора и анализа конкурентных данных о ценах и акциях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknk067hinjj00zngy3y",
+      "titleRu": "ИИ‑система для автоматического формирования стратегических отчетов о состоянии рынка",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknk067jinjj5tha4jsa",
+      "titleRu": "ИИ‑подход к интеллектуальной автоматизации выбора и оценки новых торговых площадок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknk067linjjpprno8q8",
+      "titleRu": "ИИ-система автоматизированного мониторинга и прогнозирования выполнения стратегических KPI продаж",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknk067ninjjtqogcicr",
+      "titleRu": "ИИ‑система персонализированных стратегий развития лояльности клиентов в e-com",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknk067pinjjzz7fwtwv",
+      "titleRu": "ИИ-стратегия удержания VIP-клиентов на основе предиктивной аналитики их профилей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknk067rinjj7qxbvv5s",
+      "titleRu": "ИИ-персонализация омниканального взаимодействия с клиентами в ритейле",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknk067tinjj8qgksgk2",
+      "titleRu": "ИИ-платформа для разработки и адаптации частных торговых марок под целевые клиентские сегменты",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknk067vinjjy1t38xth",
+      "titleRu": "ИИ-модели для индивидуальных стратегий ценообразования по клиентским сегментам",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknk067xinjj91vkqdh1",
+      "titleRu": "ИИ-оптимизация распределения инвестиций между онлайн и офлайн каналами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknk067zinjjqw09tr42",
+      "titleRu": "Стратегическая оптимизация портфеля торговых марок и товарных категорий на базе AI-аналитики спроса и прибыльности",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknk0681injjcejlviwt",
+      "titleRu": "AI‑оптимизация распределения ресурсов между регионами с учетом потенциала роста продаж",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknk0683injjbh6yo486",
+      "titleRu": "ИИ-оптимизация размера и формата розничных магазинов на основе спроса и трафика",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknk0685injj3qt3q4yg",
+      "titleRu": "Оптимизация долгосрочных инвестиций в технологическую инфраструктуру с помощью ИИ-прогнозирования и сценарного моделирования",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

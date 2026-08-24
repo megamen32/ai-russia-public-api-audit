@@ -1,0 +1,269 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkjb01aninjjnud3hs23",
+      "titleRu": "ИИ-система для интеллектуального управления и оптимизации облачных ресурсов строительных проектов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjb01apinjj0l2fdj6w",
+      "titleRu": "Интеллектуальный мониторинг и предиктивное обнаружение киберугроз для информационных систем девелопера",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjb01arinjjgbhzxjft",
+      "titleRu": "AI-система для автоматизированного контроля соответствия IT-систем требованиям защиты персональных данных",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjb01atinjj8ks15zgf",
+      "titleRu": "ИИ-контроль производительности и доступности цифровых сервисов ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjb01avinjj1j8niw4r",
+      "titleRu": "Интеллектуальная система контроля и прогнозирования использования IT-ресурсов в строительных проектах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjb01axinjjednjhyip",
+      "titleRu": "Предиктивная AI-система мониторинга и контроля соблюдения IT-политик",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjb01azinjj286drqbr",
+      "titleRu": "Интеллектуальная система поддержки решений по оптимизации выбора IT-архитектуры для жилых комплексов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjb01b1injjk4jo321l",
+      "titleRu": "ИИ-советник по цифровой трансформации строительных процессов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjc01b3injj4lf3e3wo",
+      "titleRu": "Платформа на базе ИИ для оценки и оптимизации инвестиций в IT-инфраструктуру строительной отрасли",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjc01b5injjaf03eize",
+      "titleRu": "ИИ-платформа для интеллектуального подбора и оптимизации цифровых решений в девелоперских проектах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjc01b7injjqd1zcvcx",
+      "titleRu": "ИИ-помощник в принятии решений о кибербезопасности строительства",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjc01b9injjntg3igru",
+      "titleRu": "AI-генерация технической документации для IT-систем жилых комплексов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjc01bbinjjzyte7km8",
+      "titleRu": "ИИ-система создания пользовательских инструкций для цифровых сервисов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjc01bdinjjv5nbadod",
+      "titleRu": "AI-система для автоматизированной генерации аналитических отчётов о состоянии IT-инфраструктуры девелоперских проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjc01bfinjjikdo5xh1",
+      "titleRu": "AI-система генерации учебного контента для повышения цифровой грамотности сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjc01bhinjjt8k9ug3o",
+      "titleRu": "ИИ-генератор политик информационной безопасности для строительных компаний",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjc01bjinjjphgnj3c8",
+      "titleRu": "ИИ-платформа для предиктивного управления киберрисками IT-инфраструктуры ЖК",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjc01blinjj719q4xnj",
+      "titleRu": "ИИ-анализатор угроз утечки данных дольщиков и строительных проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjc01bninjj3rurk2r2",
+      "titleRu": "Предиктивная AI-платформа для управления соответствием требованиям информационной безопасности и рисками",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjc01bpinjjpe62i2c1",
+      "titleRu": "ИИ-система прогнозирования и предотвращения сбоев критичных IT-систем девелопера",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

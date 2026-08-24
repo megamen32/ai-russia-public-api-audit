@@ -1,0 +1,277 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkjz022finjjcq26jlke",
+      "titleRu": "AI-система мониторинга и предиктивного контроля качества работы образовательных ИТ-платформ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjz022hinjjhiooyrcl",
+      "titleRu": "ИИ-система мониторинга и защиты персональных данных студентов и преподавателей в цифровой среде",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjz022jinjjrdqfpphg",
+      "titleRu": "ИИ-модуль мониторинга и предиктивного анализа использования цифровых образовательных ресурсов и онлайн-активности пользователей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjz022linjje735p8b7",
+      "titleRu": "ИИ‑система контроля соблюдения лицензионных требований к программному обеспечению",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjz022ninjj29k5n1fm",
+      "titleRu": "ИИ-аналитика эффективности и влияния внедрения цифровых образовательных технологий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjz022pinjjm5nv8c0z",
+      "titleRu": "ИИ-платформа поддержки решений по выбору и внедрению цифровых образовательных технологий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjz022rinjjdhi3kmyx",
+      "titleRu": "AI-модуль поддержки решений по модернизации IT-инфраструктуры университета",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjz022tinjjlokybdvz",
+      "titleRu": "ИИ-система поддержки решений по инвестициям в цифровые образовательные платформы",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjz022vinjjckylqixz",
+      "titleRu": "ИИ-консультант для принятия решений об интеграции различных информационных систем",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjz022xinjjr8scqhpz",
+      "titleRu": "ИИ-платформа поддержки решений по обеспечению кибербезопасности в образовательных организациях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk0022zinjjz6cgfoq1",
+      "titleRu": "ИИ-генератор интерактивных образовательных материалов и цифровых учебных пособий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk00231injjr7s9h3vw",
+      "titleRu": "ИИ-система автоматического создания тестов и заданий для онлайн-курсов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk00233injjbusfxn9r",
+      "titleRu": "ИИ-генератор технической документации для образовательных информационных систем",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk00235injjcbf9a2bg",
+      "titleRu": "ИИ-помощник для создания мультимедийного контента лекций и семинаров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "CV",
+        "TTS"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk00237injjtk4itp8s",
+      "titleRu": "ИИ‑система автоматизированной генерации отчетов по цифровизации образовательного процесса",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk00239injjrsykc3qr",
+      "titleRu": "ИИ-система оценки кибербезопасности образовательных платформ и данных",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk0023binjjysdmy16t",
+      "titleRu": "ИИ-модуль управления рисками утечки персональных данных студентов и преподавателей",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk0023dinjj717ztfq8",
+      "titleRu": "ИИ-система оценки рисков сбоев IT-инфраструктуры и их влияния на образовательный процесс",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk0023finjjcsmpmz8d",
+      "titleRu": "ИИ-анализатор рисков устаревания технологий в цифровой образовательной среде",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk0023hinjj7t3r91zi",
+      "titleRu": "ИИ‑платформа управления рисками зависимости от внешних цифровых сервисов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

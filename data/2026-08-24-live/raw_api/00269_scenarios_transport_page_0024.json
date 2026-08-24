@@ -1,0 +1,271 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkot07ofinjj4dxoxd4g",
+      "titleRu": "AI-оптимизация бюджета НИОКР в логистике",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkou07ohinjj391z8m1t",
+      "titleRu": "AI-оптимизация планирования и использования ресурсов испытательных лабораторий и полигонов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkou07ojinjjmz5g5n6b",
+      "titleRu": "ИИ-оптимизация управления интеллектуальной собственностью в транспортной отрасли",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkou07olinjj3uk96kcx",
+      "titleRu": "Предиктивная аналитика для оптимизации инвестиций в перспективные транспортные технологии",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkou07oninjjim18cv0y",
+      "titleRu": "ИИ-мониторинг и предиктивный контроль внедрения инноваций",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkou07opinjjt473c7ue",
+      "titleRu": "ИИ-мониторинг и предиктивный контроль соблюдения стандартов безопасности новых технологий",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkou07orinjj95co19m0",
+      "titleRu": "ИИ-мониторинг и предиктивная аналитика эффективности R&D инвестиций в транспортной отрасли",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkou07otinjje6zj115v",
+      "titleRu": "Предиктивный AI-контроль качества проектируемых транспортных решений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkou07ovinjjlty0mier",
+      "titleRu": "ИИ-мониторинг и предиктивный анализ экологического соответствия транспортных инноваций",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkou07oxinjj37cmfogj",
+      "titleRu": "AI-система поддержки принятия решений для оптимизации R&D инвестиций в транспортной отрасли",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkou07ozinjj0kef4834",
+      "titleRu": "AI-система поддержки принятия решений по коммерциализации инновационных транспортных решений",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkou07p1injjlg5pcp61",
+      "titleRu": "ИИ-система для анализа и прогнозирования технологических рисков инновационных проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkou07p3injj9lod93gp",
+      "titleRu": "ИИ-платформа для интеллектуального подбора партнеров по R&D проектам в транспортной отрасли",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkou07p5injjool1laxn",
+      "titleRu": "ИИ-система поддержки решений для управления и защиты интеллектуальной собственности в транспортной отрасли",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkou07p7injjg9rtumqg",
+      "titleRu": "Генерация технических спецификаций для транспортных решений с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkou07p9injjtf2k1lvl",
+      "titleRu": "ИИ-управляемая генерация аналитических отчетов по результатам исследований",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkou07pbinjjymgk3j7w",
+      "titleRu": "Генерация презентаций инновационных проектов для инвесторов с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkou07pdinjj84b5qah0",
+      "titleRu": "ИИ-ассистент для генерации патентных заявок и документации",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkou07pfinjjajoac6hc",
+      "titleRu": "AI-генерация планов коммерциализации инновационных технологий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkou07phinjjgsz3d961",
+      "titleRu": "Предиктивный анализ и снижение рисков при внедрении новых транспортных технологий с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 493
+}

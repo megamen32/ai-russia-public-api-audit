@@ -1,0 +1,278 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkl203brinjj8mlzkxdh",
+      "titleRu": "ИИ‑платформа для развития профессиональных компетенций и обучения медицинского персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl203btinjjif7knbvh",
+      "titleRu": "ИИ-платформа для организации междисциплинарного взаимодействия и коммуникации медицинской команды",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl203bvinjjadfy0v6r",
+      "titleRu": "ИИ-модель развития лидерских навыков у заведующих медицинскими отделениями",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl203bxinjj90aw1p97",
+      "titleRu": "ИИ-платформа для организации и персонализации непрерывного медицинского образования врачей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl303bzinjjkvx1pqz2",
+      "titleRu": "ИИ-платформа для развития культуры безопасности пациентов и мониторинга инцидентов в медучреждении",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl303c1injjyunmjf7n",
+      "titleRu": "ИИ-платформа для разработки и тестирования инновационных малоинвазивных хирургических методик",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl303c3injji0mq7dum",
+      "titleRu": "ИИ‑платформа разработки и персонализации телемедицинских сервисов для удаленных регионов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl303c5injj9fp1rxel",
+      "titleRu": "ИИ‑модель разработки персонализированных медицинских имплантов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl303c7injjsc1ht61j",
+      "titleRu": "ИИ-платформа для разработки и тестирования инновационных диагностических алгоритмов в здравоохранении",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl303c9injj2ze5oxen",
+      "titleRu": "ИИ-платформа для разработки и оптимизации протоколов регенеративной медицины",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl303cbinjjle3b52dm",
+      "titleRu": "ИИ-система аналитики и прогнозирования конверсии консультаций в платные медицинские услуги",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl303cdinjjaja8xmba",
+      "titleRu": "AI-платформа предиктивной аналитики для оценки и прогнозирования эффективности продаж дорогостоящих медицинских процедур",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl303cfinjjuhhwi9a2",
+      "titleRu": "ML‑модель прогнозирования потенциала развития корпоративной медицины в регионе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl303chinjjiez4n1g4",
+      "titleRu": "AI-система прогнозирования сезонности спроса на медицинские специализации",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl303cjinjj3pypz2tu",
+      "titleRu": "ИИ-решение прогнозирования лидогенерации через телемедицинские консультации",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl303clinjj0l6qbni8",
+      "titleRu": "Интеллектуальная RPA-система с ИИ для автоматизации воронки продаж медицинских услуг от первичной консультации до лечения",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl303cninjjooji74nx",
+      "titleRu": "ИИ-платформа интеллектуальной обработки онлайн-заявок на медицинские услуги (RPA/IPA)",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl303cpinjjid3fwr4z",
+      "titleRu": "ИИ-бот для автоматического уведомления пациентов о необходимости повторных визитов и контроля расписания",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl303crinjjrvprkst9",
+      "titleRu": "Интеллектуальное RPA-решение для автоматизированного формирования коммерческих предложений корпоративным клиентам в здравоохранении",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl303ctinjjtc42bv5m",
+      "titleRu": "ИИ‑система RPA для автоматизированного контроля и прогнозирования выполнения планов продаж по медицинским направлениям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

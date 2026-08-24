@@ -1,0 +1,267 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkoo07hrinjjua5bcjhv",
+      "titleRu": "Создание центров компетенций по применению ИИ в транспорте",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoo07htinjjui325vf4",
+      "titleRu": "Разработка персонализированных ИИ-программ обучения кибербезопасности для сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoo07hvinjjbmnwp9u6",
+      "titleRu": "Создание AI-платформ для оптимизации логистических процессов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoo07hxinjjshoi1b12",
+      "titleRu": "Разработка интеллектуальных цифровых двойников транспортных средств на базе ИИ для предиктивной аналитики и инноваций",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoo07hzinjj0xupttou",
+      "titleRu": "Интеллектуальная транспортная инфраструктура: Прогнозная аналитика и оптимизация на базе ИИ и IoT",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoo07i1injjdrhbdlm5",
+      "titleRu": "AI-прогнозирование потребности в запасных частях для транспортного парка",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoo07i3injjrqv1xxdy",
+      "titleRu": "Предиктивный анализ и оптимизация эффективности поставщиков топлива и технических жидкостей с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoo07i5injj2b36brgx",
+      "titleRu": "AI-прогнозирование колебаний цен на транспортные услуги субподрядчиков",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoo07i7injjvlqepd0h",
+      "titleRu": "Прогнозирование закупок расходных материалов с учетом сезонности на основе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoo07i9injjr1n3ddbh",
+      "titleRu": "Предиктивная аналитика рисков срыва поставок критически важных компонентов на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoo07ibinjj8q5h4aba",
+      "titleRu": "Интеллектуальная автоматизация (IPA) закупок топлива на электронных торговых площадках",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoo07idinjjg74xl4rc",
+      "titleRu": "Интеллектуальная автоматизация сверки накладных от поставщиков автозапчастей с использованием CV и RPA",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoo07ifinjjkvp995pi",
+      "titleRu": "Интеллектуальный мониторинг исполнения договоров с субподрядчиками",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoo07ihinjj2h5stnjr",
+      "titleRu": "Интеллектуальная автоматизация процессов инвентаризации складских запасов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoo07ijinjji6iogelg",
+      "titleRu": "ИИ-автоматизация оценки качества услуг транспортных подрядчиков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoo07ilinjjzqw4br3o",
+      "titleRu": "ИИ-оптимизация условий закупок для персонализации взаимодействия с поставщиками",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoo07ininjjpoweq0lq",
+      "titleRu": "ИИ-оптимизация договоров с субподрядчиками для персонализации сервиса и повышения клиентского опыта",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoo07ipinjjdskqoqx2",
+      "titleRu": "ИИ-платформа персонализированной оценки поставщиков для повышения клиентского удовлетворения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkop07irinjjons1cxcm",
+      "titleRu": "AI-оптимизация персонализированных требований к качеству для поставщиков автокомпонентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkop07itinjj4u2nbcan",
+      "titleRu": "Использование ИИ для персонализации программ развития ключевых поставщиков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 493
+}

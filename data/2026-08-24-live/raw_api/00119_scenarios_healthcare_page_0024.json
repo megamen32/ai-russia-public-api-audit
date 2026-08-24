@@ -1,0 +1,270 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkli03tjinjjw9biiprq",
+      "titleRu": "ИИ-система персонализации инновационных медицинских решений под индивидуальные потребности пациентов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkli03tlinjjapgcdofi",
+      "titleRu": "AI‑платформа персонализации программ прецизионной медицины и таргетной таргетной терапии",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkli03tninjjkwp6f451",
+      "titleRu": "ИИ-модель персонализированных исследовательских протоколов для различных медицинских специализаций",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkli03tpinjjcmqstzs9",
+      "titleRu": "ИИ-система персонализированного выбора и настройки инновационных диагностических методик под специфические заболевания",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkli03trinjjm9fyvza3",
+      "titleRu": "ИИ-платформа для персонализированной разработки медицинских устройств под потребности различных пациентских групп",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkli03ttinjjus0bgosf",
+      "titleRu": "ИИ-платформа для оптимизации портфеля медицинских инновационных R&D-проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkli03tvinjjb6zeo3an",
+      "titleRu": "AI-платформа оптимизации процессов внедрения новых медицинских технологий в клиническую практику",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkli03txinjjtdt11bnz",
+      "titleRu": "ИИ-модель оптимизации затрат на медицинские исследования и разработку новых методов лечения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkli03tzinjjqsmfmvax",
+      "titleRu": "AI-система управления сроками разработки и тестирования инновационных медицинских решений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkli03u1injjkfwi6758",
+      "titleRu": "ИИ-платформа для оптимизации трансфера медицинских технологий из науки в клиническую практику",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkli03u3injj6nj5h2x6",
+      "titleRu": "ИИ-система мониторинга прогресса и рисков медицинских исследовательских проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkli03u5injj5y7jtq95",
+      "titleRu": "ИИ-платформа мониторинга и контроля эффективности внедрения инновационных медицинских технологий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkli03u7injjd5gocpe7",
+      "titleRu": "ИИ-модель мониторинга соблюдения этических стандартов в медицинских исследованиях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkli03u9injjrhez6xkr",
+      "titleRu": "ИИ‑система контроля качества и аномалий в результатах клинических испытаний медицинских препаратов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkli03ubinjj4g3mdhdo",
+      "titleRu": "ИИ-мониторинг воздействия медицинских инноваций на клинические исходы и здоровье пациентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkli03udinjj0m675gt3",
+      "titleRu": "ИИ-система поддержки клинических решений при выборе персонализированных схем лечения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkli03ufinjjds1ot5o0",
+      "titleRu": "ИИ-платформа поддержки клинических решений при диагностике редких заболеваний",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkli03uhinjj6q9borl8",
+      "titleRu": "AI-модель поддержки терапевтических решений для онкологических пациентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkli03ujinjjxxlu48bw",
+      "titleRu": "AI‑система поддержки решений для назначения персонализированной терапии",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkli03ulinjjl85e4ke9",
+      "titleRu": "ИИ-система поддержки выбора и оптимизации схем реабилитации пациентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

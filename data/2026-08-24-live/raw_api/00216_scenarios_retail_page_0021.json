@@ -1,0 +1,282 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwko306tbinjj284nf7y6",
+      "titleRu": "ИИ-прогнозирование изменений законодательства по защите прав потребителей",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko306tdinjjfilfp4wi",
+      "titleRu": "ИИ-предиктивная аналитика рисков нарушения регуляторных требований",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko306tfinjj8wk5fnfd",
+      "titleRu": "ИИ-аналитика и прогнозирование судебных рисков и потенциальных исков",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko306thinjjklhu0ubs",
+      "titleRu": "ИИ-модели для прогнозирования влияния налоговых изменений на бизнес-показатели ритейла",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko306tjinjj0etq34l9",
+      "titleRu": "ИИ-предиктивное моделирование compliance-рисков в международной розничной и e-com торговле",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko306tlinjj7eifh9k5",
+      "titleRu": "ИИ-автоматизация юридического документооборота и согласований в ритейле",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko306tninjjqf3i7k38",
+      "titleRu": "ИИ-платформа для автоматизированной проверки договоров на соответствие требованиям и политикам компании",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko306tpinjjy4g9wwuy",
+      "titleRu": "ИИ-система автоматического мониторинга и анализа изменений в законодательстве",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko306trinjjy0zbg757",
+      "titleRu": "ИИ-автоматизация подготовки регуляторной отчетности",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko306ttinjj1ct019h8",
+      "titleRu": "Интеллектуальная роботизация процессов compliance-мониторинга операций с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko306tvinjj3uzelhsl",
+      "titleRu": "AI-система персонализированных согласий на обработку данных клиентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko306txinjj7e80t5sa",
+      "titleRu": "ИИ-генерация персональных условий конфиденциальности под юрисдикцию клиента",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko306tzinjjxatbpjjj",
+      "titleRu": "Генерация и кастомизация клиентских договоров с помощью ИИ под разные сегменты",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko306u1injjyb0qeq84",
+      "titleRu": "ИИ‑персонализация юридических уведомлений и изменений условий обслуживания",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko306u3injjaubfkixo",
+      "titleRu": "ИИ-процедуры разрешения споров для VIP-клиентов с персонализированными рекомендациями",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko306u5injj9y7f9hhm",
+      "titleRu": "ИИ-оптимизация международного налогового планирования и комплаенса в ритейле",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko306u7injjp02s4r75",
+      "titleRu": "ИИ-оптимизация юридических расходов и управления портфелем юридических услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko406u9injjq8gnpml6",
+      "titleRu": "ИИ-оптимизация структуры договоров и условий сотрудничества с поставщиками",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko406ubinjjcywscptk",
+      "titleRu": "ИИ-платформа для динамического управления compliance‑требованиями по регионам",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko406udinjjuxuwwftz",
+      "titleRu": "ИИ-оптимизация затрат на соблюдение требований по защите персональных данных",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

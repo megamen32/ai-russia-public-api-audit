@@ -1,0 +1,268 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwknm06afinjjy6nvktk3",
+      "titleRu": "AI‑скоринг и персонализированные условия кредитования для корпоративных клиентов ритейла",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknm06ahinjjgh6iod5e",
+      "titleRu": "ИИ-персонализация финансовых программ лояльности для клиентов ритейла",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknm06ajinjjwt0c9jpv",
+      "titleRu": "ИИ‑персонализация и динамическая кастомизация платежных решений под клиента",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknm06alinjjn2ce0936",
+      "titleRu": "ИИ-платформа персонализированной финансовой аналитики для франчайзи",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknm06aninjj8770kpxy",
+      "titleRu": "ИИ-платформа для персонализированных инвестиционных предложений партнерам в ритейле",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknn06apinjj4un7hzmk",
+      "titleRu": "AI‑оптимизация структуры оборотного капитала по товарным категориям",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknn06arinjj590y6kmx",
+      "titleRu": "AI‑модели для динамического управления кэш-флоу между магазинами и регионами",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknn06atinjj0zt2bjui",
+      "titleRu": "Оптимизация налогового планирования с учетом географии продаж с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknn06avinjj3qdhcsze",
+      "titleRu": "AI-система прогнозирования и хеджирования валютных рисков при закупках",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknn06axinjjn20x454t",
+      "titleRu": "AI-оптимизация финансирования товарных запасов и оборотного капитала",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknn06azinjj4mqpwe4d",
+      "titleRu": "ИИ-мониторинг финансовых показателей в реальном времени",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknn06b1injj7j5liigj",
+      "titleRu": "ИИ-мониторинг соблюдения бюджетов по подразделениям и проектам в реальном времени",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknn06b3injjtr415e0d",
+      "titleRu": "AI-мониторинг финансовых рисков и автоматическое управление лимитами",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknn06b5injj2th8y6is",
+      "titleRu": "ИИ-мониторинг эффективности инвестиций в ИТ и оптимизация капитальных затрат",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknn06b7injjamp20pt4",
+      "titleRu": "AI-мониторинг качества финансовых данных и автоматический контроль аномалий в процессах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknn06b9injjo2nfzc6a",
+      "titleRu": "AI-система поддержки решений по инвестициям в развитие сети магазинов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknn06bbinjjpiujzj87",
+      "titleRu": "ИИ-система рекомендаций по оптимизации структуры финансирования и стоимости капитала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknn06bdinjjj3hneeo7",
+      "titleRu": "AI-оптимизация ценовой политики для максимизации маржинальности",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknn06bfinjj541mnouw",
+      "titleRu": "AI-система рекомендаций по управлению дебиторской задолженностью и кредитным риском",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknn06bhinjj4jp5q21u",
+      "titleRu": "ИИ-ассистент для оценки и выбора финансовых партнёрств",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

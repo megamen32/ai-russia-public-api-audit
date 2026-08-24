@@ -1,0 +1,270 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkno06cninjjp284sl9o",
+      "titleRu": "Прогнозирование эффективности маркетинговых кампаний по каналам с помощью моделей машинного обучения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkno06cpinjj27fqd1uq",
+      "titleRu": "ИИ-предиктивная аналитика влияния промо-акций на узнаваемость бренда",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkno06crinjjv7bjrjrm",
+      "titleRu": "AI-анализ тональности и динамики упоминаний бренда в социальных сетях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkno06ctinjjxfwv7qg3",
+      "titleRu": "ИИ-прогнозирование трендов поведения покупателей по товарным категориям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknp06cvinjj4brd4baj",
+      "titleRu": "ИИ‑предиктивное моделирование ROI маркетинговых инвестиций",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknp06cxinjjg6hpu08j",
+      "titleRu": "AI-автоматизация планирования и размещения digital-рекламы",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknp06czinjjt3rsf6dk",
+      "titleRu": "ИИ‑роботизация процесса создания персонализированных email-кампаний",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknp06d1injja8hy85j0",
+      "titleRu": "ИИ-система для автоматического A/B-тестирования и оптимизации маркетинговых материалов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknp06d3injjl2dzv0ie",
+      "titleRu": "ИИ‑автоматизация SEO-оптимизации контента интернет-магазина",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknp06d5injjvdxldz0z",
+      "titleRu": "ИИ‑робот для мониторинга и автоматизированной обработки онлайн-упоминаний бренда",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknp06d7injj3u66eqzg",
+      "titleRu": "Персонализированные рекомендации товаров на основе поведения клиентов с использованием моделей машинного обучения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknp06d9injje1e3s8e0",
+      "titleRu": "Персонализированный интерфейс интернет‑магазина на базе ИИ для каждого клиента",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknp06dbinjj6kscqcya",
+      "titleRu": "ИИ-персонализация маркетинговых сообщений по жизненному циклу клиента",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknp06ddinjjz1lk5rl8",
+      "titleRu": "ИИ‑персонализированные программы лояльности с адаптивными предложениями в реальном времени",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknp06dfinjjehv74mz4",
+      "titleRu": "AI‑персонализация push-уведомлений с учетом геолокации и покупательских предпочтений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknp06dhinjjfjculyha",
+      "titleRu": "AI-оптимизация распределения маркетингового бюджета между каналами привлечения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknp06djinjjw2h68wno",
+      "titleRu": "AI-оптимизация распределения рекламного бюджета по регионам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknp06dlinjj2z1mc4tt",
+      "titleRu": "AI-оптимизация частоты и времени отправки маркетинговых сообщений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknp06dninjjclj42189",
+      "titleRu": "AI‑модели для динамической оптимизации цен и максимизации выручки в e-com",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknp06dpinjjdjrklm82",
+      "titleRu": "AI-оптимизация ассортимента и порядка товаров на витрине интернет-магазина",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

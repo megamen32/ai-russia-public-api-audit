@@ -1,0 +1,274 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwklx04bbinjjbbtc4w9r",
+      "titleRu": "ИИ-генерация должностных инструкций для новых цифровых ролей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklx04bdinjjdt8qj2fv",
+      "titleRu": "ИИ-генерация программ обучения по промышленным технологиям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklx04bfinjjycavj38i",
+      "titleRu": "ИИ-генерация персонализированных планов развития и обучения сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklx04bhinjjoef24h5u",
+      "titleRu": "ИИ-генерация контента для внутренних коммуникаций о цифровизации",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklx04bjinjj5le4nr9s",
+      "titleRu": "ИИ‑генерация и автоматизация подготовки отчетов по HR-метрикам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklx04blinjjujo3flx6",
+      "titleRu": "ИИ-анализ рисков высвобождения и перераспределения персонала при автоматизации производства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklx04bninjjhmefc6p7",
+      "titleRu": "ИИ-оценка и прогноз рисков дефицита квалифицированных кадров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklx04bpinjj3k59rcq5",
+      "titleRu": "ИИ-моделирование и прогнозирование рисков сопротивления персонала организационным изменениям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklx04brinjjeq0f3poy",
+      "titleRu": "ИИ-анализ рисков утечки ключевых специалистов и предиктивный HR-скрининг",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklx04btinjjdc55ftpy",
+      "titleRu": "ИИ-система оценки рисков нарушений трудового законодательства",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklx04bvinjju0s4l0yj",
+      "titleRu": "ИИ-планирование массового переобучения персонала для Индустрии 4.0",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklx04bxinjj171s5sad",
+      "titleRu": "ИИ-платформа для развития лидерских компетенций руководителей цифровых команд",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkly04bzinjj194zneaf",
+      "titleRu": "ИИ-платформа для формирования культуры непрерывного обучения новым промышленным технологиям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkly04c1injjvs0gtbfl",
+      "titleRu": "Использование ИИ для программ привлечения и отбора молодых IT-талантов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkly04c3injjpzrq3wpc",
+      "titleRu": "ИИ‑поддержка развития кросс-функциональных команд для цифровых проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkly04c5injjulgkoa9k",
+      "titleRu": "ИИ-платформа для разработки и тестирования HR-технологий в промышленности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkly04c7injjbm8go0z6",
+      "titleRu": "ИИ-платформа для оценки и прогнозирования цифровых компетенций сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkly04c9injjd2lo0928",
+      "titleRu": "ИИ-платформа VR/AR для адаптивного обучения и аттестации промышленного персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkly04cbinjj1kmaso3l",
+      "titleRu": "ИИ‑платформа управления талантами и прогнозирования потребности в кадрах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkly04cdinjj7chsgjyp",
+      "titleRu": "ИИ‑оптимизация и моделирование гибридных и удалённых формата работы в промышленности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

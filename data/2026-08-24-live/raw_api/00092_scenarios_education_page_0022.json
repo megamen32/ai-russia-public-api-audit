@@ -1,0 +1,283 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkk4027zinjjrwy77ayw",
+      "titleRu": "ИИ‑система мониторинга соблюдения образовательных стандартов и лицензионных требований",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk40281injjfnbnq3bl",
+      "titleRu": "ИИ-контроллер соответствия деятельности вуза антикоррупционному законодательству",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk40283injj4pheqazx",
+      "titleRu": "ИИ-модуль мониторинга соблюдения трудовых прав преподавателей и сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk40285injjrvxu2w06",
+      "titleRu": "ИИ-система мониторинга и контроля исполнения предписаний надзорных органов в образовательных организациях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk40287injjpv8lm8ss",
+      "titleRu": "ИИ-аналитика эффективности системы внутреннего контроля и аудита в университете",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk40289injjiokzdpvb",
+      "titleRu": "ИИ-система поддержки управленческих правовых решений для образовательного учреждения на основе LLM",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk4028binjj2cirmgj7",
+      "titleRu": "ИИ-модуль поддержки решений по выбору правовой структуры новых образовательных проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk4028dinjjct0uwuwy",
+      "titleRu": "ИИ-система поддержки решений по урегулированию конфликтов в академической среде",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk4028finjjf8qj87qu",
+      "titleRu": "ИИ-консультант для принятия решений о правовых рисках международного сотрудничества",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk4028hinjjwtat714o",
+      "titleRu": "ИИ-платформа поддержки решений по защите и управлению интеллектуальной собственностью университета",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk4028jinjjhmd6gbm1",
+      "titleRu": "ИИ-генератор правовых документов и локальных актов для образовательного учреждения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk4028linjjyfaby00w",
+      "titleRu": "ИИ‑система автоматического формирования и проверки договоров с участниками образовательного процесса",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk4028ninjjgrxl5axo",
+      "titleRu": "ИИ‑генератор правовых заключений и экспертиз по образовательным программам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk5028pinjjie4i5mcp",
+      "titleRu": "ИИ-помощник для автоматической генерации и обновления памяток и инструкций по соблюдению законодательства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk5028rinjjn3mhlyye",
+      "titleRu": "ИИ-система автоматизированного формирования отчетов о правовом состоянии деятельности вуза",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk5028tinjjzgwpqpah",
+      "titleRu": "ИИ-система оценки правовых рисков образовательной и научной деятельности",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk5028vinjjkx7x5emz",
+      "titleRu": "ИИ‑модуль управления рисками нарушения антимонопольного законодательства в образовательных организациях",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk5028xinjjojth2x81",
+      "titleRu": "ИИ-система оценки и мониторинга репутационных рисков при правовых конфликтах с обучающимися",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk5028zinjj737y8tg5",
+      "titleRu": "ИИ-анализатор рисков санкций регулирующих органов за нарушение требований",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk50291injjo9qyqk8j",
+      "titleRu": "ИИ‑платформа управления рисками утечки конфиденциальной академической информации",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

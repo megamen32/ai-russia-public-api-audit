@@ -1,0 +1,266 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkn805trinjjtton5cwq",
+      "titleRu": "ИИ-персонализация карьерных траекторий и развития сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn805ttinjj2640a735",
+      "titleRu": "ИИ-платформа для персонализированных программ адаптации новых сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn805tvinjjzpfadicn",
+      "titleRu": "AI‑персонализированная система мотивации и вознаграждения персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn805txinjjnh3boih8",
+      "titleRu": "ИИ-платформа адаптивного обучения под специфику роли сотрудника",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn805tzinjjx1qvki5m",
+      "titleRu": "ИИ-система персонализированных планов развития и удержания талантов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn805u1injjdpy587yj",
+      "titleRu": "Оптимизация организационной структуры и штатного расписания на основе ИИ-аналитики ресурсов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn805u3injjjee5iyj5",
+      "titleRu": "ИИ-система управления компетенциями и экспертизой персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn805u5injj4hjmhbzb",
+      "titleRu": "ИИ-оптимизация программ обучения и развития персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn805u7injj2k175li8",
+      "titleRu": "ИИ-платформа управления внутренней мобильностью персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn805u9injj5btv9ht3",
+      "titleRu": "AI-платформа оптимального планирования и контроля HR-бюджета",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn805ubinjjc22uvjke",
+      "titleRu": "AI-система мониторинга и предиктивной аналитики вовлеченности персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn805udinjj7r9j1bgh",
+      "titleRu": "AI-платформа мониторинга соблюдения трудового законодательства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn805ufinjjqsqy11f3",
+      "titleRu": "ИИ-мониторинг эффективности работы подразделений и прогноз отклонений KPI",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn905uhinjjai10gkdj",
+      "titleRu": "ИИ-система компьютерного зрения для контроля соблюдения техники безопасности на производстве",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn905ujinjjrb4ww18r",
+      "titleRu": "ИИ-платформа мониторинга и прогнозирования исполнения индивидуальных планов развития персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn905ulinjj3xwpwau5",
+      "titleRu": "AI DSS для принятия решений по организационным изменениям в энергетических компаниях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn905uninjjvtn2yeat",
+      "titleRu": "AI-система поддержки решений по компенсациям и льготам персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn905upinjjyrn5bf14",
+      "titleRu": "AI-платформа для анализа необходимости найма внешних экспертов и поддержки HR-решений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn905urinjj6g96osba",
+      "titleRu": "ИИ DSS для планирования карьерных треков и преемственности руководящих позиций",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkn905utinjjne7a7er4",
+      "titleRu": "ИИ-система поддержки решений по реструктуризации организационной структуры подразделений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

@@ -1,0 +1,1001 @@
+﻿industry_slug,function_id,function_slug,function_name,task_id,task_slug,task_name,declared_count,has_cases
+agriculture,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+agriculture,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+agriculture,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+agriculture,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+agriculture,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+agriculture,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+agriculture,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+agriculture,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+agriculture,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+agriculture,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+agriculture,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+agriculture,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+agriculture,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+agriculture,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+agriculture,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+agriculture,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+agriculture,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+agriculture,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+agriculture,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+agriculture,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+agriculture,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+agriculture,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+agriculture,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+agriculture,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+agriculture,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+agriculture,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+agriculture,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+agriculture,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+agriculture,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+agriculture,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+agriculture,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+agriculture,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+agriculture,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+agriculture,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+agriculture,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+agriculture,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+agriculture,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+agriculture,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+agriculture,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+agriculture,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+agriculture,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+agriculture,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+agriculture,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+agriculture,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+agriculture,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+agriculture,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+agriculture,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+agriculture,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+agriculture,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+agriculture,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+agriculture,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+agriculture,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+agriculture,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+agriculture,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+agriculture,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+agriculture,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+agriculture,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+agriculture,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+agriculture,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+agriculture,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+agriculture,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+agriculture,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+agriculture,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+agriculture,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+agriculture,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+agriculture,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+agriculture,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+agriculture,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+agriculture,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+agriculture,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+agriculture,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+agriculture,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+agriculture,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+agriculture,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+agriculture,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+agriculture,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+agriculture,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+agriculture,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+agriculture,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+agriculture,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+agriculture,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+agriculture,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+agriculture,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+agriculture,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+agriculture,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+agriculture,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+agriculture,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+agriculture,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+agriculture,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+agriculture,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+agriculture,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+agriculture,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+agriculture,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+agriculture,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+agriculture,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+agriculture,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+agriculture,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+agriculture,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+agriculture,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+agriculture,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+construction,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,6,False
+construction,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+construction,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+construction,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+construction,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+construction,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+construction,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+construction,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+construction,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+construction,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+construction,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+construction,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+construction,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+construction,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+construction,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+construction,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+construction,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+construction,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+construction,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+construction,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+construction,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+construction,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+construction,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+construction,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+construction,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+construction,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+construction,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+construction,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+construction,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+construction,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+construction,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+construction,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+construction,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+construction,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+construction,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+construction,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+construction,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+construction,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+construction,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+construction,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+construction,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+construction,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+construction,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+construction,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+construction,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+construction,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+construction,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+construction,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+construction,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+construction,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+construction,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+construction,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+construction,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+construction,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+construction,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+construction,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+construction,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+construction,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+construction,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+construction,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+construction,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+construction,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+construction,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+construction,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+construction,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+construction,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+construction,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+construction,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+construction,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+construction,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+construction,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+construction,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+construction,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+construction,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+construction,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+construction,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+construction,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+construction,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+construction,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+construction,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+construction,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+construction,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+construction,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+construction,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+construction,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+construction,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+construction,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+construction,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,4,False
+construction,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+construction,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+construction,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+construction,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+construction,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+construction,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+construction,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+construction,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+construction,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+construction,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+construction,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+construction,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+education,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+education,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+education,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+education,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+education,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+education,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+education,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+education,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+education,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+education,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+education,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+education,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+education,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+education,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+education,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+education,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+education,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+education,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+education,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+education,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+education,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+education,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+education,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+education,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+education,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+education,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+education,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+education,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+education,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+education,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+education,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+education,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+education,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+education,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+education,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+education,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+education,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+education,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+education,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+education,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+education,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+education,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+education,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+education,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+education,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+education,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+education,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+education,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+education,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+education,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+education,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+education,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+education,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+education,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+education,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+education,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+education,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+education,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+education,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+education,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+education,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+education,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+education,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+education,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+education,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+education,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+education,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+education,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+education,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+education,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+education,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+education,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+education,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+education,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+education,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+education,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+education,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+education,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+education,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+education,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+education,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+education,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+education,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+education,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+education,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+education,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+education,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+education,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+education,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+education,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+education,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+education,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+education,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+education,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+education,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+education,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+education,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+education,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+education,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+education,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+healthcare,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+healthcare,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+healthcare,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+healthcare,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+healthcare,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+healthcare,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+healthcare,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+healthcare,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+healthcare,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+healthcare,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+healthcare,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+healthcare,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+healthcare,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+healthcare,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+healthcare,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+healthcare,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+healthcare,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+healthcare,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+healthcare,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+healthcare,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+healthcare,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+healthcare,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+healthcare,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+healthcare,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+healthcare,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+healthcare,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+healthcare,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+healthcare,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+healthcare,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+healthcare,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+healthcare,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+healthcare,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+healthcare,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+healthcare,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+healthcare,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+healthcare,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+healthcare,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+healthcare,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+healthcare,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+healthcare,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+healthcare,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+healthcare,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+healthcare,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+healthcare,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+healthcare,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+healthcare,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+healthcare,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+healthcare,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+healthcare,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+healthcare,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+healthcare,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+healthcare,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+healthcare,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+healthcare,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+healthcare,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+healthcare,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+healthcare,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+healthcare,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+healthcare,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+healthcare,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+healthcare,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+healthcare,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+healthcare,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+healthcare,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+healthcare,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+healthcare,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+healthcare,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+healthcare,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+healthcare,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+healthcare,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+healthcare,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+healthcare,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+healthcare,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+healthcare,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+healthcare,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+healthcare,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+healthcare,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+healthcare,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+healthcare,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+healthcare,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+healthcare,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+healthcare,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+healthcare,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+healthcare,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+healthcare,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+healthcare,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+healthcare,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+healthcare,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+healthcare,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+healthcare,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+healthcare,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+healthcare,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+healthcare,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+healthcare,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+healthcare,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+healthcare,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+healthcare,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+healthcare,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+healthcare,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+healthcare,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+industrial,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+industrial,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+industrial,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+industrial,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+industrial,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+industrial,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+industrial,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+industrial,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+industrial,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+industrial,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+industrial,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+industrial,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+industrial,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+industrial,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+industrial,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+industrial,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+industrial,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+industrial,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+industrial,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+industrial,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+industrial,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+industrial,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+industrial,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+industrial,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+industrial,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+industrial,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+industrial,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+industrial,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+industrial,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+industrial,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+industrial,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+industrial,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+industrial,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+industrial,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+industrial,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+industrial,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+industrial,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+industrial,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+industrial,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+industrial,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+industrial,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+industrial,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+industrial,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+industrial,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+industrial,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+industrial,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+industrial,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+industrial,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+industrial,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+industrial,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+industrial,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+industrial,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+industrial,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+industrial,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+industrial,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+industrial,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+industrial,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+industrial,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+industrial,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+industrial,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+industrial,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+industrial,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+industrial,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+industrial,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+industrial,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+industrial,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+industrial,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+industrial,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+industrial,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+industrial,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+industrial,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+industrial,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+industrial,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+industrial,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+industrial,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+industrial,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+industrial,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+industrial,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+industrial,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+industrial,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+industrial,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+industrial,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+industrial,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+industrial,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+industrial,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+industrial,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+industrial,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+industrial,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+industrial,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+industrial,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+industrial,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+industrial,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+industrial,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+industrial,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+industrial,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+industrial,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+industrial,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+industrial,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+industrial,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+industrial,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+it-telecom,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+it-telecom,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+it-telecom,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+it-telecom,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+it-telecom,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+it-telecom,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+it-telecom,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+it-telecom,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+it-telecom,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+it-telecom,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+it-telecom,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+it-telecom,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+it-telecom,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+it-telecom,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+it-telecom,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+it-telecom,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+it-telecom,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+it-telecom,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+it-telecom,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+it-telecom,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+it-telecom,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+it-telecom,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+it-telecom,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+it-telecom,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+it-telecom,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+it-telecom,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+it-telecom,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+it-telecom,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+it-telecom,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+it-telecom,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+it-telecom,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+it-telecom,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+it-telecom,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+it-telecom,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+it-telecom,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+it-telecom,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,True
+it-telecom,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+it-telecom,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+it-telecom,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+it-telecom,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+it-telecom,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+it-telecom,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+it-telecom,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+it-telecom,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+it-telecom,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+it-telecom,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+it-telecom,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+it-telecom,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+it-telecom,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+it-telecom,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+it-telecom,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+it-telecom,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+it-telecom,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+it-telecom,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+it-telecom,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+it-telecom,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+it-telecom,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+it-telecom,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+it-telecom,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+it-telecom,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+it-telecom,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+it-telecom,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,True
+it-telecom,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+it-telecom,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+it-telecom,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+it-telecom,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+it-telecom,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+it-telecom,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+it-telecom,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+it-telecom,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,True
+it-telecom,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+it-telecom,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+it-telecom,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+it-telecom,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+it-telecom,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+it-telecom,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+it-telecom,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+it-telecom,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+it-telecom,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+it-telecom,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+it-telecom,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+it-telecom,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+it-telecom,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+it-telecom,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+it-telecom,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+it-telecom,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+it-telecom,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+it-telecom,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+it-telecom,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+it-telecom,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+it-telecom,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+it-telecom,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+it-telecom,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+it-telecom,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+it-telecom,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+it-telecom,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+it-telecom,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+it-telecom,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+it-telecom,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+it-telecom,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+oil-energy,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+oil-energy,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+oil-energy,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+oil-energy,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+oil-energy,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+oil-energy,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+oil-energy,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+oil-energy,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+oil-energy,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+oil-energy,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+oil-energy,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+oil-energy,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+oil-energy,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+oil-energy,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+oil-energy,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+oil-energy,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+oil-energy,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+oil-energy,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+oil-energy,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+oil-energy,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+oil-energy,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+oil-energy,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+oil-energy,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+oil-energy,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+oil-energy,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+oil-energy,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+oil-energy,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+oil-energy,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+oil-energy,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+oil-energy,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+oil-energy,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+oil-energy,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+oil-energy,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+oil-energy,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+oil-energy,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+oil-energy,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+oil-energy,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+oil-energy,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+oil-energy,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+oil-energy,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+oil-energy,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+oil-energy,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+oil-energy,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+oil-energy,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+oil-energy,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+oil-energy,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+oil-energy,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+oil-energy,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+oil-energy,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+oil-energy,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+oil-energy,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+oil-energy,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+oil-energy,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+oil-energy,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+oil-energy,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+oil-energy,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+oil-energy,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+oil-energy,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+oil-energy,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+oil-energy,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+oil-energy,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+oil-energy,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+oil-energy,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+oil-energy,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+oil-energy,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+oil-energy,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+oil-energy,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+oil-energy,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+oil-energy,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+oil-energy,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+oil-energy,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+oil-energy,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+oil-energy,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+oil-energy,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+oil-energy,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+oil-energy,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+oil-energy,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+oil-energy,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+oil-energy,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+oil-energy,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+oil-energy,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+oil-energy,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+oil-energy,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+oil-energy,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+oil-energy,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+oil-energy,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+oil-energy,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+oil-energy,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+oil-energy,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+oil-energy,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+oil-energy,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+oil-energy,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+oil-energy,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+oil-energy,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+oil-energy,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+oil-energy,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+oil-energy,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+oil-energy,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+oil-energy,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+oil-energy,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+retail,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+retail,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+retail,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+retail,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+retail,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+retail,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+retail,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+retail,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+retail,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+retail,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+retail,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+retail,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+retail,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+retail,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+retail,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+retail,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+retail,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+retail,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+retail,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+retail,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+retail,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+retail,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+retail,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+retail,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+retail,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+retail,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+retail,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+retail,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+retail,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+retail,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+retail,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+retail,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+retail,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+retail,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+retail,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+retail,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+retail,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+retail,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+retail,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+retail,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+retail,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+retail,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+retail,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+retail,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+retail,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+retail,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+retail,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+retail,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+retail,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+retail,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+retail,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+retail,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+retail,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+retail,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+retail,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+retail,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+retail,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+retail,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+retail,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+retail,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+retail,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+retail,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+retail,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+retail,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+retail,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+retail,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+retail,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+retail,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+retail,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+retail,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+retail,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+retail,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+retail,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+retail,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+retail,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+retail,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+retail,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+retail,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+retail,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+retail,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+retail,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+retail,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+retail,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+retail,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+retail,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+retail,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+retail,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+retail,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+retail,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+retail,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+retail,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+retail,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+retail,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+retail,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+retail,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+retail,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+retail,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+retail,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+retail,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+retail,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+finance,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+finance,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+finance,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+finance,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+finance,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+finance,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+finance,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+finance,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+finance,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+finance,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+finance,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+finance,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+finance,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+finance,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+finance,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+finance,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+finance,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+finance,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+finance,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+finance,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+finance,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+finance,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+finance,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+finance,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+finance,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+finance,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+finance,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+finance,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+finance,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+finance,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+finance,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+finance,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+finance,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+finance,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+finance,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+finance,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,True
+finance,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,True
+finance,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+finance,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+finance,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+finance,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+finance,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+finance,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,True
+finance,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+finance,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+finance,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+finance,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+finance,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+finance,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+finance,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,4,False
+finance,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+finance,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+finance,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+finance,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+finance,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+finance,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+finance,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+finance,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+finance,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+finance,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+finance,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,True
+finance,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+finance,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+finance,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,True
+finance,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+finance,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,True
+finance,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+finance,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+finance,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+finance,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+finance,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+finance,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+finance,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+finance,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+finance,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+finance,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+finance,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+finance,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,True
+finance,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+finance,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+finance,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+finance,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+finance,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+finance,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+finance,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+finance,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+finance,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+finance,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+finance,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+finance,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+finance,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+finance,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+finance,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+finance,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+finance,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+finance,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+finance,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+finance,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+finance,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+finance,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+transport,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+transport,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+transport,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+transport,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+transport,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+transport,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+transport,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+transport,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+transport,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+transport,cmqxqlz4j000ainb10arwvq75,strategic-management,Стратегический менеджмент,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+transport,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+transport,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+transport,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+transport,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+transport,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+transport,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+transport,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+transport,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+transport,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,4,False
+transport,cmqxqlz4m000binb1ypwptkoh,finance-capital,Финансы и управление капиталом,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,4,False
+transport,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+transport,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+transport,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+transport,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+transport,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+transport,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+transport,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+transport,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+transport,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+transport,cmqxqlz4o000cinb1m73cvn4a,marketing-brand,Маркетинг и бренд-менеджмент,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+transport,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+transport,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+transport,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+transport,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+transport,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+transport,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+transport,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+transport,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+transport,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+transport,cmqxqlz4p000dinb11188uvpy,sales-business-dev,Продажи и развитие бизнеса,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+transport,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+transport,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+transport,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+transport,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+transport,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+transport,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+transport,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+transport,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+transport,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+transport,cmqxqlz4r000einb18z4bojxx,operations-production,Операции и производство,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+transport,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+transport,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+transport,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+transport,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+transport,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+transport,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+transport,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+transport,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+transport,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+transport,cmqxqlz4s000finb17nl15uxh,hr,Кадровая политика (HR и организационное развитие),cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+transport,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+transport,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+transport,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+transport,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+transport,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+transport,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+transport,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),4,False
+transport,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+transport,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+transport,cmqxqlz4u000ginb1x8vmukdn,it-digitalization,Информационные технологии и цифровизация,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,3,False
+transport,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+transport,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+transport,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+transport,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+transport,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+transport,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,4,False
+transport,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+transport,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+transport,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+transport,cmqxqlz4v000hinb13y8hfw3k,legal-compliance,Правовое обеспечение и комплаенс,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False
+transport,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+transport,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+transport,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+transport,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+transport,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+transport,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+transport,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+transport,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+transport,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+transport,cmqxqlz4w000iinb1kipcdqq3,innovation-rd,Инновации и R&D,cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,4,False
+transport,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz4z000kinb159w7a9of,analytics-forecasting,Аналитика и прогнозирование,5,False
+transport,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz51000linb17orobnrw,process-automation,Автоматизация процессов (RPA / IPA),5,False
+transport,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz52000minb197ta2ely,resource-optimization,Оптимизация и управление ресурсами,5,False
+transport,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz52000ninb1po58x80p,monitoring-control,Мониторинг и контроль,5,False
+transport,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz53000oinb1vq5y4xw5,content-generation,Генерация и обработка контента,5,False
+transport,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz53000pinb103ng637v,personalization-cx,Персонализация и клиентский опыт,5,False
+transport,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz54000qinb1d0pmk7a4,decision-support,Решения для поддержки принятия решений (Decision Support),5,False
+transport,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz54000rinb1z8ekad9f,risk-security,Управление рисками и безопасностью,5,False
+transport,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz55000sinb1mdthyfej,people-development,Развитие персонала и организационные задачи,5,False
+transport,cmqxqlz4y000jinb1p0uqmnjt,procurement-scm,Закупки и управление цепочками поставок (SCM),cmqxqlz55000tinb1asopwsmh,innovation-products,Инновации и новые продукты,5,False

@@ -1,0 +1,274 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkjf01f3injjvmviwdf4",
+      "titleRu": "Интеллектуальная система инвентаризации складов стройматериалов на базе автономных дронов и компьютерного зрения",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjf01f5injjps5mpzux",
+      "titleRu": "ИИ-система прогнозирования изменений в градостроительном законодательстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjf01f7injj9hobotiu",
+      "titleRu": "Модель предсказания правовых рисков девелоперских проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjf01f9injjvlkkjvhi",
+      "titleRu": "AI-система предиктивной аналитики судебных споров с дольщиками",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjf01fbinjjojz4anba",
+      "titleRu": "AI-система предиктивного анализа регуляторных изменений в строительстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjf01fdinjj3341je2g",
+      "titleRu": "ИИ-анализатор соответствия ЖК требованиям строительных норм",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjf01ffinjjn52mtc9h",
+      "titleRu": "Интеллектуальная автоматизация подготовки и проверки разрешительной документации для ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "NLP",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjf01fhinjjq48nio02",
+      "titleRu": "ИИ-автоматизация ведения реестра договоров долевого участия",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjf01fjinjjc0vp1kk7",
+      "titleRu": "Интеллектуальный RPA-бот для анализа изменений в строительном законодательстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjf01flinjjojzhdw1s",
+      "titleRu": "Интеллектуальная автоматизация получения лицензий СРО для строительных работ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "NLP",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjf01fninjjv4cav8p3",
+      "titleRu": "Интеллектуальная система автоматизации подготовки юридических документов по ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjf01fpinjjhhdwlfhq",
+      "titleRu": "ИИ-ассистент для персонализированных правовых консультаций дольщиков ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjf01frinjjgi7nt8l7",
+      "titleRu": "ИИ-система индивидуального юридического сопровождения сделок с недвижимостью",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjg01ftinjjbdyw2wmb",
+      "titleRu": "Интеллектуальная платформа для персонализированного информирования дольщиков о правовых изменениях",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjg01fvinjjxzfb2ghm",
+      "titleRu": "ИИ-платформа для персонализированного правового консультирования покупателей новостроек",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjg01fxinjj0uggrdjq",
+      "titleRu": "Персональный юрист-бот для консультаций по вопросам долевого строительства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjg01fzinjjcicipf8h",
+      "titleRu": "ИИ-оптимизация процессов получения разрешений на строительство ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjg01g1injj3m57j14d",
+      "titleRu": "AI-система предиктивного анализа и управления правовыми рисками девелоперских проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjg01g3injjd4nbm05g",
+      "titleRu": "ИИ-планировщик оптимальных сроков подачи разрешительной документации",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjg01g5injj378fv30o",
+      "titleRu": "ИИ-оптимизация правового сопровождения и снижение рисков в строительных проектах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

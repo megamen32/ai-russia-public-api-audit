@@ -1,0 +1,281 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwklf03q7injjdwuuqzbe",
+      "titleRu": "ИИ-система аналитики и прогнозирования соответствия медицинской деятельности регуляторным требованиям",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklf03q9injja4uawml5",
+      "titleRu": "ИИ-платформа предиктивной аналитики рисков нарушения медицинского законодательства",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklf03qbinjjl0qp6uao",
+      "titleRu": "ИИ-модель прогнозирования эффективности системы правового сопровождения медицинских процессов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklf03qdinjjvdwx4394",
+      "titleRu": "ИИ-система аналитики и прогнозирования судебных рисков по медицинским спорам и жалобам пациентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklf03qfinjjlyawjr3p",
+      "titleRu": "ИИ-решение прогнозирования соблюдения требований защиты персональных данных пациентов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklf03qhinjj92j9rlic",
+      "titleRu": "AI- и RPA-система автоматизации контроля соблюдения медицинского законодательства",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklf03qjinjjw9mkxd2u",
+      "titleRu": "ИИ‑платформа автоматизированной подготовки правовых документов для лицензирования медицинской деятельности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklf03qlinjj40429jos",
+      "titleRu": "ИИ-бот для автоматического мониторинга и анализа изменений в медицинском законодательстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklf03qninjjmoatwzyb",
+      "titleRu": "Интеллектуальное RPA-решение с ИИ для автоматизации обработки жалоб пациентов и претензий к качеству медуслуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklf03qpinjjctcf2h6a",
+      "titleRu": "ИИ-система автоматизированного аудита и мониторинга соблюдения этических стандартов в медицинской практике",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklf03qrinjj5ba1qxql",
+      "titleRu": "ИИ-платформа персонализации комплаенс‑и правовых процедур для разных медицинских направлений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklf03qtinjjox8gz810",
+      "titleRu": "ИИ‑платформа персонализированной генерации и проверки договоров с пациентами на медицинские услуги",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklf03qvinjjni6pznyw",
+      "titleRu": "ИИ-модели для персонализированных цифровых форм информированного согласия по медицинским процедурам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklf03qxinjjlg58leso",
+      "titleRu": "ИИ-система кастомизации политик конфиденциальности медицинских данных по категориям пациентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklf03qzinjj6a0fsy81",
+      "titleRu": "ИИ‑система персонализации условий страхования профессиональной ответственности по медицинским специализациям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklf03r1injjr0jnboj1",
+      "titleRu": "ИИ-система оптимизации правовых и комплаенс‑процессов в медицинских организациях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklf03r3injj57nn4kjm",
+      "titleRu": "ИИ-платформа оптимизации затрат на правовое обеспечение соблюдения медицинских стандартов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklf03r5injj6at0d1wu",
+      "titleRu": "ИИ-модель оптимизации процессов получения и продления медицинских лицензий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklg03r7injjujfiux55",
+      "titleRu": "ИИ-система управления правовыми рисками и комплаенсом в медицинской практике",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwklg03r9injjbj5rv7l7",
+      "titleRu": "ИИ-система оптимизации документооборота для соблюдения медицинского законодательства и комплаенса",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

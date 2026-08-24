@@ -1,0 +1,271 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkj70167injjffvj0d7b",
+      "titleRu": "ИИ-мониторинг геотехнических рисков при возведении фундаментов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj70169injjru23afjb",
+      "titleRu": "ИИ-система адаптивного обучения и оценки квалификации прорабов и мастеров в современных строительных технологиях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj7016binjjz7egbxw9",
+      "titleRu": "ИИ-платформа аттестации рабочих строительных специальностей",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj8016dinjjlr6jf5uj",
+      "titleRu": "ИИ-платформа для персонализированного развития компетенций инженерно-технических работников ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj8016finjj7hl01z7z",
+      "titleRu": "Интеллектуальная система управления знаниями и обучения в строительстве на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj8016hinjj9vphenhs",
+      "titleRu": "ИИ-тренажёр по технике безопасности для строительных бригад",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "CV",
+        "ASR"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj8016jinjjvbdv5124",
+      "titleRu": "Применение ИИ для генеративного проектирования и оптимизации BIM-моделей жилых комплексов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj8016linjjxtrm550i",
+      "titleRu": "ИИ-система роботизированной кладки и монтажа строительных конструкций",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj8016ninjjwhch3zzr",
+      "titleRu": "ИИ-платформа для автоматизированного мониторинга и контроля строительных объектов с использованием дронов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj8016pinjj12knzm5q",
+      "titleRu": "Применение ИИ для разработки и оптимизации инновационных материалов и технологий «зелёного» строительства ЖК",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj8016rinjjnesg2ya7",
+      "titleRu": "Система цифровых двойников на базе ИИ для предиктивного анализа и управления строительством жилых комплексов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj8016tinjj8wdbcpir",
+      "titleRu": "ИИ-система прогнозирования потребности в кадрах для строительных проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj8016vinjjhf0kj5qb",
+      "titleRu": "ИИ-модель для прогнозирования текучести персонала в девелоперских компаниях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj8016xinjj00i80o3p",
+      "titleRu": "ИИ-система прогнозирования и оптимизации эффективности строительных бригад на объектах ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj8016zinjj09uvburt",
+      "titleRu": "ИИ-система прогнозирования сроков найма строительных специалистов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj80171injjt1sy5fvp",
+      "titleRu": "ИИ-система для анализа и прогнозирования компетенций инженерно-технических работников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj80173injjmj14sw06",
+      "titleRu": "Интеллектуальная автоматизация подбора персонала для строительных объектов с применением ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj80175injj7vtpu1y4",
+      "titleRu": "Интеллектуальная автоматизация оформления трудовых договоров с подрядчиками",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj80177injjsuaasozy",
+      "titleRu": "RPA-бот для ведения кадрового делопроизводства в девелоперской компании",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj80179injjpzykc7os",
+      "titleRu": "Интеллектуальная автоматизация расчета заработной платы строительным рабочим с применением AI",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "NLP",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

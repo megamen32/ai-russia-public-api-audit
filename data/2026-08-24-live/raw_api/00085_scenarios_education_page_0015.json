@@ -1,0 +1,282 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkjx0207injjh575h31z",
+      "titleRu": "ИИ-генератор должностных инструкций и профессиональных стандартов для образовательных ролей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjx0209injjhn8ryj13",
+      "titleRu": "ИИ-система автоматической генерации программ адаптации для новых сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjx020binjjkr8grfxy",
+      "titleRu": "ИИ‑генератор и анализатор материалов для оценки и аттестации профессорско-преподавательского состава",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjx020dinjjwa9u7kld",
+      "titleRu": "ИИ-помощник на базе LLM для разработки корпоративных образовательных программ и тренингов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjx020finjjq67eq5od",
+      "titleRu": "AI-система генерации HR-аналитики и автоматического формирования отчетов по персоналу",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjx020hinjjy0bar5zk",
+      "titleRu": "ИИ-система оценки рисков потери ключевых преподавателей и научных кадров",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjx020jinjjdu5a4r3t",
+      "titleRu": "ИИ‑модуль управления репутационными рисками при кадровых конфликтах в вузе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjx020linjjzslmhwrd",
+      "titleRu": "ИИ-система оценки правовых рисков в трудовых отношениях с преподавателями",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjy020ninjj5cip4fi3",
+      "titleRu": "ИИ-анализатор рисков нарушения академической этики сотрудниками",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjy020pinjjtvq8i2qf",
+      "titleRu": "ИИ-платформа управления психосоциальными рисками и благополучием сотрудников университета",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjy020rinjjv4jrzm14",
+      "titleRu": "AI-платформа непрерывного профессионального развития преподавателей и исследователей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjy020tinjj44vgdhck",
+      "titleRu": "ИИ-платформа для развития лидерских компетенций руководителей академических подразделений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjy020vinjjuka3eo5m",
+      "titleRu": "ИИ-платформа развития педагогических компетенций для молодых преподавателей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjy020xinjjscgipi4m",
+      "titleRu": "ИИ-платформа для mentoring и наставничества начинающих научных сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjy020zinjj5uu4owjn",
+      "titleRu": "ИИ-коуч на базе LLM для развития коммуникативных навыков персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjy0211injjtanovh84",
+      "titleRu": "ИИ-разработка инновационных методов оценки и развития академических талантов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjy0213injjb30qrlcq",
+      "titleRu": "ИИ-платформа для генерации и подбора новых форматов профессионального взаимодействия преподавателей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjy0215injj7kxjddy8",
+      "titleRu": "AI-платформа проектирования гибких форм занятости для научно‑педагогических работников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjy0217injj42le5wwa",
+      "titleRu": "ИИ-лаборатория по разработке и тестированию технологий удержания и мотивации высококвалифицированных кадров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjy0219injj2rws2ikj",
+      "titleRu": "AI-платформа управления человеческим капиталом в образовании",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

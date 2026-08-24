@@ -1,0 +1,276 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkjp01q7injjgq59bf47",
+      "titleRu": "ИИ-аналитика трендов образовательного рынка для прогнозирования спроса на специальности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjp01q9injjhe408hly",
+      "titleRu": "ИИ-система прогнозирования эффективности маркетинговых кампаний по привлечению абитуриентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjp01qbinjjs5h4jb7n",
+      "titleRu": "ИИ-модуль анализа репутации университета в социальных сетях и онлайн-медиа",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjp01qdinjj98zfyj78",
+      "titleRu": "ИИ-анализ и прогноз конкурентоспособности образовательных программ на рынке труда",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjp01qfinjjc06ed9c1",
+      "titleRu": "ИИ-платформа аналитики поведения студентов и прогнозирования образовательных траекторий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjp01qhinjjxffr2lad",
+      "titleRu": "ИИ-робот для автоматизации создания и размещения контента в социальных сетях университета",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjp01qjinjjv463blok",
+      "titleRu": "ИИ-автоматизация персонализированных email-кампаний для абитуриентов и их родителей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjp01qlinjjaoxl7ydu",
+      "titleRu": "AI-система автоматизации SEO-оптимизации сайта университета и образовательных программ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjp01qninjju8jwjfsj",
+      "titleRu": "ИИ‑робот для мониторинга упоминаний вуза в интернете и автоматического формирования аналитических отчетов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjp01qpinjjpt2qcnyi",
+      "titleRu": "ИИ‑автоматизация обновления рейтингов и достижений университета на всех цифровых платформах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjp01qrinjjjvoi6xhq",
+      "titleRu": "ИИ-платформа персонализированных виртуальных туров по кампусу для разных категорий абитуриентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjp01qtinjjsqgzpu6m",
+      "titleRu": "ИИ-помощник для индивидуализации коммуникаций с потенциальными студентами по их интересам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjp01qvinjjjzs9kcw8",
+      "titleRu": "AI-платформа персонализированных рекомендаций образовательных программ на основе профиля абитуриента",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjp01qxinjjtuyue2k4",
+      "titleRu": "ИИ‑персонализация маркетинговых воронок для разных сегментов абитуриентов и студентов вуза",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjp01qzinjj2auq6km6",
+      "titleRu": "ИИ-платформа персонализированных контент-планов для выпускников на основе анализа их карьерных достижений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjp01r1injje3pvnkx5",
+      "titleRu": "ИИ-оптимизация маркетингового бюджета университета по каналам привлечения студентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjp01r3injjc8expk4v",
+      "titleRu": "ИИ-система оптимального размещения рекламы образовательных программ в цифровых каналах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjp01r5injjb9mfh7ya",
+      "titleRu": "ИИ-модуль оптимизации контент-стратегии для максимальной вовлеченности целевой аудитории",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjp01r7injjasmzzn84",
+      "titleRu": "ИИ-планировщик эффективного использования времени преподавателей в маркетинговых активностях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjp01r9injj1y7jlm2u",
+      "titleRu": "ИИ-система оптимизации событийного маркетинга для управления конференциями, днями открытых дверей и выставками",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

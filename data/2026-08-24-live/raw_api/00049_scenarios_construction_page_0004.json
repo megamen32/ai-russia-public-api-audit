@@ -1,0 +1,271 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkiz00w7injjzw772adu",
+      "titleRu": "Роботизированный контроль целевого расходования эскроу-счетов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiz00w9injjaiaqfgzs",
+      "titleRu": "ИИ-оптимизация персонализированных схем рассрочки для покупателей новостроек",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiz00wbinjjjyn3q9bi",
+      "titleRu": "ИИ-консультант по ипотечным программам для покупки квартир в ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiz00wdinjjpyt7sqsk",
+      "titleRu": "ИИ-ассистент для персонализированного финансового планирования дольщиков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiz00wfinjj5fahd71b",
+      "titleRu": "Предиктивный ИИ-аналитик стоимости владения недвижимостью",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiz00whinjjyszgo6mw",
+      "titleRu": "ИИ для динамической персонализации инвестиционных предложений VIP-клиентам девелопера",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiz00wjinjj9gobjmik",
+      "titleRu": "Оптимизация структуры финансирования портфеля строительных проектов с использованием ИИ и предиктивной аналитики",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiz00wlinjjb23gq04s",
+      "titleRu": "Предиктивная аналитика на базе ИИ для оптимизации оборотного капитала девелоперской компании",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiz00wninjjvtlkobc3",
+      "titleRu": "Предиктивный анализ и оптимизация налогового планирования для строительных компаний на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiz00wpinjj46fnsj3j",
+      "titleRu": "Интеллектуальная система прогнозирования и оптимизации ликвидности в долевом строительстве",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiz00wrinjjz8hrjrou",
+      "titleRu": "ИИ-система предиктивной оптимизации бюджета между объектами ЖК",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj000wtinjjvujl0v9d",
+      "titleRu": "Предиктивная AI-система оценки финансовой устойчивости и рисков подрядчиков в реальном времени",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj000wvinjjsjdgj9kz",
+      "titleRu": "ИИ-контроль соблюдения финансовых ковенантов по кредитам на стройпроекты",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj000wxinjjebqh8m3e",
+      "titleRu": "AI-система для интеллектуального мониторинга и контроля целевого использования средств дольщиков по эскроу-счетам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj000wzinjja2lbnc5s",
+      "titleRu": "AI-система предиктивного мониторинга и оптимизации маржинальности строительных проектов по этапам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj000x1injjbk6d5nm1",
+      "titleRu": "Предиктивный ИИ-контроль финансовых лимитов субподрядчиков на объектах ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj000x3injj8zwoho35",
+      "titleRu": "ИИ-система принятия решений о рефинансировании строительных кредитов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj000x5injjbv883vi5",
+      "titleRu": "ИИ-платформа для интеллектуального подбора и оптимизации схем финансирования девелоперских проектов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj000x7injjoqweljsv",
+      "titleRu": "ИИ-платформа для предиктивной оценки инвестиционной привлекательности земельных участков",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj000x9injj33twwekz",
+      "titleRu": "ИИ-оптимизатор структуры сделок с инвесторами ЖК",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

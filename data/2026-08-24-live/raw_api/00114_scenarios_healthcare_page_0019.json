@@ -1,0 +1,273 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkld03nzinjjt62ude4t",
+      "titleRu": "ИИ-платформа персонализации закупок и управления поставками под специфику медицинских отделений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkld03o1injjdxe5npn0",
+      "titleRu": "AI-платформа персонализации каталогов медицинской продукции по специализациям врачей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkld03o3injjinf3ldnt",
+      "titleRu": "AI-модель персонализированных договоров с поставщиками медикаментов под потребности клиники",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkld03o5injjhdqjrgbo",
+      "titleRu": "ИИ-система персонализированной логистики и доставки медицинских товаров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkld03o7injj6wpm2e0y",
+      "titleRu": "ИИ-система персонализированного контроля качества медицинской продукции по категориям поставок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkld03o9injjzsrtb9x5",
+      "titleRu": "ИИ-система оптимизации затрат на закупку медикаментов и медицинского оборудования",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkld03obinjj6ox490km",
+      "titleRu": "ИИ-платформа оптимизации логистических маршрутов поставки медицинской продукции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkld03odinjju5mujntl",
+      "titleRu": "AI-модель оптимизации уровня складских запасов медицинских препаратов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkld03ofinjjmfiv2nk4",
+      "titleRu": "ИИ-система управления портфелем поставщиков медицинской продукции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkld03ohinjjzqekpobz",
+      "titleRu": "ИИ-решение оптимизации процессов приемки и контроля качества медицинских товаров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkld03ojinjjx6qjbplp",
+      "titleRu": "ИИ-система мониторинга и прогнозного контроля выполнения планов закупок медицинской продукции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkld03olinjjwtd3al52",
+      "titleRu": "ИИ-платформа контроля качества поставляемых медикаментов и медицинских изделий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkld03oninjj84j10hc7",
+      "titleRu": "AI-модель прогнозирования и мониторинга соблюдения сроков поставки критически важных медпрепаратов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkld03opinjjsecjv35r",
+      "titleRu": "AI-система мониторинга и оценки эффективности поставщиков медицинской продукции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkld03orinjjow553qf5",
+      "titleRu": "ИИ-мониторинг соответствия закупаемых медицинских товаров регуляторным требованиям",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkld03otinjj647y4p4z",
+      "titleRu": "ИИ-система поддержки клинических решений при выборе схем лекарственного обеспечения и закупок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkle03ovinjji1mn730h",
+      "titleRu": "AI-платформа поддержки решений для диагностики редких заболеваний и управления закупками специализированных препаратов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkle03oxinjjge1e7qku",
+      "titleRu": "ИИ-модель поддержки терапевтических решений для онкологических пациентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkle03ozinjjpw7fiwqq",
+      "titleRu": "AI‑система поддержки решений для назначения персонализированной терапии в закупках и управлении цепочками поставок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkle03p1injjn76ds778",
+      "titleRu": "ИИ-система поддержки выбора оптимальных реабилитационных схем и маршрутов снабжения пациентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

@@ -1,0 +1,276 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwki90013injjq9skwdzv",
+      "titleRu": "ИИ-модель прогнозирования глобальных цен на сельхозпродукцию на 5 лет",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwki90015injjcvlf9gzw",
+      "titleRu": "ИИ-анализ климатических трендов для долгосрочного планирования сельскохозяйственных культур",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwki90017injjnxstn2t8",
+      "titleRu": "ИИ-прогнозирование потребительского спроса на органические продукты",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwki90019injjj32egdxh",
+      "titleRu": "ИИ-система анализа геополитических рисков для экспорта зерна",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwki9001binjj4yfipdok",
+      "titleRu": "ИИ-модель прогнозирования развития агротехнологий и их влияния на отрасль",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwki9001dinjjmensugrj",
+      "titleRu": "ИИ‑система RPA для автоматизированной подготовки стратегических отчетов для совета директоров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwki9001finjjjsy7b0kx",
+      "titleRu": "ИИ-бот для автоматизированного мониторинга и анализа конкурентов в агросекторе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwki9001hinjj7o4psyj8",
+      "titleRu": "Интеллектуальная RPA-автоматизация бенчмаркинга агропроизводителей на основе ИИ‑аналитики",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwki9001jinjjxu9hkgis",
+      "titleRu": "ИИ‑система RPA для анализа эффективности стратегических инициатив в агробизнесе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwki9001linjj16xc1tyu",
+      "titleRu": "ИИ‑автоматизация стратегического планирования посевных площадей на основе прогнозной аналитики",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwki9001ninjjy26o8tb2",
+      "titleRu": "ИИ-платформа персонализированных стратегических рекомендаций для фермеров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwki9001pinjjkg7uv2ct",
+      "titleRu": "ИИ-система адаптивного стратегического консультирования по севооборотам для персонализированного клиентского сервиса",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkia001rinjjt0ntu6in",
+      "titleRu": "ИИ-помощник для персонализированного планирования развития фермерского хозяйства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkia001tinjjdj5alaz9",
+      "titleRu": "AI-платформа персонализированного подбора оптимальной бизнес-модели фермы",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkia001vinjjyac2rx65",
+      "titleRu": "ИИ-платформа персонализированных стратегий устойчивого развития для агроклиентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkia001xinjjs6fu3ky6",
+      "titleRu": "ИИ-оптимизация распределения инвестиций между отраслями растениеводства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkia001zinjjrxbzlylh",
+      "titleRu": "ИИ-система оптимального размещения сельскохозяйственных производственных мощностей в регионе",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkia0021injjoonhcedp",
+      "titleRu": "ИИ-модель оптимизации портфеля сельхозкультур с учетом рисков",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkia0023injj9zjqlbg2",
+      "titleRu": "ИИ-алгоритм оптимального использования и планирования земельных ресурсов агрохолдинга",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkia0025injjtod6r5p3",
+      "titleRu": "ИИ-система балансировки ресурсов между органическим и традиционным производством",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

@@ -1,0 +1,279 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkjs01uninjjj1yllt0m",
+      "titleRu": "ИИ-генератор коммерческих предложений и презентаций для корпоративных образовательных программ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjs01upinjjqrpwyevw",
+      "titleRu": "ИИ-система автоматической генерации продающих материалов для образовательных услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjs01urinjjisulf9eg",
+      "titleRu": "ИИ-генератор персонализированных писем и предложений для привлечения потенциальных студентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjt01utinjj7hz29y8b",
+      "titleRu": "ИИ-помощник для генерации кейсов, отзывов и success stories в поддержке продаж образовательных продуктов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjt01uvinjjnmxhvxnt",
+      "titleRu": "ИИ-система автоматической генерации и обработки договоров в образовательных продажах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjt01uxinjjc197ynzq",
+      "titleRu": "ИИ-система оценки кредитных рисков при предоставлении рассрочки за обучение студентам",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjt01uzinjjvi5bk1cp",
+      "titleRu": "ИИ-модуль прогнозирования рисков невыполнения плана набора и их влияния на финансовые показатели",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjt01v1injjpcnm6bcb",
+      "titleRu": "AI-система оценки репутационных рисков при выходе в новые сегменты образовательного рынка",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjt01v3injjsynncb0j",
+      "titleRu": "ИИ-анализатор рисков конкуренции и их влияния на позиции университета на рынке",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjt01v5injj2u7fkyxq",
+      "titleRu": "ИИ-платформа управления операционными рисками в процессах продаж образовательных услуг",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjt01v7injjxcrrf48s",
+      "titleRu": "ИИ-платформа развития продажных компетенций сотрудников приемной комиссии и деканатов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjt01v9injjlx4v5cl0",
+      "titleRu": "ИИ-модуль адаптивных тренингов по техникам продаж образовательных услуг для административного персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjt01vbinjjxwmt0809",
+      "titleRu": "ИИ‑платформа развития навыков работы с корпоративными клиентами для преподавателей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjt01vdinjjqhkvy5f3",
+      "titleRu": "ИИ-платформа обучения сотрудников эффективной коммуникации с абитуриентами и их родителями",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjt01vfinjj9u18q9lw",
+      "titleRu": "ИИ-коуч на базе LLM для развития навыков презентации образовательных программ у руководителей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "ASR",
+        "TTS"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjt01vhinjjbwieoywg",
+      "titleRu": "ИИ-платформа для разработки и тестирования инновационных цифровых форматов продаж образовательных программ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjt01vjinjj9gdunkg4",
+      "titleRu": "ИИ-система создания новых образовательных продуктов на основе анализа данных рынка труда",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjt01vlinjjxfx14mnd",
+      "titleRu": "ИИ-модуль проектирования и оптимизации подписочных моделей для непрерывного образования и профессионального развития",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjt01vninjjiqhokixl",
+      "titleRu": "ИИ-лаборатория по созданию гибридных геймифицированных образовательных продуктов на базе LLM и AI-агентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjt01vpinjje38o21lz",
+      "titleRu": "ИИ-платформа b2b-развития корпоративного обучения и консалтинга на основе LLM",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

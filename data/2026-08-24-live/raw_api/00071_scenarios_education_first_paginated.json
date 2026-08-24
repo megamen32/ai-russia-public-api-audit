@@ -1,0 +1,274 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkjk01kninjjdk0ff5bw",
+      "titleRu": "ИИ-система прогнозирования образовательных трендов для стратегического планирования университета",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjk01kpinjjlaln8pz0",
+      "titleRu": "AI-платформа прогнозирования демографических изменений студенческого контингента для долгосрочного планирования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjk01krinjjkr5zcxxu",
+      "titleRu": "ИИ‑модель предиктивной аналитики и прогнозирования развития регионального образовательного рынка",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjk01ktinjj99zop0ev",
+      "titleRu": "ИИ-система прогнозирования спроса на новые образовательные программы и специальности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjk01kvinjjiqtxhwui",
+      "titleRu": "ИИ-аналитика конкурентной среды частных образовательных учреждений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjk01kxinjjq2axmhu5",
+      "titleRu": "ИИ‑RPA система автоматизации подготовки стратегических отчетов о развитии вуза",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjk01kzinjjji4okaar",
+      "titleRu": "ИИ‑платформа RPA для мониторинга и прогнозирования выполнения стратегических KPI университета",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjk01l1injj9xeay7kf",
+      "titleRu": "ИИ-бот для автоматизированной генерации и обновления планов развития образовательных программ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjk01l3injjoln6oj41",
+      "titleRu": "ИИ‑ориентированное RPA-решение для автоматизации процедур аккредитации новых образовательных программ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjk01l5injjgkjopd8i",
+      "titleRu": "ИИ-система автоматизации стратегического планирования и мониторинга научной деятельности вуза",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjk01l7injj08qy3dd0",
+      "titleRu": "ИИ-платформа адаптивной персонализации учебных планов на основе анализа академических данных студентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjk01l9injjhsjlk10s",
+      "titleRu": "ИИ-ассистент для персонализации образовательных траекторий под карьерные цели выпускников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjk01lbinjjvjevhol5",
+      "titleRu": "ИИ‑платформа для персонализированного формирования расписания занятий с учетом предпочтений и поведения студентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjk01ldinjjqzl69cat",
+      "titleRu": "ИИ-система адаптивного тестирования для персонализированной оценки компетенций учащихся",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjk01lfinjjf4s33ur5",
+      "titleRu": "ИИ-куратор на базе LLM для персонального подбора специализации и элективных курсов студентам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjk01lhinjjf7tofap9",
+      "titleRu": "AI-система оптимального распределения аудиторного фонда университета с учетом расписания, спроса и вместимости",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjk01ljinjjbjha6d0n",
+      "titleRu": "ИИ-планировщик для эффективного управления библиотечными ресурсами и цифровыми образовательными материалами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjl01llinjj5r0ps9r4",
+      "titleRu": "ИИ‑система оптимизации нагрузки преподавателей с балансировкой лекций, семинаров и научной работы",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjl01lninjjxfj3ii3n",
+      "titleRu": "AI-система управления IT-инфраструктурой вуза для оптимизации использования вычислительных ресурсов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjl01lpinjjalfd3c0j",
+      "titleRu": "ИИ-платформа для стратегического планирования и оптимизации материально-технической базы образовательного учреждения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

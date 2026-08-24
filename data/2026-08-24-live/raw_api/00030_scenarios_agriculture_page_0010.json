@@ -1,0 +1,280 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkih00b3injj6o983khm",
+      "titleRu": "ИИ-генератор персонализированных коммерческих предложений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkih00b5injjoax41ldb",
+      "titleRu": "ИИ-система автоматической генерации клиентских презентаций для агрокомпаний",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkih00b7injjmlq7pd4j",
+      "titleRu": "Генерация ИИ-основанных технических спецификаций и описаний сельхозтехники",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkih00b9injjlzs39yci",
+      "titleRu": "ИИ‑ассистент для автоматизированной подготовки договоров поставки агропродукции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkih00bbinjjtn2wjb95",
+      "titleRu": "ИИ-генерация отчетов о результатах продаж для руководства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkih00bdinjj1n0kacuu",
+      "titleRu": "ИИ-система оценки кредитоспособности покупателей сельхозпродукции",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkih00bfinjjzqcaofwl",
+      "titleRu": "ИИ-модель скоринга и анализа риска неплатежей клиентов в агросекторе",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkih00bhinjj5eegi2dr",
+      "titleRu": "ИИ-платформа управления рисками валютных колебаний при экспорте",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkii00bjinjjwyysq8xp",
+      "titleRu": "AI‑система прогноза и оценки рисков срыва поставок ключевым агроклиентам",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkii00blinjj8fku0rep",
+      "titleRu": "ИИ-анализ политических рисков при работе с зарубежными рынками",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkii00bninjjgsd50hmd",
+      "titleRu": "ИИ‑платформа адаптивного обучения продавцов сельхозпродукции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkii00bpinjjka8ky5js",
+      "titleRu": "ИИ-платформа развития навыков переговоров для менеджеров АПК",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkii00brinjjutgth8yz",
+      "titleRu": "ИИ-модель для оценки и развития эффективности торговых представителей в агробизнесе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkii00btinjj479ht5si",
+      "titleRu": "ИИ-система управления и поиска знаний о продуктах агрокомпании",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkii00bvinjjddh6lbt6",
+      "titleRu": "ИИ-платформа онбординга и адаптации новых сотрудников отдела продаж в агробизнесе",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkii00bxinjjqwr0ai6y",
+      "titleRu": "ИИ-платформа цифровой экосистемы продаж для агросектора",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkii00bzinjjzw1sob9w",
+      "titleRu": "ИИ‑платформа для создания виртуальных выставок и демонстраций сельхозтехники",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkii00c1injjpwjat5x7",
+      "titleRu": "ИИ-платформа проектирования и оптимизации подписочных моделей для агросервисов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkii00c3injjtulx0z33",
+      "titleRu": "AI-платформа динамических аукционов и ценообразования для сельхозпродукции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkii00c5injjudoezgdn",
+      "titleRu": "ИИ-платформа для мгновенного матчинга и мобильных торгов урожаем",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

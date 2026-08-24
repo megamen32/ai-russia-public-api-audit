@@ -1,0 +1,275 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkke02jpinjj6thlrigp",
+      "titleRu": "ИИ-создание креативов для рекламных кампаний",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkke02jrinjjzgf044oc",
+      "titleRu": "AI-генерация и оптимизация маркетингового контента для социальных сетей и блогов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkke02jtinjj7tb2wqab",
+      "titleRu": "Генерация продуктовых описаний и целевых страниц на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkke02jvinjjnu93vufj",
+      "titleRu": "ИИ-генерация email-рассылок и push-уведомлений",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkke02jxinjjkzqzu2tn",
+      "titleRu": "Предиктивная аналитика для выявления мошенничества в маркетинговых кампаниях",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkke02jzinjjtgsftpnl",
+      "titleRu": "ИИ-анализ репутационных рисков маркетинговых кампаний",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkke02k1injjsgrzzyct",
+      "titleRu": "ИИ-анализ рекламных материалов на соответствие финансовым регуляциям",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkke02k3injj8jws2ume",
+      "titleRu": "Предиктивное выявление и предотвращение утечек клиентских данных в маркетинге с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkf02k5injj9zwzde8x",
+      "titleRu": "AI-мониторинг и прогнозирование репутационных рисков бренда",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkf02k7injjvarij55t",
+      "titleRu": "ИИ-оценка эффективности маркетинговых специалистов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkf02k9injjqmzcombg",
+      "titleRu": "Персонализация обучения digital-маркетингу с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkf02kbinjjjf8rr9fx",
+      "titleRu": "AI-анализ и прогнозирование компетенций маркетинговых команд",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkf02kdinjjhb4571pf",
+      "titleRu": "ИИ-подбор креативных и аналитических талантов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkf02kfinjjddoiod6l",
+      "titleRu": "ИИ-анализ и оптимизация структуры маркетинговых подразделений",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkf02khinjjcd0eikbc",
+      "titleRu": "Предиктивный анализ рыночных данных для разработки новых финансовых продуктов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkf02kjinjjwn39g95q",
+      "titleRu": "ИИ-анализ трендов для инновационных маркетинговых решений",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkf02klinjjrhetrvr2",
+      "titleRu": "Создание новых ИИ-каналов для персонализированного взаимодействия с клиентами",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkf02kninjjg45on0j8",
+      "titleRu": "Разработка персонализированных программ лояльности на основе ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkf02kpinjjvsz9mlyw",
+      "titleRu": "Использование ИИ в маркетинговой аналитике для разработки инновационных финансовых продуктов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkf02krinjjrr8k2oc8",
+      "titleRu": "ИИ-прогнозирование продаж и конверсий по продуктам и каналам",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 499
+}

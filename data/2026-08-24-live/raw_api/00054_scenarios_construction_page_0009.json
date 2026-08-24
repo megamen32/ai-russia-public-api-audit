@@ -1,0 +1,272 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkj4011rinjjz6wevn43",
+      "titleRu": "Интеллектуальная автоматизация расчета персонализированных скидок для дольщиков",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj4011tinjjn7hpbexb",
+      "titleRu": "ИИ-персонализация предложений квартир на основе истории просмотров и анализа предпочтений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj4011vinjjuqqjkzb0",
+      "titleRu": "ИИ-система индивидуального сопровождения покупателей недвижимости",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj4011xinjjg1ug2cji",
+      "titleRu": "Интеллектуальная платформа для персонализированного финансового планирования покупки жилья в рассрочку",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj4011zinjjqnghsc07",
+      "titleRu": "Предиктивная система ценообразования на базе ИИ для персонализации предложений корпоративным клиентам девелопера",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj40121injjkf4xza4n",
+      "titleRu": "ИИ-ассистент для персонализированного подбора ипотечных программ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj40123injjp0ha1w65",
+      "titleRu": "ИИ-оптимизация распределения менеджеров по продажам между ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj40125injj0rsabeeu",
+      "titleRu": "Предиктивная аналитика на базе ИИ для оптимизации воронки продаж недвижимости",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj40127injj1vymz4bi",
+      "titleRu": "ИИ-планировщик графика работы отделов продаж новостроек",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj40129injjus3puoq8",
+      "titleRu": "Динамическое ценообразование на базе ИИ для максимизации выручки от ЖК",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj4012binjjq8mz3njq",
+      "titleRu": "Предиктивная аналитика для оптимизации управления запасами квартир",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj4012dinjj1grzmnsi",
+      "titleRu": "AI-система для предиктивного мониторинга и анализа KPI продаж менеджеров ЖК в реальном времени",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj4012finjjjqzm9vsm",
+      "titleRu": "ИИ-система для автоматизированного контроля качества взаимодействия с покупателями недвижимости",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "ASR"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj4012hinjjg6xfmbgg",
+      "titleRu": "ИИ-анализ и повышение эффективности соблюдения скриптов продаж новостроек",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "ASR"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj4012jinjjwpd286u0",
+      "titleRu": "Платформа ИИ для интеллектуального мониторинга и анализа активности конкурентов на рынке недвижимости",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj4012linjjdelcdktx",
+      "titleRu": "AI-система предиктивного мониторинга и анализа удовлетворённости дольщиков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj4012ninjj7efvvusa",
+      "titleRu": "Предиктивная AI-система для оптимального старта продаж нового жилого комплекса",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj4012pinjjp8utdkb2",
+      "titleRu": "ИИ-советник по структурированию сделок с корпоративными клиентами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj5012rinjjrh5f86vq",
+      "titleRu": "ИИ-система для оптимизации выбора ипотечных банков-партнёров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj5012tinjjkffu9hcw",
+      "titleRu": "ИИ-система для прогнозного формирования и оптимизации стратегий продаж ЖК",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

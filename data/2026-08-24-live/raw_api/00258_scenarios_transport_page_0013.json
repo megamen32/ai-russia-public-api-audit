@@ -1,0 +1,268 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkoj07c7injj93711p02",
+      "titleRu": "Использование ИИ для персонализированного развития компетенций диспетчеров по управлению перевозками",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoj07c9injjhngl20dg",
+      "titleRu": "Оптимизация ротации персонала между подразделениями с использованием ИИ для развития компетенций",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoj07cbinjjy6iltyb9",
+      "titleRu": "ИИ-платформа для персонализированного обучения и предиктивного анализа рисков в области безопасности на транспорте",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoj07cdinjjp24q6xax",
+      "titleRu": "Разработка и внедрение ИИ для автономного управления складскими операциями",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoj07cfinjjd91f60kx",
+      "titleRu": "Создание ИИ-системы для автономной доставки грузов дронами в отдаленные районы",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoj07chinjjt0uy6lpk",
+      "titleRu": "Внедрение роботизированных комплексов на базе компьютерного зрения для интеллектуальной сортировки посылок",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoj07cjinjjmetmrgm4",
+      "titleRu": "Разработка автономных электрических транспортных средств для городской логистики на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoj07clinjjl6nqu2ne",
+      "titleRu": "Предиктивное обслуживание транспортной техники на базе ИИ-аналитики",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoj07cninjj74hw4bmx",
+      "titleRu": "AI-прогнозирование потребности в водительских кадрах по регионам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoj07cpinjjgzfj3zor",
+      "titleRu": "Предиктивная аналитика и прогнозирование текучести персонала в транспортных подразделениях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoj07crinjj27x8ld8v",
+      "titleRu": "Предиктивная аналитика затрат на обучение и сертификацию водителей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoj07ctinjjxpibona2",
+      "titleRu": "Предиктивная аналитика влияния условий труда на производительность логистов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkok07cvinjjyqve5kmy",
+      "titleRu": "Предиктивная аналитика демографических изменений для транспортной отрасли",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkok07cxinjjmxi8l4au",
+      "titleRu": "Интеллектуальная автоматизация процессов рекрутинга водителей и механиков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkok07czinjjyjpt2jeo",
+      "titleRu": "Роботизация расчета заработной платы с учетом километража",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkok07d1injjfpkwy84u",
+      "titleRu": "Оптимизация графиков работы диспетчеров с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkok07d3injjdyxh8e7r",
+      "titleRu": "Интеллектуальная автоматизация оформления медицинских осмотров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "NLP",
+        "RPA",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkok07d5injjhtmpvmgo",
+      "titleRu": "Интеллектуальная автоматизация учета рабочего времени на основе мобильных данных и ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkok07d7injj51plg7tj",
+      "titleRu": "ИИ-платформа для персонализации карьерных траекторий водителей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkok07d9injjoasgcyn9",
+      "titleRu": "ИИ-адаптивные персонализированные траектории обучения для персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 493
+}

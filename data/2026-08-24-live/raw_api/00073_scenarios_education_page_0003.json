@@ -1,0 +1,278 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkjm01mvinjjx7yp4ejb",
+      "titleRu": "ИИ-система стратегического планирования и персонализации карьерного развития профессорско-преподавательского состава",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjm01mxinjj3ub3636q",
+      "titleRu": "ИИ-модуль формирования стратегии развития научных школ и исследовательских групп в университете",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjm01mzinjjmt2mwbuh",
+      "titleRu": "ИИ‑платформа стратегического управления организационной культурой и ценностями образовательного учреждения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjm01n1injjb8ejwjux",
+      "titleRu": "ИИ-система планирования и прогнозирования стратегических компетенций административно-управленческого персонала вуза",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjm01n3injjitt1gui1",
+      "titleRu": "ИИ-помощник для стратегического развития междисциплинарного взаимодействия между кафедрами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjm01n5injj6k4cps5h",
+      "titleRu": "ИИ-лаборатория для стратегического планирования инновационных образовательных продуктов и сервисов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjm01n7injjdagpnwmo",
+      "titleRu": "ИИ-платформа стратегического развития цифровых образовательных экосистем нового поколения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjm01n9injj9176t3da",
+      "titleRu": "ИИ-модуль планирования инновационных форм взаимодействия с индустриальными партнерами в образовании",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjm01nbinjjkudij5sa",
+      "titleRu": "ИИ-генератор стратегий создания новых форматов научно-образовательных центров и технопарков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjm01ndinjjdvwg754r",
+      "titleRu": "AI-платформа стратегического планирования внедрения VR/AR технологий в образовательный процесс",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjm01nfinjj95ls4f74",
+      "titleRu": "ИИ-система прогнозирования поступлений от платного обучения на основе демографических трендов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjm01nhinjjxsmzc1ye",
+      "titleRu": "AI-модуль анализа финансовой устойчивости и прогнозирования рентабельности образовательных программ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjm01njinjjym4mwmer",
+      "titleRu": "ИИ-система прогнозирования стипендиального фонда и социальных выплат студентам на основе успеваемости",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjm01nlinjj09qckf36",
+      "titleRu": "ИИ-аналитика доходов от научно-исследовательской деятельности и грантовых программ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjm01nninjjyz6zhq5f",
+      "titleRu": "ИИ-платформа прогнозирования затрат на содержание учебной инфраструктуры и лабораторного оборудования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjm01npinjj8po1jcb4",
+      "titleRu": "Интеллектуальная роботизация начисления стипендий с ИИ‑проверкой академических достижений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjm01nrinjjdznzfnr9",
+      "titleRu": "ИИ-автоматизация расчета заработной платы преподавателей с прогнозом нагрузки и проверкой аномалий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjm01ntinjjc1ztfnck",
+      "titleRu": "AI-система автоматизации бюджетного планирования и распределения средств между факультетами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjn01nvinjjxtpvlodz",
+      "titleRu": "ИИ‑робот для автоматического формирования и проверки финансовой отчетности по образовательной деятельности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjn01nxinjjnl6eef77",
+      "titleRu": "ИИ-автоматизация контроля целевого использования грантовых средств в научных проектах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

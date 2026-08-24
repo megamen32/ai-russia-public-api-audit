@@ -1,0 +1,279 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkjv01xzinjjwnc28rff",
+      "titleRu": "ИИ-платформа развития операционных компетенций технического персонала и лаборантов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjv01y1injjvy51f3e8",
+      "titleRu": "ИИ-модуль для обучения преподавателей эффективному использованию образовательного оборудования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjv01y3injjev11vuiw",
+      "titleRu": "ИИ-платформа развития управленческих навыков административного персонала в образовательных учреждениях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjv01y5injjui5ohkyz",
+      "titleRu": "ИИ-платформа адаптивных тренингов по охране труда и технике безопасности для сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "ASR"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjv01y7injjh5oemt8s",
+      "titleRu": "ИИ-коуч для развития навыков оптимизации рабочих процессов у руководителей подразделений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjv01y9injj4au5ogpk",
+      "titleRu": "ИИ-разработка и оптимизация инновационных моделей организации образовательного процесса",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjw01ybinjjn7q61w40",
+      "titleRu": "ИИ-платформа проектирования и адаптивной генерации VR/AR лабораторных работ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjw01ydinjjai1gtxqm",
+      "titleRu": "ИИ-модуль для разработки умных систем управления образовательной инфраструктурой",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjw01yfinjjr0vj50nk",
+      "titleRu": "ИИ-лаборатория создания автономных систем поддержки учебного процесса",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjw01yhinjjz0di4ux4",
+      "titleRu": "ИИ‑платформа интеграции производственных процессов с образовательными программами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjw01yjinjjc7pnpbak",
+      "titleRu": "ИИ-аналитика эффективности профессорско-преподавательского состава с прогнозом карьерного роста",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjw01ylinjjuppl0d7z",
+      "titleRu": "ИИ-система прогнозирования потребности в кадрах для новых образовательных программ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjw01yninjjmyqud07q",
+      "titleRu": "ИИ-модуль аналитики и прогнозирования удовлетворенности сотрудников в образовательном учреждении",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjw01ypinjjum25ofub",
+      "titleRu": "ИИ-прогнозирование текучести кадров среди преподавателей и административного персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjw01yrinjjv8e6fiui",
+      "titleRu": "AI-платформа аналитики и прогнозирования компетенций сотрудников для планирования развития",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjw01ytinjj9447mtsk",
+      "titleRu": "ИИ-роботизация процесса подбора и отбора кандидатов на должности преподавателей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjw01yvinjjljos8xre",
+      "titleRu": "ИИ-автоматизация оценки эффективности работы профессорско-преподавательского состава",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjw01yxinjjkijhzmcq",
+      "titleRu": "ИИ‑система автоматизации планирования и учета профессионального развития сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjw01yzinjjfmalqdce",
+      "titleRu": "ИИ-робот для интеллектуального формирования кадровой отчетности и автоматизации документооборота",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjw01z1injjvbie354x",
+      "titleRu": "ИИ-автоматизация процессов адаптации и онбординга новых преподавателей и сотрудников в вузе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

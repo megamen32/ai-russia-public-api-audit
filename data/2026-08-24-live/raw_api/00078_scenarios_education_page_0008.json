@@ -1,0 +1,278 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkjq01sfinjjylo25nux",
+      "titleRu": "ИИ-платформа для развития маркетинговых компетенций сотрудников приемной комиссии и деканатов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjr01shinjjccelmspi",
+      "titleRu": "ИИ-модуль для обучения преподавателей личному брендингу и академическому маркетингу на базе LLM",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjr01sjinjje78vpuy2",
+      "titleRu": "ИИ-платформа развития навыков цифрового маркетинга для административного персонала вуза",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjr01slinjjjsnidjal",
+      "titleRu": "ИИ-платформа адаптивных тренингов по клиентоориентированности для сотрудников, взаимодействующих со студентами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjr01sninjj2pxuiog7",
+      "titleRu": "ИИ-коуч на базе генеративных моделей для развития презентационных навыков у руководителей образовательных программ",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "ASR",
+        "TTS"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjr01spinjjfo6jwy59",
+      "titleRu": "ИИ-персонализация VR/AR-взаимодействия с абитуриентами для привлечения и конверсии",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjr01srinjjia23tm5w",
+      "titleRu": "AI-платформа для генерации и тестирования новых цифровых образовательных продуктов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjr01stinjjc56zwcaq",
+      "titleRu": "ИИ-модуль для разработки геймифицированных маркетинговых кампаний по привлечению студентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjr01svinjjlkbzxdsp",
+      "titleRu": "ИИ‑лаборатория по созданию и продвижению персональных брендов преподавателей и исследователей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjr01sxinjj88n482fv",
+      "titleRu": "ИИ-платформа эмоционального маркетинга для образовательных продуктов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjr01szinjjbm7m139x",
+      "titleRu": "ИИ-аналитика эффективности каналов привлечения студентов с прогнозом конверсии абитуриентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjr01t1injjzd4fbmkq",
+      "titleRu": "AI-система прогнозирования объемов набора студентов на платные образовательные программы",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjr01t3injjpe5mpajs",
+      "titleRu": "AI‑модуль аналитики жизненного цикла студента и прогнозирования успеваемости и трудоустройства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjr01t5injjixvkmtaa",
+      "titleRu": "ИИ-модели для прогнозирования спроса и развития дополнительных образовательных услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjr01t7injjd8vzk3my",
+      "titleRu": "AI-платформа аналитики и прогнозирования эффективности работы с корпоративными заказчиками образовательных программ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjr01t9injjn7xji9y9",
+      "titleRu": "ИИ‑роботизация обработки заявок абитуриентов и автоматического ведения CRM",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjr01tbinjjdbw7jok6",
+      "titleRu": "ИИ-агент для автоматизации переговоров и обработки запросов корпоративных клиентов по групповому обучению сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjr01tdinjj1a26dp1x",
+      "titleRu": "ИИ-система автоматизации составления коммерческих предложений для образовательных услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjr01tfinjjlgpzh37q",
+      "titleRu": "ИИ‑робот для автоматического сбора и интеллектуальной обработки заявок на курсы повышения квалификации",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjr01thinjj6fvz1o1m",
+      "titleRu": "ИИ-автоматизация процесса заключения договоров на обучение с интеграцией в учетные системы",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

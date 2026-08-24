@@ -1,0 +1,272 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkkw033zinjj86d2yvz8",
+      "titleRu": "ИИ-система аналитики эпидемиологических трендов для стратегического планирования медучреждения",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkw0341injjuo0h7l0s",
+      "titleRu": "AI-платформа прогнозирования демографических изменений в регионе для планирования медицинских услуг",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkw0343injjrl1dp4ge",
+      "titleRu": "ИИ-модель предиктивной аналитики риска развития хронических заболеваний для долгосрочного планирования ресурсов здравоохранения",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkw0345injjze1jha2n",
+      "titleRu": "ИИ-система прогнозирования потребности в медицинских специалистах на 5–10 лет",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkw0347injj2gib9o8b",
+      "titleRu": "ИИ-аналитика и прогнозирование конкурентного позиционирования частных клиник на региональном рынке",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkw0349injjkxpi8qml",
+      "titleRu": "Интеллектуальная RPA/IPA-система подготовки стратегических KPI-отчетов медучреждения на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkw034binjj5cb73mp7",
+      "titleRu": "ИИ‑платформа автоматизированного мониторинга выполнения стратегических KPI больницы",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkw034dinjjydjoi5he",
+      "titleRu": "ИИ-бот для автоматической генерации планов развития медицинских отделений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkw034finjjs3urmoo6",
+      "titleRu": "Интеллектуальное RPA-решение для автоматизации и анализа процедур лицензирования новых медицинских направлений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkw034hinjjbk76ukw6",
+      "titleRu": "ИИ‑система RPA/IPA для автоматизации стратегического планирования закупок медицинского оборудования",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkw034jinjjtnmzqscx",
+      "titleRu": "ИИ-система персонализации стратегии развития клиники под потребности местного населения на основе прогнозной аналитики",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkw034linjjjxgi3r1e",
+      "titleRu": "AI‑платформа адаптации стратегических инициатив под персонализированные профили пациентских сегментов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkw034ninjjce7kexai",
+      "titleRu": "ИИ-модель персонализированного стратегического позиционирования медцентра по специализациям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkw034pinjj9pxtbgz2",
+      "titleRu": "ИИ‑система персонализации долгосрочных программ медицинской помощи по регионам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkw034rinjjr2j27tlp",
+      "titleRu": "ИИ-платформа персонализации стратегии развития телемедицины для целевых групп пациентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkw034tinjjv7qu3jji",
+      "titleRu": "ИИ-система оптимизации стратегического распределения медицинского персонала по отделениям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkw034vinjjsg0qc7nj",
+      "titleRu": "AI-платформа долгосрочного планирования и оптимизации загрузки операционных блоков",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkw034xinjj9vb0us8g",
+      "titleRu": "AI-модель стратегической оптимизации коечного фонда больницы по медицинским профилям",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkx034zinjjimhy9gkh",
+      "titleRu": "ИИ-система управления стратегическими инвестициями в медицинское оборудование",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkkx0351injjpk1vlatg",
+      "titleRu": "ИИ-система оптимизации территориального размещения филиалов и мощностей медицинской сети",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

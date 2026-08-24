@@ -1,0 +1,273 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkie007rinjjld2dsip1",
+      "titleRu": "ИИ-система мониторинга упоминаний бренда агрокомпании в соцсетях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkie007tinjjpgi5hsor",
+      "titleRu": "AI-платформа для мониторинга и динамического анализа конкурентных цен на сельхозпродукцию",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkif007vinjjo2ut0nm0",
+      "titleRu": "ИИ-мониторинг качества обслуживания клиентов в аграрных точках продаж",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkif007xinjjmh3tkrye",
+      "titleRu": "ИИ-система контроля соблюдения бренд-гайдлайнов в маркетинговых материалах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkif007zinjjwjvq6yra",
+      "titleRu": "ИИ-отслеживание эффективности инфлюенсер-маркетинга в агросфере",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkif0081injjhiui3ka2",
+      "titleRu": "ИИ-система поддержки решений по выводу новых продуктов на рынок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkif0083injjnlp1wj7r",
+      "titleRu": "ИИ-DSS для выбора оптимальных каналов дистрибуции сельхозпродукции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkif0085injjlgggaw7g",
+      "titleRu": "ИИ-платформа поддержки решений по выбору и оценке спонсорских мероприятий в агросфере",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkif0087injj6z049nfb",
+      "titleRu": "ИИ-система поддержки решений по ребрендингу агрокомпаний на основе анализа рынка и восприятия бренда",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkif0089injjcrnrxs1o",
+      "titleRu": "ИИ-помощник для выбора фермеров-амбассадоров бренда на основе данных",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkif008binjjp9s6g86v",
+      "titleRu": "ИИ-генератор рекламных текстов для продвижения сельхозпродукции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkif008dinjj4hz4vn1n",
+      "titleRu": "ИИ-генерация видеороликов о производственных процессах в сельском хозяйстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkif008finjjv9ojdg9i",
+      "titleRu": "ИИ-система генерации контента для блогов агрокомпаний",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkif008hinjjgds9bywh",
+      "titleRu": "ИИ-генерация и автоматизированная подготовка пресс-релизов о новых продуктах АПК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkif008jinjjdp5aq8ar",
+      "titleRu": "ИИ-генерация персонализированных каталогов для B2B клиентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkif008linjjefv7uitq",
+      "titleRu": "ИИ-система управления репутационными рисками агробрендов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkif008ninjj3v314srj",
+      "titleRu": "AI-модель анализа рисков негативных отзывов о качестве агропродукции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkif008pinjjivk7weoh",
+      "titleRu": "ИИ-платформа прогнозирования и управления рисками срыва поставок в маркетинговых кампаниях агробизнеса",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkif008rinjje7cqrb7s",
+      "titleRu": "ИИ-система оценки рисков изменений потребительских предпочтений в агропродукции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkif008tinjjaddwsyj7",
+      "titleRu": "ИИ-моделирование рисков конкурентного давления на бренд агропредприятия",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

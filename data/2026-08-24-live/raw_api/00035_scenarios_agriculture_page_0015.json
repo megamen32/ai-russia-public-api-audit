@@ -1,0 +1,277 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkim00gninjjuwt692wl",
+      "titleRu": "ИИ-генератор должностных инструкций для новых позиций в АПК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkim00gpinjjwprjlf1r",
+      "titleRu": "ИИ-генерация и персонализация программ обучения для сельскохозяйственных специалистов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkim00grinjjxyyef12m",
+      "titleRu": "ИИ-система генерации отчетов по кадровой аналитике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkim00gtinjj20arw9zb",
+      "titleRu": "ИИ‑система для автоматизированной подготовки и обработки HR‑документов по трудовым отношениям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkim00gvinjjwr9d9ou4",
+      "titleRu": "ИИ-генерация персонализированных планов развития сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkim00gxinjjg4joqwb5",
+      "titleRu": "ИИ-система оценки рисков травматизма на производстве",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkim00gzinjjtvidnezg",
+      "titleRu": "ИИ-модель анализа рисков нарушения трудового законодательства",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkim00h1injjpwee9yex",
+      "titleRu": "ИИ-платформа управления рисками утечки ключевых специалистов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkim00h3injj8t0geqc6",
+      "titleRu": "ИИ-система оценки и прогнозирования конфликтных рисков в коллективе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkim00h5injjc9dbm8d3",
+      "titleRu": "ИИ-анализ профессиональных рисков при работе с агрохимикатами",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkim00h7injj1kuy4e0e",
+      "titleRu": "ИИ-система выявления талантов среди молодых специалистов АПК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkim00h9injjzdvdkmp2",
+      "titleRu": "ИИ‑платформа развития лидерских компетенций руководителей среднего звена",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkim00hbinjj4nhecd45",
+      "titleRu": "ИИ-модель формирования высокоэффективных команд в агросекторе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkim00hdinjj0o63lfdf",
+      "titleRu": "ИИ-система управления корпоративными знаниями и аграрной экспертизой",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkim00hfinjje44nxjb0",
+      "titleRu": "ИИ-платформа для проектирования и управления программами наставничества в сельском хозяйстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkim00hhinjjwzxq4zoo",
+      "titleRu": "ИИ-платформа VR-симуляции для обучения и оценки операторов сельхозтехники",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkin00hjinjjj9tl8m62",
+      "titleRu": "ИИ-платформа создания цифровых двойников рабочих мест в АПК для оптимизации кадровой политики",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkin00hlinjjlhhj7z97",
+      "titleRu": "ИИ-система разработки геймифицированных программ мотивации",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkin00hninjjn5ymn2j2",
+      "titleRu": "ИИ-платформа удаленной работы и поддержки агрономов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkin00hpinjjc0z7dln4",
+      "titleRu": "ИИ‑анализ эмоционального состояния и благополучия сотрудников в агрокомпаниях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

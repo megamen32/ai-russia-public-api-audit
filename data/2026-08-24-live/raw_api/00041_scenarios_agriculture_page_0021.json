@@ -1,0 +1,279 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkir00nbinjjckyr1a2z",
+      "titleRu": "ИИ-аналитика и прогнозирование изменений законодательства о земельных отношениях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkir00ndinjjt70b5xet",
+      "titleRu": "ИИ-анализ судебных решений по спорам в сфере АПК для прогнозирования исходов и рисков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkir00nfinjjz936gh1u",
+      "titleRu": "ИИ-модель прогнозирования рисков нарушения экологического законодательства",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkis00nhinjj456vq2h4",
+      "titleRu": "ИИ-прогнозирование изменений в налоговом регулировании сельского хозяйства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkis00njinjj8uml0kjj",
+      "titleRu": "ИИ-анализ тенденций в правоприменительной практике Россельхознадзора",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkis00nlinjj33kuv4w0",
+      "titleRu": "ИИ-система автоматизированной подготовки и проверки документов для получения сельскохозяйственных субсидий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkis00nninjje6dxc48l",
+      "titleRu": "ИИ-бот для автоматизированного заполнения регуляторной отчетности в сельском хозяйстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkis00npinjjzcdbez7y",
+      "titleRu": "ИИ-робот для мониторинга и анализа изменений в законодательстве АПК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkis00nrinjjxdoqs9r0",
+      "titleRu": "ИИ-система контроля и прогнозирования сроков подачи юридических документов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkis00ntinjj0ilauel9",
+      "titleRu": "ИИ‑автоматизация оформления и проверки земельных сделок",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkis00nvinjjsw10g7jw",
+      "titleRu": "ИИ-платформа персонализированных правовых рекомендаций для фермеров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkis00nxinjj2v5r6naw",
+      "titleRu": "ИИ-система адаптивного правового консультирования по земельным вопросам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkis00nzinjj0gwguuh5",
+      "titleRu": "ИИ-помощник по выбору оптимальной правовой формы сельхозпредприятия с персонализированными рекомендациями",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkis00o1injjzr9yk2ah",
+      "titleRu": "ИИ‑платформа персонализированного мониторинга регуляторных и комплаенс‑требований для агробизнеса",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkis00o3injjx60i9xs3",
+      "titleRu": "ИИ‑платформа персонализированного правового сопровождения агропроектов и фермеров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkis00o5injjo7h66k92",
+      "titleRu": "ИИ-оптимизация структуры и загрузки правового департамента агрохолдинга",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkis00o7injjzf4oq3w0",
+      "titleRu": "ИИ-система оптимального распределения юридических ресурсов и специализаций",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkis00o9injjpa1qapks",
+      "titleRu": "ИИ-модель оптимизации расходов на юридическое сопровождение агросделок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkis00obinjjfwtdznnd",
+      "titleRu": "ИИ-алгоритм оптимизации портфеля сельскохозяйственных земельных участков с учётом правовых рисков и ограничений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkis00odinjjafg9uida",
+      "titleRu": "ИИ-оптимизация договорной работы с контрагентами в АПК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

@@ -1,0 +1,283 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwknh063rinjjed49g0d0",
+      "titleRu": "ИИ-платформа обучения сотрудников корпоративному праву и этике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknh063tinjjj1u79qum",
+      "titleRu": "ИИ‑платформа развития правовых компетенций менеджеров",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknh063vinjj69vuk4ez",
+      "titleRu": "ИИ-платформа для сертификации и обучения по комплаенс-процедурам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknh063xinjj2wsmgjnb",
+      "titleRu": "ИИ-система оценки и адаптивного обучения правовым нормам для персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknh063zinjjumv94jer",
+      "titleRu": "ИИ‑платформа адаптивных тренингов по противодействию коррупции",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknh0641injjjci15m2s",
+      "titleRu": "ИИ‑платформа для цифрового правового анализа и оценки регуляторных рисков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknh0643injjuzrac11k",
+      "titleRu": "AI-платформа для внедрения и управления legal tech-решениями в нефтегазе и энергетике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknh0645injjisq5qsoj",
+      "titleRu": "ИИ-платформа интеллектуального электронного документооборота и комплаенс-контроля",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknh0647injjh83n52y7",
+      "titleRu": "ИИ‑платформа для инновационных методов альтернативного разрешения споров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknh0649injjmuda6316",
+      "titleRu": "ИИ-платформа автоматизированного анализа и риск-оценки договоров",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknh064binjjfb4j2qao",
+      "titleRu": "ИИ-анализ и прогноз перспективных направлений технологического развития в нефтегазе и энергетике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknh064dinjj9gld0jdw",
+      "titleRu": "ИИ‑прогнозирование эффективности и результативности исследовательских проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknh064finjj36b3wmeb",
+      "titleRu": "ИИ-система анализа патентного ландшафта и прогнозирования трендов в энергетических технологиях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknh064hinjjod7qcr1i",
+      "titleRu": "AI-модель оценки коммерческого потенциала технологических инноваций",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknh064jinjjmwumasjd",
+      "titleRu": "ИИ‑платформа аналитики и прогнозирования трендов в зеленых технологиях для нефтегазовой и электроэнергетической отрасли",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknh064linjj0cv60604",
+      "titleRu": "ИИ‑автоматизация процессов управления инновационными проектами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknh064ninjjo96oty3d",
+      "titleRu": "ИИ‑управляемое RPA для обработки заявок на регистрацию интеллектуальной собственности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknh064pinjjxuwkl0rg",
+      "titleRu": "AI‑система интеллектуального планирования и приоритизации НИОКР в нефтегазе и электроэнергетике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknh064rinjjgthdug1n",
+      "titleRu": "Интеллектуальная роботизация анализа научно-технической информации с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknh064tinjjy240qqm7",
+      "titleRu": "Интеллектуальная IPA-платформа для автоматизации и оптимизации коммерциализации инноваций в нефтегазе и энергетике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

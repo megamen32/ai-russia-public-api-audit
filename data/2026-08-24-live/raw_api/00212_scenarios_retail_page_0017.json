@@ -1,0 +1,275 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwknz06ovinjjr65cpf4h",
+      "titleRu": "ИИ-мониторинг производительности e-commerce платформы в реальном времени",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknz06oxinjjcf9h2zqp",
+      "titleRu": "AI-мониторинг соблюдения SLA для критически важных ИТ-услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknz06ozinjjqfe5d9qz",
+      "titleRu": "ИИ-мониторинг ИБ и обнаружение аномалий в инфраструктуре ритейла",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknz06p1injjcye1zznj",
+      "titleRu": "ИИ-мониторинг качества данных и проактивный контроль целостности ИТ-систем",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknz06p3injjjbo7xp39",
+      "titleRu": "AI-мониторинг соответствия ИТ-процессов регуляторным требованиям",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknz06p5injjkmjb4uxi",
+      "titleRu": "ИИ-система поддержки решений по внедрению новых ИТ-технологий в ритейле",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknz06p7injj4w4b5vx6",
+      "titleRu": "ИИ-помощник по проектированию и модернизации ИТ-архитектуры в ритейле",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknz06p9injjti30tvmr",
+      "titleRu": "AI-поддержка принятия решений по миграции ИТ-ландшафта ритейл/e-com в облако",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknz06pbinjjewo0hb5n",
+      "titleRu": "ИИ-система рекомендаций по выбору и оценке поставщиков ИТ-услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknz06pdinjjcmkxa3z8",
+      "titleRu": "ИИ-помощник для принятия решений об инвестициях в ИТ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknz06pfinjjqr8r74r5",
+      "titleRu": "Генерация ИИ‑поддерживаемой технической документации и пользовательских инструкций",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknz06phinjjeqc3ywbk",
+      "titleRu": "Генерация и рефакторинг программного кода с помощью ИИ в ИТ‑подразделении ритейла",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknz06pjinjj1gd353ai",
+      "titleRu": "Автоматическая генерация ИИ-отчетов по ИТ-инфраструктуре и цифровым проектам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknz06plinjj254666cg",
+      "titleRu": "Генерация тест-кейсов и сценариев тестирования на основе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko006pninjj43y2snd4",
+      "titleRu": "Генерация архитектурных схем и технических диаграмм с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko006ppinjjdbxm30wh",
+      "titleRu": "ИИ‑система обнаружения и предотвращения кибератак на ритейл‑системы",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko006prinjj1zy12r19",
+      "titleRu": "ИИ-мониторинг утечек данных клиентов и коммерческой информации",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko006ptinjjsd9kw97t",
+      "titleRu": "ИИ-предиктивная аналитика уязвимостей и киберрисков в ИТ-системах ритейла",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko006pvinjjrnokzjdl",
+      "titleRu": "ИИ-система прогнозирования и управления рисками отказа критичных ИТ-сервисов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwko006pxinjjrlqu1331",
+      "titleRu": "ИИ-система для автоматического выявления и блокировки DDoS-атак и вредоносного трафика",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

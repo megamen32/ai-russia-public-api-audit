@@ -1,0 +1,11 @@
+﻿industry,declared_scenario_count,api_total,returned_rows_across_pages,unique_scenarios,complete,new_global_unique
+agriculture,500,500,500,500,True,500
+construction,500,500,500,500,True,500
+education,500,500,500,500,True,500
+healthcare,500,500,500,500,True,500
+industrial,500,500,500,500,True,500
+it-telecom,500,500,500,500,True,500
+oil-energy,500,500,500,500,True,500
+retail,500,500,500,500,True,500
+finance,499,499,499,499,True,499
+transport,493,493,493,493,True,493

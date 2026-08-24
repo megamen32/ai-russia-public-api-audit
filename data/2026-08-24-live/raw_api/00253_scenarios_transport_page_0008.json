@@ -1,0 +1,267 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkoe076ninjjg6fq9576",
+      "titleRu": "Использование ИИ для персонализированного развития компетенций менеджеров по работе с корпоративными клиентами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoe076pinjj38bbxx7w",
+      "titleRu": "ИИ-оптимизация формирования и развития команд клиентского опыта",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoe076rinjjzbc8f22v",
+      "titleRu": "AI-платформы для развития креативного мышления и генерации маркетинговых идей у персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoe076tinjja9e9bnor",
+      "titleRu": "Разработка ИИ-платформ для интеллектуального взаимодействия с клиентами и оптимизации сервиса",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoe076vinjjt1j4uqqm",
+      "titleRu": "ИИ-усиленные AR/VR-решения для интерактивных презентаций транспортных услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "NLP",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoe076xinjjwd51n9f3",
+      "titleRu": "Разработка мобильных приложений для интеллектуального отслеживания и прогнозирования сроков доставки грузов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoe076zinjjfrg8gv0s",
+      "titleRu": "Разработка интеллектуальной платформы для формирования и развития партнерской экосистемы с поставщиками",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkof0771injjhiyb17lb",
+      "titleRu": "AI-аналитика IoT-данных для разработки персонализированных маркетинговых стратегий в транспортной отрасли",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkof0773injjqcyv3o9x",
+      "titleRu": "ИИ-прогнозирование объемов продаж транспортных услуг с учетом сезонных факторов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkof0775injjnzvge8qi",
+      "titleRu": "Использование ИИ для прогнозирования и оптимизации конверсии лидов в корпоративных перевозках",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkof0777injjydp3tbzf",
+      "titleRu": "AI-прогнозирование потребности в новых маршрутах на основе анализа спроса",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkof0779injju1gyag2v",
+      "titleRu": "Предиктивная аналитика для оценки и оптимизации каналов привлечения клиентов в логистике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkof077binjjwsrtjjnm",
+      "titleRu": "ИИ-прогнозирование продаж транспортных услуг с учетом экономических факторов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkof077dinjjpb5mhpir",
+      "titleRu": "Интеллектуальная автоматизация обработки заявок на грузоперевозки",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkof077finjj63gt9q8a",
+      "titleRu": "Интеллектуальная автоматизация квалификации потенциальных клиентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkof077hinjjcmse7ocz",
+      "titleRu": "Интеллектуальная автоматизация формирования коммерческих предложений по тарифам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkof077jinjjhfqbyez1",
+      "titleRu": "Роботизация отслеживания воронки продаж в CRM-системе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkof077linjj2kbfdpic",
+      "titleRu": "AI-управляемая система уведомлений клиентов о статусе заказов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkof077ninjj4rw6kx5a",
+      "titleRu": "AI-система персонализированных предложений услуг для постоянных клиентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkof077pinjjbjs1dd1q",
+      "titleRu": "Предиктивная персонализация коммерческих условий для корпоративных клиентов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 493
+}

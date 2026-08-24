@@ -1,0 +1,270 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkny06nrinjj030jqn5z",
+      "titleRu": "Прогнозирование нагрузки на ИТ-системы и потребности в ресурсах с помощью ML-моделей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkny06ntinjj7goyyx5v",
+      "titleRu": "ИИ‑модели предиктивной аналитики сбоев и деградации e-commerce платформы",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkny06nvinjjbx8vouh2",
+      "titleRu": "ИИ‑аналитика и прогнозирование киберугроз для ритейл‑систем",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkny06nxinjjnqqr2osc",
+      "titleRu": "ИИ-прогнозирование эффективности цифровых проектов и инноваций в ритейле",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkny06nzinjjkjgq960y",
+      "titleRu": "Предиктивное моделирование жизненного цикла ИТ-оборудования на основе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkny06o1injje6jd9wwu",
+      "titleRu": "Интеллектуальная автоматизация мониторинга и обслуживания ИТ-инфраструктуры с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkny06o3injj6xqyyunq",
+      "titleRu": "Интеллектуальная роботизация процессов резервного копирования и восстановления данных с предиктивной аналитикой сбоев",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkny06o5injj85imb03a",
+      "titleRu": "Интеллектуальная автоматизация обновления и патчинга ПО с предиктивной оценкой рисков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkny06o7injj33496y8b",
+      "titleRu": "ИИ-автоматизация процессов разработки и тестирования приложений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkny06o9injjrbpokzcm",
+      "titleRu": "Интеллектуальная роботизация управления пользователями и правами доступа на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkny06obinjjx3wd59a9",
+      "titleRu": "ИИ‑персонализация интерфейса мобильного приложения для покупателей в реальном времени",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkny06odinjjmczmdr2m",
+      "titleRu": "ИИ-персонализация функционала личного кабинета клиента в e-com",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkny06ofinjj7nezt0xd",
+      "titleRu": "AI-платформа кастомизируемых API для интеграции с системами партнёров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkny06ohinjjb4jkhtqa",
+      "titleRu": "AI-персонализация дашбордов для сотрудников разных подразделений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknz06ojinjjtqq7ih56",
+      "titleRu": "AI-персонализация уведомлений и алертов для клиентов в омниканальных системах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknz06olinjj9cmg82wc",
+      "titleRu": "ИИ‑оптимизация использования облачных ресурсов и вычислительных мощностей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknz06oninjje8fbsh2s",
+      "titleRu": "AI-система интеллектуального управления и оптимизации лицензий на ПО",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknz06opinjjuytole18",
+      "titleRu": "Оптимизация производительности баз данных и хранилищ с помощью AI-анализаторов запросов и нагрузок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknz06orinjj938feepb",
+      "titleRu": "ИИ‑управляемое динамическое масштабирование ИТ‑ресурсов под пиковые нагрузки",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwknz06otinjjb74510dx",
+      "titleRu": "Оптимизация энергопотребления серверного оборудования с помощью ML-моделей прогнозирования нагрузки",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

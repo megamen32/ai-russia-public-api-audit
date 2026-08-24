@@ -1,0 +1,273 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkj5012vinjjhfy8gjhc",
+      "titleRu": "ИИ-система для рекомендаций по оптимизации скидок в продажах недвижимости",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj5012xinjjltyrpbd7",
+      "titleRu": "ИИ-ассистент для персонализированной генерации коммерческих предложений покупателям квартир в ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj5012zinjjruj80zlx",
+      "titleRu": "ИИ-ассистент для динамической генерации и персонализации коммерческих презентаций для корпоративных клиентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj50131injjm9qzjlyo",
+      "titleRu": "ИИ-генератор скриптов для телефонных продаж недвижимости",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj50133injjo2l6gg76",
+      "titleRu": "ИИ-система для персонализированной генерации каталогов квартир",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj50135injjwsiubp68",
+      "titleRu": "ИИ-генератор аргументов для преодоления возражений покупателей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj50137injjg5gbdesg",
+      "titleRu": "Предиктивная система ИИ для оценки рисков срыва планов продаж ЖК",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj50139injjpwmpy5ta",
+      "titleRu": "ИИ-система для прогнозирования рисков срыва сделок с недвижимостью",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj5013binjjehxr9cxm",
+      "titleRu": "Система на базе ИИ для предиктивного выявления мошенничества при продаже недвижимости",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj5013dinjjfo7hkxvq",
+      "titleRu": "ИИ для предиктивного управления репутационными рисками в продажах новостроек",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj5013finjj1emg9im6",
+      "titleRu": "ИИ-мониторинг правовых рисков в сделках долевого участия",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj5013hinjjmrvhs6rf",
+      "titleRu": "Адаптивная ИИ-система обучения и развития менеджеров по продажам недвижимости",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj5013jinjjpicdjloh",
+      "titleRu": "ИИ-платформа геймификации мотивации сотрудников отделов продаж ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj5013linjj983bw0fg",
+      "titleRu": "AI-система персонализированной адаптации и обучения для новых менеджеров по продажам девелоперских проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj5013ninjjkt90l7p7",
+      "titleRu": "AI-система для интеллектуального управления знаниями о продуктах и услугах девелопера и персонализированного обучения персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj5013pinjj0h0g125d",
+      "titleRu": "ИИ-тренажёр отработки сложных переговорных ситуаций с дольщиками",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "ASR",
+        "TTS"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj5013rinjjm17fct5b",
+      "titleRu": "ИИ-платформа для персонализированных виртуальных продаж квартир в ЖК с интерактивными 3D-турами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj5013tinjjcfb9hpb3",
+      "titleRu": "ИИ-система создания виртуальных туров с возможностью онлайн-покупки",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj5013vinjjlzhewsn7",
+      "titleRu": "ИИ-платформа для интеллектуального анализа и автоматизированной верификации сделок долевого участия в строительстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkj5013xinjj98zyhymu",
+      "titleRu": "Инновационные CRM-решения с предиктивной аналитикой для продаж",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

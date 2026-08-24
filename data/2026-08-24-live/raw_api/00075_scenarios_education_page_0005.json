@@ -1,0 +1,278 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkjo01p3injjymqx1fso",
+      "titleRu": "ИИ-генератор финансовых отчетов и презентаций для попечительского совета университета",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjo01p5injjw6f0vjvf",
+      "titleRu": "ИИ-система автоматического создания и обоснования бюджетных заявок для министерства образования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjo01p7injjqoqfmbe0",
+      "titleRu": "ИИ‑генерация аналитических записок по финансовому состоянию образовательных программ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjo01p9injj6qp0q6m2",
+      "titleRu": "ИИ-помощник для подготовки документов по грантовым заявкам и финансированию проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjo01pbinjjsiqbn3ng",
+      "titleRu": "ИИ‑система автоматизированной генерации и оптимизации финансовых планов развития факультетов и кафедр",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjo01pdinjj02m7qgqj",
+      "titleRu": "ИИ-система оценки кредитных рисков при предоставлении образовательных займов студентам",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjo01pfinjjcsvm27pa",
+      "titleRu": "ИИ-модуль управления валютными рисками при международном сотрудничестве в образовании",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjo01phinjjof2r828l",
+      "titleRu": "ИИ-система оценки финансовых рисков при запуске новых образовательных программ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjo01pjinjjpsvvni6s",
+      "titleRu": "ИИ-анализатор рисков ликвидности образовательного учреждения в различных сценариях",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjo01plinjj3u6ssqdf",
+      "titleRu": "ИИ‑платформа управления операционными рисками в финансовых процессах вуза",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjo01pninjjd3ux8zft",
+      "titleRu": "AI-система планирования и развития финансовых компетенций сотрудников бухгалтерии и планово-экономических служб",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjo01ppinjjpt1y8o54",
+      "titleRu": "ИИ-модуль развития навыков финансового анализа у административного персонала университета",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjo01prinjjzrl83vq2",
+      "titleRu": "ИИ-платформа обучения преподавателей финансовой грамотности и генерации учебных материалов для интеграции в курсы",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjo01ptinjjdto63h5k",
+      "titleRu": "ИИ-платформа развития компетенций по управлению грантами и проектным финансированием",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjo01pvinjjxgnhpg0y",
+      "titleRu": "ИИ‑тренажер финансового планирования для руководителей подразделений вуза на основе генеративных сценариев",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjo01pxinjjbp4y3gf7",
+      "titleRu": "ИИ-разработка инновационных финансовых продуктов для поддержки студенческих стартапов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjo01pzinjjqqryd9gu",
+      "titleRu": "ИИ‑платформа для проектирования и управления моделями краудфандингового финансирования образовательных программ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjo01q1injjqf2pt8dm",
+      "titleRu": "ИИ-модуль проектирования блокчейн-решений для прозрачности и аудита финансовых операций в образовании",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjo01q3injjtf5cyz9x",
+      "titleRu": "ИИ-лаборатория создания финтех-решений для образовательной сферы и студенческих платежей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjo01q5injjbibz98wq",
+      "titleRu": "ИИ-платформа инновационного микрофинансирования образовательных и научных проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

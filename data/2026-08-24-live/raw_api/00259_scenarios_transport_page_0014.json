@@ -1,0 +1,272 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkok07dbinjj6exzvvft",
+      "titleRu": "AI-оптимизированные персонализированные системы мотивации персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkok07ddinjjinza3kv0",
+      "titleRu": "AI-оптимизация персонализированных графиков работы для повышения вовлеченности сотрудников и улучшения качества услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkok07dfinjjdal8l6m8",
+      "titleRu": "AI-персонализация программ социальных льгот и компенсаций для клиентов транспортных услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkok07dhinjjd3hd43xw",
+      "titleRu": "ИИ-оптимизация структуры персонала и функционального распределения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkok07djinjjlbd818q2",
+      "titleRu": "ИИ-оптимизация инвестиций в обучение и развитие персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkok07dlinjjm0wy90vr",
+      "titleRu": "ИИ-оптимизация систем оплаты труда и мотивации для водителей и персонала в транспортной логистике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkok07dninjjortz2lar",
+      "titleRu": "Предиктивное управление и развитие кадрового резерва для критически важных позиций с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkok07dpinjjl5ak7f4r",
+      "titleRu": "ИИ-оптимизация инвестиций в корпоративное обучение и развитие на основе предиктивной аналитики",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkok07drinjj6swvqob4",
+      "titleRu": "Интеллектуальный мониторинг соблюдения трудового законодательства и режимов труда водителей в перевозках",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkok07dtinjjbuy75a9r",
+      "titleRu": "ИИ-система для мониторинга и контроля выполнения планов по подготовке и аттестации персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkok07dvinjjbo65763v",
+      "titleRu": "Предиктивный мониторинг вовлеченности персонала транспортных компаний с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkok07dxinjjo4kbwloy",
+      "titleRu": "ИИ-контроль соблюдения требований охраны труда и безопасности водителями",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkok07dzinjj705iiygy",
+      "titleRu": "ИИ-мониторинг и предиктивный анализ эффективности адаптации новых сотрудников",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkol07e1injj4xom9hsb",
+      "titleRu": "Предиктивная система поддержки решений по найму критически важного персонала на основе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkol07e3injjmtlvl9o0",
+      "titleRu": "AI-платформа для предиктивной аналитики и оптимизации структуры подразделений в транспортной компании",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkol07e5injjnoj5akji",
+      "titleRu": "ИИ-система для предиктивного анализа эффективности каналов рекрутинга и оптимизации стратегии найма",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkol07e7injjgbegnx5z",
+      "titleRu": "AI-система рекомендаций для персонализированного выбора корпоративного обучения",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkol07e9injjm13qyhh3",
+      "titleRu": "Предиктивная ИИ-система для оптимизации управления талантами в транспортной отрасли",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkol07ebinjjh6193fdk",
+      "titleRu": "Генерация должностных инструкций для транспортного персонала с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkol07edinjj5x3u0mxa",
+      "titleRu": "ИИ-генерация аналитических отчетов по кадровым показателям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 493
+}

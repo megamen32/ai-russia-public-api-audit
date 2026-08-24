@@ -1,0 +1,280 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkk2025rinjjshxurlgd",
+      "titleRu": "ИИ-генератор технических заданий и спецификаций для закупки учебного и научного оборудования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk2025tinjj3tmsgapn",
+      "titleRu": "ИИ-система автоматической генерации договоров и документации для закупочных процедур",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk2025vinjj2y1efnn6",
+      "titleRu": "ИИ‑генератор и аналитика отчетов по рынку поставщиков образовательных услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk2025xinjjkdupfgf3",
+      "titleRu": "ИИ-помощник для автоматизированного создания и поддержки каталогов закупаемых товаров и услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk2025zinjjg5olaxex",
+      "titleRu": "ИИ-система автоматизированного создания аналитических записок по эффективности закупок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk20261injjw73h60n3",
+      "titleRu": "ИИ-система оценки рисков срыва поставок критически важного образовательного оборудования",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk20263injj1w3u4brh",
+      "titleRu": "AI-модуль управления рисками качества закупаемых учебных материалов и образовательных технологий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk20265injj5aavn6ia",
+      "titleRu": "ИИ-система скоринга финансовых рисков при работе с новыми поставщиками",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk20267injjw5hx58hp",
+      "titleRu": "ИИ-анализатор рисков зависимости от единственных поставщиков специализированного оборудования",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk20269injjtjrmqp7u",
+      "titleRu": "ИИ-платформа мониторинга и управления репутационными рисками при нарушении закупочных процедур",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk2026binjj45607n1p",
+      "titleRu": "ИИ-система развития компетенций сотрудников в области закупочной деятельности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk2026dinjjo27gwmuu",
+      "titleRu": "ИИ-платформа обучения навыкам переговоров с поставщиками образовательных услуг",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk3026finjjklo23o5e",
+      "titleRu": "ИИ‑платформа развития навыков управления контрактами и логистическими процессами в закупках",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk3026hinjj4kh3irn9",
+      "titleRu": "ИИ-платформа адаптивных тренингов по законодательству о государственных закупках для образовательных учреждений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk3026jinjj38cjzt4f",
+      "titleRu": "ИИ-коуч для развития аналитических навыков в управлении цепочками поставок",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk3026linjj13i2mg7e",
+      "titleRu": "ИИ-разработка инновационных моделей партнерства с поставщиками образовательных технологий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk3026ninjj55bnl1id",
+      "titleRu": "ИИ-система проектирования и оптимизации совместных закупок между образовательными учреждениями",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk3026pinjj0ptjiqqi",
+      "titleRu": "ИИ-модуль проектирования блокчейн-решений для прозрачности и аудита закупочных процессов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk3026rinjjqky773up",
+      "titleRu": "ИИ-лаборатория по разработке e-commerce платформ для закупок образовательных учреждений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkk3026tinjjbprglqa4",
+      "titleRu": "ИИ-платформа для управления инновациями и устойчивыми цепочками поставок в образовании",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

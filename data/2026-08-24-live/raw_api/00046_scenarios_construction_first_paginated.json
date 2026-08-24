@@ -1,0 +1,265 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkiw00svinjjg20fyeiq",
+      "titleRu": "Система прогнозирования девелоперского цикла проектов жилой недвижимости на основе машинного обучения",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiw00sxinjjcc6w2vpn",
+      "titleRu": "Платформа прогнозирования динамики цен на первичном рынке жилья по районам города",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiw00szinjjxukyo784",
+      "titleRu": "ИИ-анализатор рыночного потенциала строительства коммерческой недвижимости",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiw00t1injjd9gj4z6v",
+      "titleRu": "AI-платформа для прогнозирования динамики цен на первичном рынке жилья по районам города",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiw00t3injjzhkj5yes",
+      "titleRu": "ИИ-анализатор рыночного потенциала строительства коммерческой недвижимости",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiw00t5injjg3s4spdi",
+      "titleRu": "ИИ-система для прогнозирования сроков окупаемости девелоперских проектов различных классов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiw00t7injjzs5vsi8z",
+      "titleRu": "ИИ-платформа для автоматизированного анализа и прогнозирования конкурентной среды в жилой застройке",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkiw00t9injjlxnrkdna",
+      "titleRu": "Интеллектуальная автоматизация сбора и предиктивного анализа данных земельных аукционов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkix00tbinjjepjnyryl",
+      "titleRu": "RPA-бот для автоматического формирования отчётов по ходу строительства ЖК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkix00tdinjjrqbpkazb",
+      "titleRu": "AI-система для автоматизированной подготовки инвестиционных презентаций девелоперских проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkix00tfinjjjirxwzo6",
+      "titleRu": "ИИ-агент для интеллектуального мониторинга и анализа градостроительного законодательства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkix00thinjj0cgogjf3",
+      "titleRu": "Платформа на базе ИИ для персонализированного подбора жилья в новостройках по предпочтениям дольщиков",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkix00tjinjj9o44l7av",
+      "titleRu": "AI-система персонализированного сопровождения клиента по этапам покупки недвижимости",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkix00tlinjjn5d6o5rs",
+      "titleRu": "ИИ-консультант по выбору планировки и отделки квартир в девелоперском проекте",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkix00tninjjp7dtvpoz",
+      "titleRu": "AI-система персонализированной коммуникации с дольщиками о ходе строительства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkix00tpinjjonzlnivl",
+      "titleRu": "Платформа ИИ для персонализированного взаимодействия с потенциальными покупателями коммерческой недвижимости",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkix00trinjjgvm18kjr",
+      "titleRu": "ИИ-система для интеллектуальной оптимизации распределения финансовых ресурсов в портфеле строительных проектов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkix00ttinjj1e7n0ceg",
+      "titleRu": "ИИ-система предиктивного анализа и оптимизации управления земельным банком девелоперской компании",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkix00tvinjj21kx5e49",
+      "titleRu": "ИИ-планировщик календаря запуска новых жилых комплексов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkix00txinjjelyq644d",
+      "titleRu": "ИИ-оптимизация портфеля девелоперских проектов с учетом рисков и доходности",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

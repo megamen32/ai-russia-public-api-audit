@@ -1,0 +1,276 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkju01wvinjjzecxkq3r",
+      "titleRu": "ИИ-система мониторинга качества занятий и соблюдения образовательных стандартов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkju01wxinjj6m4sdlaz",
+      "titleRu": "ИИ-контроллер выполнения учебных планов и программ в режиме реального времени",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkju01wzinjj2xbuuv1j",
+      "titleRu": "ИИ-модуль предиктивного мониторинга состояния учебного оборудования и инфраструктуры",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkju01x1injj970nhenx",
+      "titleRu": "AI-система мониторинга безопасности и охраны труда в лабораториях и мастерских",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkju01x3injjqgxerqmp",
+      "titleRu": "ИИ-аналитика эффективности использования образовательных ресурсов и учебного времени",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjv01x5injjwc5t68z1",
+      "titleRu": "ИИ-платформа поддержки решений по модернизации учебной инфраструктуры и оборудования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjv01x7injj94273syc",
+      "titleRu": "AI-модуль поддержки решений по реорганизации образовательных процессов и методик",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjv01x9injj3tqquyh3",
+      "titleRu": "ИИ-система поддержки решений по инвестициям в новые образовательные технологии",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjv01xbinjjil4iq6kj",
+      "titleRu": "ИИ-консультант для принятия решений об оптимизации структуры учебных подразделений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjv01xdinjj5j65vrbc",
+      "titleRu": "ИИ-платформа поддержки принятия решений по управлению качеством образовательного процесса",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjv01xfinjjleqsws2i",
+      "titleRu": "ИИ-генератор отчетов по эффективности использования учебных ресурсов и оборудования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjv01xhinjjz9nl27vd",
+      "titleRu": "ИИ-система автоматической генерации инструкций по эксплуатации лабораторного оборудования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjv01xjinjjihqrl99d",
+      "titleRu": "ИИ-генератор технических заданий на модернизацию образовательной инфраструктуры",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjv01xlinjj1v9j23xb",
+      "titleRu": "ИИ-помощник для создания регламентов и стандартов образовательных процессов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjv01xninjjpooswlhq",
+      "titleRu": "ИИ-система автогенерации и актуализации операционной документации для образовательных организаций",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjv01xpinjjf0f1qwqe",
+      "titleRu": "ИИ-система оценки рисков безопасности в лабораториях и на производственных площадках",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjv01xrinjjc1x1xu3h",
+      "titleRu": "ИИ-модуль прогнозирования и управления рисками сбоев в образовательном процессе и IT-инфраструктуре",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjv01xtinjj0pqxuuj0",
+      "titleRu": "ИИ-система оценки и мониторинга экологических рисков в научных лабораториях и исследовательских центрах",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjv01xvinjjl9ta8xxq",
+      "titleRu": "ИИ-анализатор рисков износа и выхода из строя критически важного учебного оборудования",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkjv01xxinjjfvquc4kr",
+      "titleRu": "ИИ‑платформа управления операционными рисками в организации учебного процесса",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

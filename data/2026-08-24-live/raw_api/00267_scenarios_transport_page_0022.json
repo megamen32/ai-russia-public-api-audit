@@ -1,0 +1,277 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkor07m7injjfe1g039t",
+      "titleRu": "ИИ-система для рекомендаций по выбору правовой формы международного сотрудничества в транспорте",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkos07m9injjw09hr1uj",
+      "titleRu": "ИИ-система для предиктивного анализа правовых рисков новых транспортно-логистических инициатив",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkos07mbinjjy8apttva",
+      "titleRu": "ИИ-платформа для предиктивного анализа судебных споров и формирования стратегии защиты",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkos07mdinjj5lcpp7es",
+      "titleRu": "AI-система для интеллектуального анализа комплаенс-рисков и поддержки решений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkos07mfinjj7j1n4jiq",
+      "titleRu": "Интеллектуальная генерация договоров перевозки с учетом специфики груза и маршрута",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkos07mhinjj2qotc0c5",
+      "titleRu": "Генерация внутренних регламентов и процедур с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkos07mjinjjbqahfe3z",
+      "titleRu": "ИИ-ассистированная генерация юридических заключений по транспортным проектам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkos07mlinjjjp1y4cmx",
+      "titleRu": "Автоматизированная генерация обучающих материалов по транспортному праву на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkos07mninjjnqg9vnjz",
+      "titleRu": "Использование ИИ для генерации аналитических отчетов о правовых рисках для руководства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkos07mpinjjqzus86k5",
+      "titleRu": "Предиктивный анализ и управление регуляторными рисками в транспорте с ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkos07mrinjjfyx5p14u",
+      "titleRu": "AI-система для предиктивного анализа международных санкционных рисков в грузоперевозках",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkos07mtinjj454dj79s",
+      "titleRu": "ИИ-анализ и предиктивное выявление антикоррупционных рисков в транспорте",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkos07mvinjj22mmha5w",
+      "titleRu": "Предиктивный анализ и оценка рисков изменения валютного и таможенного регулирования с применением ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkos07mxinjjfl9nn9sx",
+      "titleRu": "Предиктивная оценка и управление рисками ответственности при перевозке опасных грузов с ИИ",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkos07mzinjj895s0ce9",
+      "titleRu": "AI-платформа для адаптивного обучения сотрудников транспортному праву и регулятивной базе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkos07n1injj97wdgkap",
+      "titleRu": "AI-платформа для интерактивного обучения международному транспортному праву и оценки компетенций",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkos07n3injjlee3qzli",
+      "titleRu": "AI-симуляции для развития переговорных навыков и разрешения споров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkos07n5injjhxyymydy",
+      "titleRu": "Разработка ИИ-платформы для персонализированного правового просвещения персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkos07n7injj16jcxuxt",
+      "titleRu": "ИИ-платформа для создания и адаптации программ развития этики и корпоративной культуры",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkos07n9injjszh3qqyv",
+      "titleRu": "Разработка ИИ-платформы для интеллектуального управления правовыми процессами и комплаенсом в транспортной логистике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 493
+}

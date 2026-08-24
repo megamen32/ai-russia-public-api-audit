@@ -1,0 +1,267 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkl303cvinjjh1wgs1f2",
+      "titleRu": "ИИ-платформа персонализации коммерческих предложений медицинских услуг под профиль пациента",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl303cxinjjzr17hl48",
+      "titleRu": "ИИ-платформа для генерации и адаптации скриптов продаж под медицинские специализации",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl303czinjjq2l2i3ja",
+      "titleRu": "ИИ-модель персонализированных пакетных предложений профилактических медицинских программ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl303d1injjp7s9l9sq",
+      "titleRu": "AI‑система персонализации планов лечения с учётом клинических и финансовых возможностей пациента",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl303d3injjzb4sjxnt",
+      "titleRu": "ИИ-платформа персонализации корпоративных программ медицинского обслуживания и предложений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl303d5injjqznqhmlj",
+      "titleRu": "ИИ-платформа оптимизации воронки продаж от онлайн-записи до завершения лечения в клинике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl403d7injj8zkdlcp0",
+      "titleRu": "ИИ-платформа динамического ценообразования медицинских услуг по сегментам пациентов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl403d9injjivz1rlt4",
+      "titleRu": "ИИ-модель оптимизации территориального покрытия продаж медицинских услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl403dbinjjjhbfsvll",
+      "titleRu": "AI-система оптимизации портфеля медицинских услуг для максимизации выручки",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl403ddinjjiy44tjoo",
+      "titleRu": "ИИ-оптимизация каналов продаж телемедицинских и онлайн медицинских сервисов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl403dfinjjtbyxjgt6",
+      "titleRu": "ИИ-система мониторинга выполнения планов продаж медицинских услуг по отделениям",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl403dhinjjsoilwuum",
+      "titleRu": "ИИ-платформа для мониторинга и оценки эффективности продаж менеджеров медицинских программ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl403djinjj2y73eldw",
+      "titleRu": "ИИ‑модель мониторинга качества обслуживания пациентов на этапе продажи медицинских услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl403dlinjjvzabqx1b",
+      "titleRu": "AI-платформа мониторинга и оптимизации конкурентоспособности цен на медицинские услуги в регионе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl403dninjjugku07q9",
+      "titleRu": "ИИ-решение мониторинга удержания пациентов и повторных продаж медицинских услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl403dpinjjyl35swb7",
+      "titleRu": "ИИ-система поддержки клинических решений врачей при выборе методов лечения",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl403drinjjo3cwc9ur",
+      "titleRu": "AI-платформа поддержки решений по диагностике редких заболеваний",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl403dtinjjhhf1dgyo",
+      "titleRu": "AI-модель поддержки терапевтических решений для онкологических пациентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl403dvinjjbbn8pti2",
+      "titleRu": "AI-система поддержки клинических решений для назначения персонализированной терапии",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkl403dxinjj6udrkt13",
+      "titleRu": "ИИ-система поддержки выбора оптимальных схем реабилитации пациентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

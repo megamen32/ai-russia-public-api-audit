@@ -1,0 +1,11 @@
+﻿id,slug,name,order,declared_scenario_count
+cmqxqlz3o0000inb1ojufithf,agriculture,Сельское хозяйство,0,500
+cmqxqlz3y0001inb1wl7k81sm,construction,Строительство и недвижимость,1,500
+cmqxqlz400002inb1ihbheiab,education,Образование и наука,2,500
+cmqxqlz420003inb1fj3og0z5,healthcare,Здравоохранение,3,500
+cmqxqlz460004inb1905kwi4w,industrial,Промышленность,4,500
+cmqxqlz4b0005inb1qlrgvadz,it-telecom,IT и Телеком,5,500
+cmqxqlz4c0006inb1xu8zfdf2,oil-energy,Нефтегаз и электроэнергия,6,500
+cmqxqlz4e0007inb1ju0niojs,retail,Ритейл / e-com,7,500
+cmqxqlz4f0008inb1srkwsbut,finance,Финансы,8,499
+cmqxqlz4h0009inb1jxdek8bo,transport,Транспорт и логистика,9,493

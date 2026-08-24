@@ -1,0 +1,268 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkil00fjinjj1lgvn67x",
+      "titleRu": "ИИ-платформа персонализированного развития карьеры для сотрудников агросектора",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkil00flinjjfq39lgse",
+      "titleRu": "ИИ-система персонализированных обучающих траекторий для сотрудников АПК",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkil00fninjjsmlczw4a",
+      "titleRu": "ИИ-помощник для адаптации городских сотрудников к работе в сельском хозяйстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkil00fpinjjst3sqjla",
+      "titleRu": "ИИ-система персонализированной мотивации и удержания работников ферм",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkil00frinjj1q5clh2a",
+      "titleRu": "ИИ-платформа оптимизации и персонализации графиков сменных работ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkil00ftinjjkqsiektr",
+      "titleRu": "ИИ-оптимизация штатного расписания с учетом сезонности производства",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkil00fvinjjd35qn7fj",
+      "titleRu": "ИИ-система оптимального распределения агроспециалистов по производственным участкам",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkil00fxinjj3rs3hk5q",
+      "titleRu": "ИИ-модель оптимизации фонда оплаты труда в агрохолдингах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkil00fzinjjmxznmpsb",
+      "titleRu": "ИИ-алгоритм оптимального планирования отпусков сотрудников с учетом производственного цикла в сельском хозяйстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkil00g1injjfjfp7us7",
+      "titleRu": "ИИ-оптимизация затрат на обучение и развитие персонала в агробизнесе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkil00g3injjlm994k1c",
+      "titleRu": "ИИ-система мониторинга вовлеченности сотрудников сельхозпредприятий",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkil00g5injjot9yejej",
+      "titleRu": "AI-платформа компьютерного зрения для контроля соблюдения техники безопасности на рабочих местах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkil00g7injjxj1s1s94",
+      "titleRu": "ИИ-мониторинг качества выполнения трудовых обязанностей персонала в сельском хозяйстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkil00g9injjx9zy6jxh",
+      "titleRu": "AI-система мониторинга и прогнозирования профессионального выгорания сотрудников агросектора",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkil00gbinjjxv7bx3w2",
+      "titleRu": "ИИ-мониторинг эффективности HR-программ и инициатив в аграрной компании",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkim00gdinjjv3r3hzat",
+      "titleRu": "ИИ-система поддержки решений по найму ключевых специалистов в сельском хозяйстве",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkim00gfinjjk32vvm0c",
+      "titleRu": "ИИ-DSS для выбора оптимальных программ социального пакета для сотрудников агропредприятия",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkim00ghinjji0e9yqi7",
+      "titleRu": "ИИ-платформа поддержки решений по повышению, ротации и развитию кадров",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkim00gjinjjo3338asp",
+      "titleRu": "ИИ-система поддержки решений по реструктуризации организационной структуры сельхозпредприятия",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkim00glinjjbcbmr4q7",
+      "titleRu": "ИИ-помощник для планирования преемственности и последовательности назначения кадрового резерва",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

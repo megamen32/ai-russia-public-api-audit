@@ -1,0 +1,277 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkmc04svinjjviz8ur6j",
+      "titleRu": "ИИ‑модели для финансового моделирования и оценки эффективности инновационных технологических продуктов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmc04sxinjjpxctzo3l",
+      "titleRu": "ИИ-модели для монетизации телеком‑данных и персонализированных аналитических сервисов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmc04szinjjrygikr7p",
+      "titleRu": "ИИ-платформа блокчейн-аналитики и автоматизации финансовых операций в ИТ-секторе",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmc04t1injjgd29iacj",
+      "titleRu": "Использование ИИ для оценки, структурирования и управления краудфандинговыми и токенизированными финансами R&D-проектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmc04t3injjhb9yo7fc",
+      "titleRu": "ИИ-прогнозирование эффективности маркетинговых кампаний для ИТ-продуктов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmc04t5injjoxd6d72g",
+      "titleRu": "ИИ-анализ трендов цифрового маркетинга в технологической отрасли и прогноз эффективности кампаний",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmc04t7injj8fz1hqbn",
+      "titleRu": "ИИ-предиктивная аналитика конверсии B2B-лидов для ИТ-услуг",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmc04t9injjy95m5y51",
+      "titleRu": "ИИ-прогнозирование вирусности контента о технологических инновациях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmd04tbinjjla1ncctg",
+      "titleRu": "ИИ-анализ влияния технологических событий на узнаваемость и восприятие бренда",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmd04tdinjjon3f9f2j",
+      "titleRu": "ИИ‑автоматизация создания и публикации контента в социальных сетях (RPA + генерация текстов и креативов)",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmd04tfinjjmkaf0pxl",
+      "titleRu": "ИИ‑роботизация процессов email‑маркетинга для технологических продуктов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmd04thinjj0tjsgh04",
+      "titleRu": "AI‑управление и оптимизация рекламных кампаний в Google Ads и соцсетях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmd04tjinjj5i73u3md",
+      "titleRu": "ИИ-платформа для интеллектуальной автоматизации сегментации клиентской базы",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmd04tlinjjsqg8ycvd",
+      "titleRu": "ИИ‑автоматизация A/B‑тестирования маркетинговых материалов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmd04tninjjv5axw9cq",
+      "titleRu": "ИИ-персонализация маркетинговых сообщений под различные ИТ-роли и сегменты",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmd04tpinjj24drho3e",
+      "titleRu": "ИИ-персонализация B2B-демонстраций продуктов на основе профилей компаний",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmd04trinjj7wcrgrpy",
+      "titleRu": "ИИ-платформа для персонализированных маркетинговых воронок под разные индустрии клиентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmd04ttinjjir4mu7sh",
+      "titleRu": "ИИ‑персонализация контента на технологических порталах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmd04tvinjjajk95ylb",
+      "titleRu": "ИИ-генерация адаптивных лендингов по источнику трафика и профилю посетителя",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmd04txinjjaq7fq1s7",
+      "titleRu": "Оптимизация распределения маркетингового бюджета между каналами с помощью ИИ-моделей атрибуции и прогнозирования отклика",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}

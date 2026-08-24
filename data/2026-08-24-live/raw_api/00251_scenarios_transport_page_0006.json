@@ -1,0 +1,266 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkoc074finjj7cg9itvu",
+      "titleRu": "Прогнозирование и оптимизация эффективности маркетинговых каналов в B2B-сегменте с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoc074hinjjhvgqre63",
+      "titleRu": "AI-прогнозирование трендов спроса в экспресс-доставке и e-commerce",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoc074jinjjqp3k6vtj",
+      "titleRu": "Предиктивная аналитика сезонности на основе ИИ для оптимизации маркетинговых кампаний в транспортной отрасли",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoc074linjj2jumxroz",
+      "titleRu": "Интеллектуальная автоматизация и оптимизация размещения рекламы в отраслевых изданиях",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoc074ninjjkhqzjx9e",
+      "titleRu": "Роботизация процессов обновления прайс-листов на сайте",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkod074pinjj6cop8z60",
+      "titleRu": "Предиктивная персонализация и автоматизация email-рассылок для клиентов с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkod074rinjjen54dof7",
+      "titleRu": "Интеллектуальный мониторинг и анализ упоминаний бренда в социальных сетях",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkod074tinjj70yk8p4c",
+      "titleRu": "Генерация персонализированных коммерческих предложений на основе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkod074vinjj800msjqt",
+      "titleRu": "Использование ИИ для персонализации маркетинговых кампаний в транспортной индустрии",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkod074xinjjyki15hfb",
+      "titleRu": "ИИ-персонализация каталогов услуг для корпоративных клиентов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkod074zinjjh28o1dmc",
+      "titleRu": "Предиктивная персонализация веб-порталов для грузоотправителей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkod0751injjpahia9d4",
+      "titleRu": "Предиктивная персонализация навигации сайта на основе предпочтений клиента по типам грузов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkod0753injjob7y8qev",
+      "titleRu": "Персонализированные программы лояльности для водителей на основе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkod0755injjqctg2dpa",
+      "titleRu": "Оптимизация распределения маркетингового бюджета на основе ИИ-аналитики",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkod0757injj6ijcfh0a",
+      "titleRu": "ИИ-контроль и оптимизация бренд-идентичности транспортного парка и терминалов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkod0759injjf61uw0sm",
+      "titleRu": "ИИ-оптимизация затрат и ROI участия в отраслевых выставках",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkod075binjjgbmh0hj4",
+      "titleRu": "Оптимизация управления репутацией с помощью ИИ-анализа онлайн-отзывов и рейтингов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkod075dinjjzx2ydc9m",
+      "titleRu": "ИИ-оптимизация маркетинговых инвестиций в транспортной логистике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkod075finjjsnngvv5u",
+      "titleRu": "AI-анализ обратной связи для мониторинга восприятия бренда корпоративными клиентами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkod075hinjjxgf1tkpo",
+      "titleRu": "ИИ-мониторинг соблюдения стандартов брендинга транспортных средств",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 493
+}

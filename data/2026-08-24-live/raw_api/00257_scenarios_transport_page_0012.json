@@ -1,0 +1,266 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkoi07b3injjdisavzxl",
+      "titleRu": "Интеллектуальный анализ GPS-данных для предиктивного мониторинга и выявления аномалий в движении ТС",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoi07b5injj9e0tuk2f",
+      "titleRu": "AI-видеоаналитика для контроля качества погрузочно-разгрузочных работ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoi07b7injj03xtm4jn",
+      "titleRu": "Предиктивный мониторинг соблюдения сроков доставки с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoi07b9injjoxdwmkky",
+      "titleRu": "ИИ-система для оптимизации выбора подвижного состава",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoi07bbinjjdn2cb12y",
+      "titleRu": "ИИ-платформа для оптимизации перенаправления грузов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoi07bdinjjznupy3wk",
+      "titleRu": "AI-система для предиктивного анализа и оптимизации эффективности мультимодальных транспортных решений",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoi07bfinjjffohu54g",
+      "titleRu": "AI-платформа для предиктивной оптимизации времени отправления",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoi07bhinjj9h4wfn39",
+      "titleRu": "Система поддержки решений на базе ИИ для предиктивного управления простоями",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoi07bjinjjauej7v0y",
+      "titleRu": "Автоматическая генерация аналитических отчетов о выполнении транспортных планов с использованием ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoi07blinjj0chokpb9",
+      "titleRu": "Автоматизированная генерация путевых листов и сопроводительных документов на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "LLM",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoi07bninjjpn0wik78",
+      "titleRu": "Автоматизированная генерация технических карт обслуживания транспортных средств на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoj07bpinjj7vyq1g5h",
+      "titleRu": "ИИ-система для автоматизированной генерации и актуализации инструкций по безопасной перевозке грузов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "LLM",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoj07brinjjlek480yv",
+      "titleRu": "Интеллектуальная генерация аналитических отчетов об использовании топлива и ресурсов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoj07btinjj9w97ifog",
+      "titleRu": "Предиктивный анализ рисков ДТП с применением ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoj07bvinjj0y8sebse",
+      "titleRu": "Предиктивный анализ и предотвращение повреждений груза с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoj07bxinjjiphfz7ps",
+      "titleRu": "Предиктивный анализ технических неисправностей с ИИ для предотвращения задержек",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoj07bzinjjxe8h5e74",
+      "titleRu": "ИИ-системы для предиктивного контроля и управления рисками при перевозке опасных и негабаритных грузов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoj07c1injjmhykze0g",
+      "titleRu": "ИИ-системы для предиктивного анализа и управления экологическими рисками транспортных операций",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoj07c3injjzgo30iqe",
+      "titleRu": "ИИ-платформа для анализа стиля вождения и персонализированного обучения водителей экономичности и безопасности",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkoj07c5injj4bzw7k59",
+      "titleRu": "ИИ-платформа для персонализированного обучения и оценки квалификации операторов складского оборудования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 493
+}

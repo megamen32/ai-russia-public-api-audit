@@ -1,0 +1,263 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkom07fjinjjt3hi9jkp",
+      "titleRu": "Предиктивное управление ИТ-инфраструктурой для Big Data-аналитики в транспортной логистике",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkom07flinjjrani4ukv",
+      "titleRu": "Прогнозная аналитика операционной эффективности в транспорте с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkom07fninjjiol8732i",
+      "titleRu": "Предиктивная аналитика киберугроз для транспортных систем на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkom07fpinjjznd53sp3",
+      "titleRu": "Интеллектуальная автоматизация интеграции логистических информационных систем",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkom07frinjj7atflhhl",
+      "titleRu": "RPA-автоматизация резервного копирования критически важных транспортных данных",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "fast",
+      "technologies": [
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkom07ftinjjof2whwmp",
+      "titleRu": "Роботизация процессов мониторинга производительности IT-систем",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkom07fvinjj1j10xe14",
+      "titleRu": "Автоматизация обновления программного обеспечения на транспортных терминалах",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkom07fxinjj9l7z6rgq",
+      "titleRu": "Интеллектуальная автоматизация синхронизации данных между региональными центрами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkom07fzinjjkcl1hk2n",
+      "titleRu": "Предиктивная персонализация и ИИ-рекомендации в мобильных приложениях для водителей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkom07g1injjo6v8is9w",
+      "titleRu": "Адаптивные AI-дашборды для диспетчеров: персонализация управления транспортным парком",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkom07g3injj6u6htz5j",
+      "titleRu": "Предиктивная и адаптивная персонализация интерфейсов TMS-систем с помощью ИИ для оптимизации работы пользователей",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkom07g5injjuo9ulm3c",
+      "titleRu": "Предиктивная персонализация уведомлений для улучшения клиентского опыта в логистике на базе ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkom07g7injjxjwl9zt7",
+      "titleRu": "ИИ-персонализированные отчеты и рекомендации для менеджеров по улучшению клиентского опыта",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkom07g9injjygx5blgs",
+      "titleRu": "ИИ-оптимизация облачной инфраструктуры для эффективного анализа транспортных данных",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkom07gbinjjrg6nh46z",
+      "titleRu": "AI-оптимизация и прогнозное управление лицензиями на логистическое ПО",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "RPA"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkon07gdinjjrrbau3zj",
+      "titleRu": "AI-оптимизация серверных ресурсов для масштабирования логистических платформ в пиковые периоды",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkon07gfinjjsz6lmnrb",
+      "titleRu": "Предиктивное управление инфраструктурой IoT-устройств на транспорте с помощью ИИ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkon07ghinjjzau5wrcr",
+      "titleRu": "ИИ-оптимизация инвестиционных решений в цифровые технологии для логистики",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "NLP"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkon07gjinjjthsfvq0u",
+      "titleRu": "Предиктивный AI-мониторинг и контроль безопасности цифровых систем управления транспортом",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkon07glinjj30yz5ypd",
+      "titleRu": "ИИ-мониторинг и валидация качества данных в системах планирования перевозок",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 493
+}

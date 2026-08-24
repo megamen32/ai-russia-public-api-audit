@@ -1,0 +1,266 @@
+{
+  "scenarios": [
+    {
+      "id": "cmryiwkmy05ininjj2zd1buzh",
+      "titleRu": "ИИ‑персонализация производственных дашбордов для операторов скважин",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmy05ipinjjpmwkx315",
+      "titleRu": "ИИ-персонализация производственных интерфейсов для инженеров-технологов",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmy05irinjjj3r0r8wg",
+      "titleRu": "ИИ-платформа адаптивного обучения для производственного персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmy05itinjjlhgoo51w",
+      "titleRu": "ИИ‑персонализация уведомлений о производственных событиях для клиентов и партнеров",
+      "titleEn": null,
+      "businessImpact": "weak",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmz05ivinjj1uxzo3y0",
+      "titleRu": "ИИ‑система индивидуальных рекомендаций по повышению производительности персонала",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "medium",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmz05ixinjjf9rjk66t",
+      "titleRu": "AI-оптимизация режимов работы нефтедобывающего оборудования на основе предиктивной аналитики",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmz05izinjj8edhavku",
+      "titleRu": "ИИ-система оптимизации энергопотребления производственных объектов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmz05j1injjg2rvfu9t",
+      "titleRu": "Оптимизация логистических маршрутов доставки нефти с помощью моделей ИИ-прогнозирования и оптимизации",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmz05j3injjk4jh8eiw",
+      "titleRu": "ИИ‑платформа предиктивного управления производственными активами",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmz05j5injjeuuhqyv5",
+      "titleRu": "ИИ-система оптимального планирования и приоритизации ремонтных работ",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmz05j7injjvpugshdm",
+      "titleRu": "ИИ-система предиктивного мониторинга коррозии трубопроводов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmz05j9injj07ti0cz4",
+      "titleRu": "ИИ‑платформа контроля параметров бурения в реальном времени",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmz05jbinjjbba7brv4",
+      "titleRu": "ИИ-мониторинг экологических показателей и выбросов на энергетических и нефтегазовых объектах",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmz05jdinjje87i20mt",
+      "titleRu": "AI-система контроля и прогнозирования качества нефтепродуктов на основе датчиков и аналитики",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmz05jfinjj1vsylgn8",
+      "titleRu": "AI‑платформа мониторинга и предиктивного контроля безопасности производственных процессов",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents",
+        "CV"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmz05jhinjjck9wqteh",
+      "titleRu": "ИИ-DSS для выбора оптимальных технологий добычи нефти и газа",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmz05jjinjj91aqtk9z",
+      "titleRu": "AI-система поддержки решений по оптимальному размещению нефтегазовых скважин",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmz05jlinjjlle01dcn",
+      "titleRu": "AI-платформа оптимизации режимов переработки нефти",
+      "titleEn": null,
+      "businessImpact": "strong",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "AIAgents"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmz05jninjjr4d830rk",
+      "titleRu": "AI DSS для оптимизации планирования капитальных ремонтов",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    },
+    {
+      "id": "cmryiwkmz05jpinjjk1zx0m7b",
+      "titleRu": "ИИ-система поддержки решений по модернизации и замене оборудования",
+      "titleEn": null,
+      "businessImpact": "medium",
+      "implementationSpeed": "slow",
+      "technologies": [
+        "ClassicML",
+        "LLM"
+      ],
+      "caseCount": 0,
+      "cases": []
+    }
+  ],
+  "total": 500
+}
