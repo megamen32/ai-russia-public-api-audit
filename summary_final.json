@@ -1,0 +1,488 @@
+{
+  "mode": "live",
+  "generated_at_unix": 1787533352,
+  "declared_scenarios": 4992,
+  "matrix_cells_total": 1000,
+  "matrix_cells_count_5": 991,
+  "matrix_cells_has_cases_false": 990,
+  "matrix_cells_has_cases_true": 10,
+  "public_case_ids": 13,
+  "public_case_ids_by_industry": {
+    "finance": 9,
+    "it-telecom": 4
+  },
+  "companies": {
+    "АО «АЛЬФА-БАНК»": 9,
+    "ООО \"ЯНДЕКС\"": 4
+  },
+  "matrix_stats_by_industry": {
+    "agriculture": {
+      "cells_total": 100,
+      "cells_hasCases_true": 0,
+      "cells_hasCases_false": 100,
+      "sum_count": 500,
+      "count_distribution": {
+        "5": 100
+      }
+    },
+    "construction": {
+      "cells_total": 100,
+      "cells_hasCases_true": 0,
+      "cells_hasCases_false": 100,
+      "sum_count": 500,
+      "count_distribution": {
+        "4": 1,
+        "5": 98,
+        "6": 1
+      }
+    },
+    "education": {
+      "cells_total": 100,
+      "cells_hasCases_true": 0,
+      "cells_hasCases_false": 100,
+      "sum_count": 500,
+      "count_distribution": {
+        "5": 100
+      }
+    },
+    "healthcare": {
+      "cells_total": 100,
+      "cells_hasCases_true": 0,
+      "cells_hasCases_false": 100,
+      "sum_count": 500,
+      "count_distribution": {
+        "5": 100
+      }
+    },
+    "industrial": {
+      "cells_total": 100,
+      "cells_hasCases_true": 0,
+      "cells_hasCases_false": 100,
+      "sum_count": 500,
+      "count_distribution": {
+        "5": 100
+      }
+    },
+    "it-telecom": {
+      "cells_total": 100,
+      "cells_hasCases_true": 3,
+      "cells_hasCases_false": 97,
+      "sum_count": 500,
+      "count_distribution": {
+        "5": 100
+      }
+    },
+    "oil-energy": {
+      "cells_total": 100,
+      "cells_hasCases_true": 0,
+      "cells_hasCases_false": 100,
+      "sum_count": 500,
+      "count_distribution": {
+        "5": 100
+      }
+    },
+    "retail": {
+      "cells_total": 100,
+      "cells_hasCases_true": 0,
+      "cells_hasCases_false": 100,
+      "sum_count": 500,
+      "count_distribution": {
+        "5": 100
+      }
+    },
+    "finance": {
+      "cells_total": 100,
+      "cells_hasCases_true": 7,
+      "cells_hasCases_false": 93,
+      "sum_count": 499,
+      "count_distribution": {
+        "4": 1,
+        "5": 99
+      }
+    },
+    "transport": {
+      "cells_total": 100,
+      "cells_hasCases_true": 0,
+      "cells_hasCases_false": 100,
+      "sum_count": 493,
+      "count_distribution": {
+        "3": 1,
+        "4": 5,
+        "5": 94
+      }
+    }
+  },
+  "traversal": {
+    "finance": {
+      "total": 499,
+      "observed": 499,
+      "complete": true,
+      "pages_fetched": [
+        {
+          "page": 1,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 2,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 3,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 4,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 5,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 6,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 7,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 8,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 9,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 10,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 11,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 12,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 13,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 14,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 15,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 16,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 17,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 18,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 19,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 20,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 21,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 22,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 23,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 24,
+          "rows": 20,
+          "total": 499,
+          "status": 200
+        },
+        {
+          "page": 25,
+          "rows": 19,
+          "total": 499,
+          "status": 200
+        }
+      ],
+      "with_cases": 9
+    },
+    "it-telecom": {
+      "total": 500,
+      "observed": 500,
+      "complete": true,
+      "pages_fetched": [
+        {
+          "page": 1,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 2,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 3,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 4,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 5,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 6,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 7,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 8,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 9,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 10,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 11,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 12,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 13,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 14,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 15,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 16,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 17,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 18,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 19,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 20,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 21,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 22,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 23,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 24,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        },
+        {
+          "page": 25,
+          "rows": 20,
+          "total": 500,
+          "status": 200
+        }
+      ],
+      "with_cases": 4
+    }
+  },
+  "suspicious_case_to_scenario_attachments": [
+    {
+      "case_id": "cms5zztz00005o90n53q8onrd",
+      "case_title": "Собственная система маршрутизации доставки",
+      "company": "АО «АЛЬФА-БАНК»",
+      "scenario_title": "Интеллектуальная оптимизация процессов клиринга и расчётов с применением ИИ",
+      "why_suspicious": "кейс про логистику/доставку привязан к сценарию про банковский клиринг"
+    },
+    {
+      "case_id": "cms3m81t2000amp0n5lgyol81",
+      "case_title": "Онлайн-модели PD на нейросетевых архитектурах",
+      "company": "АО «АЛЬФА-БАНК»",
+      "scenario_title": "ИИ-прогнозирование и анализ эффективности ИТ-инвестиций и проектов",
+      "why_suspicious": "кейс про скоринг PD (вероятность дефолта) привязан к сценарию про ИТ-инвестиции"
+    },
+    {
+      "case_id": "cms3o8z2q000emp0nh6aa6gx3",
+      "case_title": "SpeechSense",
+      "company": "ООО \"ЯНДЕКС\"",
+      "scenario_title": "ИИ-подсказки адаптивных сценариев продаж в реальном времени на основе профиля клиента",
+      "why_suspicious": "SpeechSense — это речевая аналитика, привязана к сценарию про подсказки продавцам в реальном времени"
+    },
+    {
+      "case_id": "cms3ogmt3000gmp0ndcl5vq6b",
+      "case_title": "SourceCraft",
+      "company": "ООО \"ЯНДЕКС\"",
+      "scenario_title": "Интеллектуальная автоматизация управления ИТ-инфраструктурой и активами на базе AI-RPA",
+      "why_suspicious": "SourceCraft — это платформа для разработки/ревью кода, привязана к сценарию про RPA-управление ИТ-инфраструктурой"
+    },
+    {
+      "case_id": "cms3om663000imp0nx69czffp",
+      "case_title": "SourceCraft Код Ассистент",
+      "company": "ООО \"ЯНДЕКС\"",
+      "scenario_title": "Интеллектуальная автоматизация управления изменениями в ИТ-системах с использованием ИИ-оркестрации",
+      "why_suspicious": "Code Assistant — генератор кода, привязан к сценарию про ИИ-оркестрацию изменений"
+    }
+  ],
+  "historical_press_launch_counts": {
+    "source": "Инк (incrussia.ru), Открытые системы (osp.ru)",
+    "at_launch_total_cases": 24,
+    "at_launch_open_cases": 15
+  },
+  "enumeration_notes": [
+    "Полный обход: finance 499/499, it-telecom 500/500 — оба complete=True",
+    "Глобальный пул /api/scenarios (без фильтра) показал 13 кейсов в первой странице (total=4992) — те же 13, что и сумма по отраслям",
+    "Матрица /api/industries/<slug>/matrix обойдена для всех 10 отраслей; 990/1000 ячеек имеют hasCases=false",
+    "8 отраслей (agriculture, construction, education, healthcare, industrial, oil-energy, retail, transport) — 0 кейсов: agriculture/construction/education полностью обойдены через v2 (500/500 каждый, complete=True), healthcare 100/500 в v2 (incomplete), остальные 4 — по матрице (hasCases=false)"
+  ],
+  "warnings": [
+    "Все утверждения про число кейсов относятся к публичному API, не к полной БД. Возможны закрытые/осиротевшие/непубличные записи.",
+    "Слово \"публично привязанный кейс\" означает запись, которую API возвращает с company/title/case_id, не независимо верифицированное внедрение."
+  ],
+  "suspicious_attachment_count": 5,
+  "all_13_share_zero_keywords_with_scenario": true,
+  "methodology_caveat": "Keyword overlap — слабый сигнал семантической связности. Истинная оценка требует ручного чтения постановки задачи и описания решения. 5 из 13 привязок выглядят явно случайными уже по названиям; остальные 8 имеют частичное пересечение тем (продажи, прайсинг, фрод)."
+}

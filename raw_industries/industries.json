@@ -1,0 +1,84 @@
+{
+  "industries": [
+    {
+      "id": "cmqxqlz3o0000inb1ojufithf",
+      "slug": "agriculture",
+      "nameRu": "Сельское хозяйство",
+      "nameEn": null,
+      "order": 0,
+      "scenarioCount": 500
+    },
+    {
+      "id": "cmqxqlz3y0001inb1wl7k81sm",
+      "slug": "construction",
+      "nameRu": "Строительство и недвижимость",
+      "nameEn": null,
+      "order": 1,
+      "scenarioCount": 500
+    },
+    {
+      "id": "cmqxqlz400002inb1ihbheiab",
+      "slug": "education",
+      "nameRu": "Образование и наука",
+      "nameEn": null,
+      "order": 2,
+      "scenarioCount": 500
+    },
+    {
+      "id": "cmqxqlz420003inb1fj3og0z5",
+      "slug": "healthcare",
+      "nameRu": "Здравоохранение",
+      "nameEn": null,
+      "order": 3,
+      "scenarioCount": 500
+    },
+    {
+      "id": "cmqxqlz460004inb1905kwi4w",
+      "slug": "industrial",
+      "nameRu": "Промышленность",
+      "nameEn": null,
+      "order": 4,
+      "scenarioCount": 500
+    },
+    {
+      "id": "cmqxqlz4b0005inb1qlrgvadz",
+      "slug": "it-telecom",
+      "nameRu": "IT и Телеком",
+      "nameEn": null,
+      "order": 5,
+      "scenarioCount": 500
+    },
+    {
+      "id": "cmqxqlz4c0006inb1xu8zfdf2",
+      "slug": "oil-energy",
+      "nameRu": "Нефтегаз и электроэнергия",
+      "nameEn": null,
+      "order": 6,
+      "scenarioCount": 500
+    },
+    {
+      "id": "cmqxqlz4e0007inb1ju0niojs",
+      "slug": "retail",
+      "nameRu": "Ритейл / e-com",
+      "nameEn": null,
+      "order": 7,
+      "scenarioCount": 500
+    },
+    {
+      "id": "cmqxqlz4f0008inb1srkwsbut",
+      "slug": "finance",
+      "nameRu": "Финансы",
+      "nameEn": null,
+      "order": 8,
+      "scenarioCount": 499
+    },
+    {
+      "id": "cmqxqlz4h0009inb1jxdek8bo",
+      "slug": "transport",
+      "nameRu": "Транспорт и логистика",
+      "nameEn": null,
+      "order": 9,
+      "scenarioCount": 493
+    }
+  ]
+}
