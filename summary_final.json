@@ -1,0 +1,43 @@
+{
+  "audit_target": "https://ai-russia.ru",
+  "audit_date": "2026-08-24",
+  "scope": "current anonymous public API and industry matrices",
+  "declared_scenarios": 4992,
+  "matrix_cells": 1000,
+  "matrix_count_distribution": {
+    "3": 1,
+    "4": 7,
+    "5": 991,
+    "6": 1
+  },
+  "matrix_has_cases_distribution": {
+    "false": 990,
+    "true": 10
+  },
+  "unique_publicly_linked_case_ids": 13,
+  "case_companies": {
+    "АО «АЛЬФА-БАНК»": 9,
+    "ООО \"ЯНДЕКС\"": 4
+  },
+  "industries_with_publicly_linked_cases": [
+    "finance",
+    "it-telecom"
+  ],
+  "industries_without_case_cells": [
+    "agriculture",
+    "construction",
+    "education",
+    "healthcare",
+    "industrial",
+    "oil-energy",
+    "retail",
+    "transport"
+  ],
+  "scenarios_without_publicly_linked_case_percent": 99.7396,
+  "evidence_notes": [
+    "finance was enumerated 499/499 and exposed 9 unique case IDs",
+    "it-telecom was enumerated 500/500 and exposed 4 unique case IDs",
+    "all 1000 matrix cells were checked; only 10 had hasCases=true",
+    "case means a record exposed by the site's own public data model; this audit does not independently certify the claimed business effect"
+  ]
+}

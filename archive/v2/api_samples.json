@@ -1,0 +1,1629 @@
+{
+  "/api/industries": {
+    "industries": [
+      {
+        "id": "cmqxqlz3o0000inb1ojufithf",
+        "slug": "agriculture",
+        "nameRu": "Сельское хозяйство",
+        "nameEn": null,
+        "order": 0,
+        "scenarioCount": 500
+      },
+      {
+        "id": "cmqxqlz3y0001inb1wl7k81sm",
+        "slug": "construction",
+        "nameRu": "Строительство и недвижимость",
+        "nameEn": null,
+        "order": 1,
+        "scenarioCount": 500
+      },
+      {
+        "id": "cmqxqlz400002inb1ihbheiab",
+        "slug": "education",
+        "nameRu": "Образование и наука",
+        "nameEn": null,
+        "order": 2,
+        "scenarioCount": 500
+      },
+      {
+        "id": "cmqxqlz420003inb1fj3og0z5",
+        "slug": "healthcare",
+        "nameRu": "Здравоохранение",
+        "nameEn": null,
+        "order": 3,
+        "scenarioCount": 500
+      },
+      {
+        "id": "cmqxqlz460004inb1905kwi4w",
+        "slug": "industrial",
+        "nameRu": "Промышленность",
+        "nameEn": null,
+        "order": 4,
+        "scenarioCount": 500
+      },
+      {
+        "id": "cmqxqlz4b0005inb1qlrgvadz",
+        "slug": "it-telecom",
+        "nameRu": "IT и Телеком",
+        "nameEn": null,
+        "order": 5,
+        "scenarioCount": 500
+      },
+      {
+        "id": "cmqxqlz4c0006inb1xu8zfdf2",
+        "slug": "oil-energy",
+        "nameRu": "Нефтегаз и электроэнергия",
+        "nameEn": null,
+        "order": 6,
+        "scenarioCount": 500
+      },
+      {
+        "id": "cmqxqlz4e0007inb1ju0niojs",
+        "slug": "retail",
+        "nameRu": "Ритейл / e-com",
+        "nameEn": null,
+        "order": 7,
+        "scenarioCount": 500
+      },
+      {
+        "id": "cmqxqlz4f0008inb1srkwsbut",
+        "slug": "finance",
+        "nameRu": "Финансы",
+        "nameEn": null,
+        "order": 8,
+        "scenarioCount": 499
+      },
+      {
+        "id": "cmqxqlz4h0009inb1jxdek8bo",
+        "slug": "transport",
+        "nameRu": "Транспорт и логистика",
+        "nameEn": null,
+        "order": 9,
+        "scenarioCount": 493
+      }
+    ]
+  },
+  "/api/industries/agriculture/matrix": {
+    "industry": {
+      "slug": "agriculture",
+      "nameRu": "Сельское хозяйство",
+      "nameEn": null
+    },
+    "functions": [
+      {
+        "id": "cmqxqlz4j000ainb10arwvq75",
+        "slug": "strategic-management",
+        "nameRu": "Стратегический менеджмент",
+        "nameEn": null,
+        "order": 0
+      },
+      {
+        "id": "cmqxqlz4m000binb1ypwptkoh",
+        "slug": "finance-capital",
+        "nameRu": "Финансы и управление капиталом",
+        "nameEn": null,
+        "order": 1
+      },
+      {
+        "id": "cmqxqlz4o000cinb1m73cvn4a",
+        "slug": "marketing-brand",
+        "nameRu": "Маркетинг и бренд-менеджмент",
+        "nameEn": null,
+        "order": 2
+      },
+      {
+        "id": "cmqxqlz4p000dinb11188uvpy",
+        "slug": "sales-business-dev",
+        "nameRu": "Продажи и развитие бизнеса",
+        "nameEn": null,
+        "order": 3
+      },
+      {
+        "id": "cmqxqlz4r000einb18z4bojxx",
+        "slug": "operations-production",
+        "nameRu": "Операции и производство",
+        "nameEn": null,
+        "order": 4
+      },
+      {
+        "id": "cmqxqlz4s000finb17nl15uxh",
+        "slug": "hr",
+        "nameRu": "Кадровая политика (HR и организационное развитие)",
+        "nameEn": null,
+        "order": 5
+      },
+      {
+        "id": "cmqxqlz4u000ginb1x8vmukdn",
+        "slug": "it-digitalization",
+        "nameRu": "Информационные технологии и цифровизация",
+        "nameEn": null,
+        "order": 6
+      },
+      {
+        "id": "cmqxqlz4v000hinb13y8hfw3k",
+        "slug": "legal-compliance",
+        "nameRu": "Правовое обеспечение и комплаенс",
+        "nameEn": null,
+        "order": 7
+      },
+      {
+        "id": "cmqxqlz4w000iinb1kipcdqq3",
+        "slug": "innovation-rd",
+        "nameRu": "Инновации и R&D",
+        "nameEn": null,
+        "order": 8
+      },
+      {
+        "id": "cmqxqlz4y000jinb1p0uqmnjt",
+        "slug": "procurement-scm",
+        "nameRu": "Закупки и управление цепочками поставок (SCM)",
+        "nameEn": null,
+        "order": 9
+      }
+    ],
+    "tasks": [
+      {
+        "id": "cmqxqlz4z000kinb159w7a9of",
+        "slug": "analytics-forecasting",
+        "nameRu": "Аналитика и прогнозирование",
+        "nameEn": null,
+        "order": 0
+      },
+      {
+        "id": "cmqxqlz51000linb17orobnrw",
+        "slug": "process-automation",
+        "nameRu": "Автоматизация процессов (RPA / IPA)",
+        "nameEn": null,
+        "order": 1
+      },
+      {
+        "id": "cmqxqlz52000minb197ta2ely",
+        "slug": "resource-optimization",
+        "nameRu": "Оптимизация и управление ресурсами",
+        "nameEn": null,
+        "order": 2
+      },
+      {
+        "id": "cmqxqlz52000ninb1po58x80p",
+        "slug": "monitoring-control",
+        "nameRu": "Мониторинг и контроль",
+        "nameEn": null,
+        "order": 3
+      },
+      {
+        "id": "cmqxqlz53000oinb1vq5y4xw5",
+        "slug": "content-generation",
+        "nameRu": "Генерация и обработка контента",
+        "nameEn": null,
+        "order": 4
+      },
+      {
+        "id": "cmqxqlz53000pinb103ng637v",
+        "slug": "personalization-cx",
+        "nameRu": "Персонализация и клиентский опыт",
+        "nameEn": null,
+        "order": 5
+      },
+      {
+        "id": "cmqxqlz54000qinb1d0pmk7a4",
+        "slug": "decision-support",
+        "nameRu": "Решения для поддержки принятия решений (Decision Support)",
+        "nameEn": null,
+        "order": 6
+      },
+      {
+        "id": "cmqxqlz54000rinb1z8ekad9f",
+        "slug": "risk-security",
+        "nameRu": "Управление рисками и безопасностью",
+        "nameEn": null,
+        "order": 7
+      },
+      {
+        "id": "cmqxqlz55000sinb1mdthyfej",
+        "slug": "people-development",
+        "nameRu": "Развитие персонала и организационные задачи",
+        "nameEn": null,
+        "order": 8
+      },
+      {
+        "id": "cmqxqlz55000tinb1asopwsmh",
+        "slug": "innovation-products",
+        "nameRu": "Инновации и новые продукты",
+        "nameEn": null,
+        "order": 9
+      }
+    ],
+    "cells": [
+      {
+        "functionId": "cmqxqlz4j000ainb10arwvq75",
+        "taskId": "cmqxqlz4z000kinb159w7a9of",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4j000ainb10arwvq75",
+        "taskId": "cmqxqlz51000linb17orobnrw",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4j000ainb10arwvq75",
+        "taskId": "cmqxqlz52000minb197ta2ely",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4j000ainb10arwvq75",
+        "taskId": "cmqxqlz52000ninb1po58x80p",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4j000ainb10arwvq75",
+        "taskId": "cmqxqlz53000oinb1vq5y4xw5",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4j000ainb10arwvq75",
+        "taskId": "cmqxqlz53000pinb103ng637v",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4j000ainb10arwvq75",
+        "taskId": "cmqxqlz54000qinb1d0pmk7a4",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4j000ainb10arwvq75",
+        "taskId": "cmqxqlz54000rinb1z8ekad9f",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4j000ainb10arwvq75",
+        "taskId": "cmqxqlz55000sinb1mdthyfej",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4j000ainb10arwvq75",
+        "taskId": "cmqxqlz55000tinb1asopwsmh",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4m000binb1ypwptkoh",
+        "taskId": "cmqxqlz4z000kinb159w7a9of",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4m000binb1ypwptkoh",
+        "taskId": "cmqxqlz51000linb17orobnrw",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4m000binb1ypwptkoh",
+        "taskId": "cmqxqlz52000minb197ta2ely",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4m000binb1ypwptkoh",
+        "taskId": "cmqxqlz52000ninb1po58x80p",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4m000binb1ypwptkoh",
+        "taskId": "cmqxqlz53000oinb1vq5y4xw5",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4m000binb1ypwptkoh",
+        "taskId": "cmqxqlz53000pinb103ng637v",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4m000binb1ypwptkoh",
+        "taskId": "cmqxqlz54000qinb1d0pmk7a4",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4m000binb1ypwptkoh",
+        "taskId": "cmqxqlz54000rinb1z8ekad9f",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4m000binb1ypwptkoh",
+        "taskId": "cmqxqlz55000sinb1mdthyfej",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4m000binb1ypwptkoh",
+        "taskId": "cmqxqlz55000tinb1asopwsmh",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4o000cinb1m73cvn4a",
+        "taskId": "cmqxqlz4z000kinb159w7a9of",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4o000cinb1m73cvn4a",
+        "taskId": "cmqxqlz51000linb17orobnrw",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4o000cinb1m73cvn4a",
+        "taskId": "cmqxqlz52000minb197ta2ely",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4o000cinb1m73cvn4a",
+        "taskId": "cmqxqlz52000ninb1po58x80p",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4o000cinb1m73cvn4a",
+        "taskId": "cmqxqlz53000oinb1vq5y4xw5",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4o000cinb1m73cvn4a",
+        "taskId": "cmqxqlz53000pinb103ng637v",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4o000cinb1m73cvn4a",
+        "taskId": "cmqxqlz54000qinb1d0pmk7a4",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4o000cinb1m73cvn4a",
+        "taskId": "cmqxqlz54000rinb1z8ekad9f",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4o000cinb1m73cvn4a",
+        "taskId": "cmqxqlz55000sinb1mdthyfej",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4o000cinb1m73cvn4a",
+        "taskId": "cmqxqlz55000tinb1asopwsmh",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4p000dinb11188uvpy",
+        "taskId": "cmqxqlz4z000kinb159w7a9of",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4p000dinb11188uvpy",
+        "taskId": "cmqxqlz51000linb17orobnrw",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4p000dinb11188uvpy",
+        "taskId": "cmqxqlz52000minb197ta2ely",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4p000dinb11188uvpy",
+        "taskId": "cmqxqlz52000ninb1po58x80p",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4p000dinb11188uvpy",
+        "taskId": "cmqxqlz53000oinb1vq5y4xw5",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4p000dinb11188uvpy",
+        "taskId": "cmqxqlz53000pinb103ng637v",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4p000dinb11188uvpy",
+        "taskId": "cmqxqlz54000qinb1d0pmk7a4",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4p000dinb11188uvpy",
+        "taskId": "cmqxqlz54000rinb1z8ekad9f",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4p000dinb11188uvpy",
+        "taskId": "cmqxqlz55000sinb1mdthyfej",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4p000dinb11188uvpy",
+        "taskId": "cmqxqlz55000tinb1asopwsmh",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4r000einb18z4bojxx",
+        "taskId": "cmqxqlz4z000kinb159w7a9of",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4r000einb18z4bojxx",
+        "taskId": "cmqxqlz51000linb17orobnrw",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4r000einb18z4bojxx",
+        "taskId": "cmqxqlz52000minb197ta2ely",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4r000einb18z4bojxx",
+        "taskId": "cmqxqlz52000ninb1po58x80p",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4r000einb18z4bojxx",
+        "taskId": "cmqxqlz53000oinb1vq5y4xw5",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4r000einb18z4bojxx",
+        "taskId": "cmqxqlz53000pinb103ng637v",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4r000einb18z4bojxx",
+        "taskId": "cmqxqlz54000qinb1d0pmk7a4",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4r000einb18z4bojxx",
+        "taskId": "cmqxqlz54000rinb1z8ekad9f",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4r000einb18z4bojxx",
+        "taskId": "cmqxqlz55000sinb1mdthyfej",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4r000einb18z4bojxx",
+        "taskId": "cmqxqlz55000tinb1asopwsmh",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4s000finb17nl15uxh",
+        "taskId": "cmqxqlz4z000kinb159w7a9of",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4s000finb17nl15uxh",
+        "taskId": "cmqxqlz51000linb17orobnrw",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4s000finb17nl15uxh",
+        "taskId": "cmqxqlz52000minb197ta2ely",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4s000finb17nl15uxh",
+        "taskId": "cmqxqlz52000ninb1po58x80p",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4s000finb17nl15uxh",
+        "taskId": "cmqxqlz53000oinb1vq5y4xw5",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4s000finb17nl15uxh",
+        "taskId": "cmqxqlz53000pinb103ng637v",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4s000finb17nl15uxh",
+        "taskId": "cmqxqlz54000qinb1d0pmk7a4",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4s000finb17nl15uxh",
+        "taskId": "cmqxqlz54000rinb1z8ekad9f",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4s000finb17nl15uxh",
+        "taskId": "cmqxqlz55000sinb1mdthyfej",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4s000finb17nl15uxh",
+        "taskId": "cmqxqlz55000tinb1asopwsmh",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4u000ginb1x8vmukdn",
+        "taskId": "cmqxqlz4z000kinb159w7a9of",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4u000ginb1x8vmukdn",
+        "taskId": "cmqxqlz51000linb17orobnrw",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4u000ginb1x8vmukdn",
+        "taskId": "cmqxqlz52000minb197ta2ely",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4u000ginb1x8vmukdn",
+        "taskId": "cmqxqlz52000ninb1po58x80p",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4u000ginb1x8vmukdn",
+        "taskId": "cmqxqlz53000oinb1vq5y4xw5",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4u000ginb1x8vmukdn",
+        "taskId": "cmqxqlz53000pinb103ng637v",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4u000ginb1x8vmukdn",
+        "taskId": "cmqxqlz54000qinb1d0pmk7a4",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4u000ginb1x8vmukdn",
+        "taskId": "cmqxqlz54000rinb1z8ekad9f",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4u000ginb1x8vmukdn",
+        "taskId": "cmqxqlz55000sinb1mdthyfej",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4u000ginb1x8vmukdn",
+        "taskId": "cmqxqlz55000tinb1asopwsmh",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4v000hinb13y8hfw3k",
+        "taskId": "cmqxqlz4z000kinb159w7a9of",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4v000hinb13y8hfw3k",
+        "taskId": "cmqxqlz51000linb17orobnrw",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4v000hinb13y8hfw3k",
+        "taskId": "cmqxqlz52000minb197ta2ely",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4v000hinb13y8hfw3k",
+        "taskId": "cmqxqlz52000ninb1po58x80p",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4v000hinb13y8hfw3k",
+        "taskId": "cmqxqlz53000oinb1vq5y4xw5",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4v000hinb13y8hfw3k",
+        "taskId": "cmqxqlz53000pinb103ng637v",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4v000hinb13y8hfw3k",
+        "taskId": "cmqxqlz54000qinb1d0pmk7a4",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4v000hinb13y8hfw3k",
+        "taskId": "cmqxqlz54000rinb1z8ekad9f",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4v000hinb13y8hfw3k",
+        "taskId": "cmqxqlz55000sinb1mdthyfej",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4v000hinb13y8hfw3k",
+        "taskId": "cmqxqlz55000tinb1asopwsmh",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4w000iinb1kipcdqq3",
+        "taskId": "cmqxqlz4z000kinb159w7a9of",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4w000iinb1kipcdqq3",
+        "taskId": "cmqxqlz51000linb17orobnrw",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4w000iinb1kipcdqq3",
+        "taskId": "cmqxqlz52000minb197ta2ely",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4w000iinb1kipcdqq3",
+        "taskId": "cmqxqlz52000ninb1po58x80p",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4w000iinb1kipcdqq3",
+        "taskId": "cmqxqlz53000oinb1vq5y4xw5",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4w000iinb1kipcdqq3",
+        "taskId": "cmqxqlz53000pinb103ng637v",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4w000iinb1kipcdqq3",
+        "taskId": "cmqxqlz54000qinb1d0pmk7a4",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4w000iinb1kipcdqq3",
+        "taskId": "cmqxqlz54000rinb1z8ekad9f",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4w000iinb1kipcdqq3",
+        "taskId": "cmqxqlz55000sinb1mdthyfej",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4w000iinb1kipcdqq3",
+        "taskId": "cmqxqlz55000tinb1asopwsmh",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4y000jinb1p0uqmnjt",
+        "taskId": "cmqxqlz4z000kinb159w7a9of",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4y000jinb1p0uqmnjt",
+        "taskId": "cmqxqlz51000linb17orobnrw",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4y000jinb1p0uqmnjt",
+        "taskId": "cmqxqlz52000minb197ta2ely",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4y000jinb1p0uqmnjt",
+        "taskId": "cmqxqlz52000ninb1po58x80p",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4y000jinb1p0uqmnjt",
+        "taskId": "cmqxqlz53000oinb1vq5y4xw5",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4y000jinb1p0uqmnjt",
+        "taskId": "cmqxqlz53000pinb103ng637v",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4y000jinb1p0uqmnjt",
+        "taskId": "cmqxqlz54000qinb1d0pmk7a4",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4y000jinb1p0uqmnjt",
+        "taskId": "cmqxqlz54000rinb1z8ekad9f",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4y000jinb1p0uqmnjt",
+        "taskId": "cmqxqlz55000sinb1mdthyfej",
+        "count": 5,
+        "hasCases": false
+      },
+      {
+        "functionId": "cmqxqlz4y000jinb1p0uqmnjt",
+        "taskId": "cmqxqlz55000tinb1asopwsmh",
+        "count": 5,
+        "hasCases": false
+      }
+    ]
+  },
+  "/api/scenarios (all 20)": {
+    "scenarios": [
+      {
+        "id": "cmrxdz19902lbini5nvo56biv",
+        "titleRu": "Персонализированные продажи на основе ИИ-анализа поведенческих паттернов",
+        "titleEn": null,
+        "businessImpact": "strong",
+        "implementationSpeed": "medium",
+        "technologies": [
+          "ClassicML",
+          "NLP",
+          "AIAgents"
+        ],
+        "caseCount": 1,
+        "cases": [
+          {
+            "id": "cmrto0wux0003inzvyxpfdxci",
+            "titleRu": "CRM AI Sales Engine",
+            "company": "АО «АЛЬФА-БАНК»"
+          }
+        ]
+      },
+      {
+        "id": "cmryiwkmf04wninjjhm8vz3qv",
+        "titleRu": "ИИ‑подсказки адаптивных сценариев продаж в реальном времени на основе профиля клиента",
+        "titleEn": null,
+        "businessImpact": "medium",
+        "implementationSpeed": "medium",
+        "technologies": [
+          "LLM",
+          "NLP",
+          "AIAgents"
+        ],
+        "caseCount": 1,
+        "cases": [
+          {
+            "id": "cms3o8z2q000emp0nh6aa6gx3",
+            "titleRu": "SpeechSense",
+            "company": "ООО \"ЯНДЕКС\""
+          }
+        ]
+      },
+      {
+        "id": "cmryiwkkg02m3injjt1mhwohe",
+        "titleRu": "ИИ-система поддержки решений по сложным продажам",
+        "titleEn": null,
+        "businessImpact": "strong",
+        "implementationSpeed": "medium",
+        "technologies": [
+          "ClassicML",
+          "LLM",
+          "NLP"
+        ],
+        "caseCount": 1,
+        "cases": [
+          {
+            "id": "cms3n0mcs000cmp0nrp7865x5",
+            "titleRu": "Умный прайсинг и догоняющие коммуникации в ММБ",
+            "company": "АО «АЛЬФА-БАНК»"
+          }
+        ]
+      },
+      {
+        "id": "cmryiwkkg02mbinjjmpvvm1pn",
+        "titleRu": "Интеллектуальный выбор стратегии работы с клиентом",
+        "titleEn": null,
+        "businessImpact": "strong",
+        "implementationSpeed": "medium",
+        "technologies": [
+          "ClassicML",
+          "NLP"
+        ],
+        "caseCount": 1,
+        "cases": [
+          {
+            "id": "cms3l67x90008mp0n7qacmony",
+            "titleRu": "Умный прайсинг в пассивах",
+            "company": "АО «АЛЬФА-БАНК»"
+          }
+        ]
+      },
+      {
+        "id": "cmryiwkki02ojinjjzc1lwxjn",
+        "titleRu": "Интеллектуальная оптимизация процессов клиринга и расчетов с применением ИИ",
+        "titleEn": null,
+        "businessImpact": "strong",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "RPA"
+        ],
+        "caseCount": 1,
+        "cases": [
+          {
+            "id": "cms5zztz00005o90n53q8onrd",
+            "titleRu": "Собственная система маршрутизации доставки",
+            "company": "АО «АЛЬФА-БАНК»"
+          }
+        ]
+      },
+      {
+        "id": "cmrxdz19g02t5ini5zevbcezn",
+        "titleRu": "Прогнозная аналитика ИТ-ресурсов на базе ИИ",
+        "titleEn": null,
+        "businessImpact": "strong",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "NLP"
+        ],
+        "caseCount": 1,
+        "cases": [
+          {
+            "id": "cmrto0wv50007inzv6hufh21c",
+            "titleRu": "AlfaPredict — аналитическая платформа",
+            "company": "АО «АЛЬФА-БАНК»"
+          }
+        ]
+      },
+      {
+        "id": "cmryiwkkm02t3injjtbzsuqso",
+        "titleRu": "ИИ-прогнозирование и анализ эффективности ИТ-инвестиций и проектов",
+        "titleEn": null,
+        "businessImpact": "strong",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "NLP"
+        ],
+        "caseCount": 1,
+        "cases": [
+          {
+            "id": "cms3m81t2000amp0n5lgyol81",
+            "titleRu": "Онлайн-модели PD на нейросетевых архитектурах",
+            "company": "АО «АЛЬФА-БАНК»"
+          }
+        ]
+      },
+      {
+        "id": "cmryiwkmm054hinjjnofxvbpo",
+        "titleRu": "Интеллектуальная автоматизация управления ИТ‑инфраструктурой и активами на базе AI‑RPA",
+        "titleEn": null,
+        "businessImpact": "strong",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "LLM",
+          "RPA"
+        ],
+        "caseCount": 1,
+        "cases": [
+          {
+            "id": "cms3ogmt3000gmp0ndcl5vq6b",
+            "titleRu": "SourceCraft",
+            "company": "ООО \"ЯНДЕКС\""
+          }
+        ]
+      },
+      {
+        "id": "cmryiwkkn02tfinjj43qulxze",
+        "titleRu": "ИИ для персонализации ИТ-сервисов и улучшения пользовательского опыта",
+        "titleEn": null,
+        "businessImpact": "strong",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "LLM"
+        ],
+        "caseCount": 1,
+        "cases": [
+          {
+            "id": "cms606n1j0007o90nfk8vpbaq",
+            "titleRu": "Ассистенты для сотрудников и клиентов на базе генИИ",
+            "company": "АО «АЛЬФА-БАНК»"
+          }
+        ]
+      },
+      {
+        "id": "cmryiwkmm054pinjjn8mg7xq3",
+        "titleRu": "Интеллектуальная автоматизация управления изменениями в ИТ-системах с использованием ИИ-оркестрации",
+        "titleEn": null,
+        "businessImpact": "medium",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "LLM",
+          "RPA"
+        ],
+        "caseCount": 1,
+        "cases": [
+          {
+            "id": "cms3om663000imp0nx69czffp",
+            "titleRu": "SourceCraft Код Ассистент",
+            "company": "ООО \"ЯНДЕКС\""
+          }
+        ]
+      },
+      {
+        "id": "cmryiwkkn02u1injj9k53cm5m",
+        "titleRu": "ИИ-мониторинг и контроль соблюдения ИТ-политик и стандартов",
+        "titleEn": null,
+        "businessImpact": "strong",
+        "implementationSpeed": "medium",
+        "technologies": [
+          "ClassicML",
+          "NLP",
+          "AIAgents"
+        ],
+        "caseCount": 1,
+        "cases": [
+          {
+            "id": "cmrto0wva000binzvrlea7lj1",
+            "titleRu": "QMS",
+            "company": "АО «АЛЬФА-БАНК»"
+          }
+        ]
+      },
+      {
+        "id": "cmryiwkmo056xinjjk5ftk8mv",
+        "titleRu": "ИИ‑платформа для генерации и сопровождения low-code/no-code приложений",
+        "titleEn": null,
+        "businessImpact": "medium",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "LLM",
+          "AIAgents"
+        ],
+        "caseCount": 1,
+        "cases": [
+          {
+            "id": "cms3ora1l000kmp0nmkrcinxk",
+            "titleRu": "Vibecraft",
+            "company": "ООО \"ЯНДЕКС\""
+          }
+        ]
+      },
+      {
+        "id": "cmryiwkkt030finjj1tc3z987",
+        "titleRu": "Предиктивный ИИ-анализ и предотвращение финансовых преступлений и мошенничества",
+        "titleEn": null,
+        "businessImpact": "strong",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "NLP"
+        ],
+        "caseCount": 1,
+        "cases": [
+          {
+            "id": "cms60lrb50009o90nchh7vhq9",
+            "titleRu": "Вторая линия защиты по детекции «дропов»",
+            "company": "АО «АЛЬФА-БАНК»"
+          }
+        ]
+      },
+      {
+        "id": "cmryiwklj03vrinjj919ejl95",
+        "titleRu": "ИИ-прогнозирование трендов Индустрии 4.0 для долгосрочного стратегического планирования",
+        "titleEn": null,
+        "businessImpact": "strong",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "LLM"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwkk802cfinjjy6ftiwxl",
+        "titleRu": "ИИ-прогнозирование макроэкономических трендов для стратегического планирования",
+        "titleEn": null,
+        "businessImpact": "strong",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "NLP"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwkmv05fbinjjsfhmugp7",
+        "titleRu": "ИИ-модель прогнозирования цен на нефть и газ",
+        "titleEn": null,
+        "businessImpact": "medium",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "LLM"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwkjk01kninjjdk0ff5bw",
+        "titleRu": "ИИ-система прогнозирования образовательных трендов для стратегического планирования университета",
+        "titleEn": null,
+        "businessImpact": "medium",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "LLM"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwkiw00svinjjg20fyeiq",
+        "titleRu": "Система прогнозирования девелоперского цикла проектов жилой недвижимости на основе машинного обучения",
+        "titleEn": null,
+        "businessImpact": "strong",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwkkw033zinjj86d2yvz8",
+        "titleRu": "ИИ-система аналитики эпидемиологических трендов для стратегического планирования медучреждения",
+        "titleEn": null,
+        "businessImpact": "strong",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "LLM"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwkm704njinjjrnivxf4n",
+        "titleRu": "ИИ-прогнозирование технологических трендов в 5G и IoT для стратегического планирования",
+        "titleEn": null,
+        "businessImpact": "medium",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "LLM"
+        ],
+        "caseCount": 0,
+        "cases": []
+      }
+    ],
+    "total": 4992
+  },
+  "/api/scenarios (one with case)": {
+    "id": "cmrxdz19902lbini5nvo56biv",
+    "titleRu": "Персонализированные продажи на основе ИИ-анализа поведенческих паттернов",
+    "titleEn": null,
+    "businessImpact": "strong",
+    "implementationSpeed": "medium",
+    "technologies": [
+      "ClassicML",
+      "NLP",
+      "AIAgents"
+    ],
+    "caseCount": 1,
+    "cases": [
+      {
+        "id": "cmrto0wux0003inzvyxpfdxci",
+        "titleRu": "CRM AI Sales Engine",
+        "company": "АО «АЛЬФА-БАНК»"
+      }
+    ]
+  },
+  "/api/scenarios (one without case)": {
+    "id": "cmryiwklj03vrinjj919ejl95",
+    "titleRu": "ИИ-прогнозирование трендов Индустрии 4.0 для долгосрочного стратегического планирования",
+    "titleEn": null,
+    "businessImpact": "strong",
+    "implementationSpeed": "slow",
+    "technologies": [
+      "ClassicML",
+      "LLM"
+    ],
+    "caseCount": 0,
+    "cases": []
+  },
+  "/api/scenarios?industry=agriculture": {
+    "scenarios": [
+      {
+        "id": "cmryiwki90013injjq9skwdzv",
+        "titleRu": "ИИ-модель прогнозирования глобальных цен на сельхозпродукцию на 5 лет",
+        "titleEn": null,
+        "businessImpact": "medium",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "LLM"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwki90015injjcvlf9gzw",
+        "titleRu": "ИИ-анализ климатических трендов для долгосрочного планирования сельскохозяйственных культур",
+        "titleEn": null,
+        "businessImpact": "medium",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "LLM"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwki90017injjnxstn2t8",
+        "titleRu": "ИИ-прогнозирование потребительского спроса на органические продукты",
+        "titleEn": null,
+        "businessImpact": "medium",
+        "implementationSpeed": "medium",
+        "technologies": [
+          "ClassicML",
+          "LLM"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwki90019injjj32egdxh",
+        "titleRu": "ИИ-система анализа геополитических рисков для экспорта зерна",
+        "titleEn": null,
+        "businessImpact": "strong",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "LLM",
+          "NLP"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwki9001binjj4yfipdok",
+        "titleRu": "ИИ-модель прогнозирования развития агротехнологий и их влияния на отрасль",
+        "titleEn": null,
+        "businessImpact": "medium",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "LLM"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwki9001dinjjmensugrj",
+        "titleRu": "ИИ‑система RPA для автоматизированной подготовки стратегических отчетов для совета директоров",
+        "titleEn": null,
+        "businessImpact": "medium",
+        "implementationSpeed": "medium",
+        "technologies": [
+          "ClassicML",
+          "LLM",
+          "RPA"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwki9001finjjjsy7b0kx",
+        "titleRu": "ИИ-бот для автоматизированного мониторинга и анализа конкурентов в агросекторе",
+        "titleEn": null,
+        "businessImpact": "medium",
+        "implementationSpeed": "medium",
+        "technologies": [
+          "LLM",
+          "NLP",
+          "RPA"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwki9001hinjj7o4psyj8",
+        "titleRu": "Интеллектуальная RPA-автоматизация бенчмаркинга агропроизводителей на основе ИИ‑аналитики",
+        "titleEn": null,
+        "businessImpact": "medium",
+        "implementationSpeed": "medium",
+        "technologies": [
+          "ClassicML",
+          "LLM",
+          "RPA"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwki9001jinjjxu9hkgis",
+        "titleRu": "ИИ‑система RPA для анализа эффективности стратегических инициатив в агробизнесе",
+        "titleEn": null,
+        "businessImpact": "medium",
+        "implementationSpeed": "medium",
+        "technologies": [
+          "ClassicML",
+          "LLM",
+          "RPA"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwki9001linjj16xc1tyu",
+        "titleRu": "ИИ‑автоматизация стратегического планирования посевных площадей на основе прогнозной аналитики",
+        "titleEn": null,
+        "businessImpact": "strong",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "LLM",
+          "RPA"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwki9001ninjjy26o8tb2",
+        "titleRu": "ИИ-платформа персонализированных стратегических рекомендаций для фермеров",
+        "titleEn": null,
+        "businessImpact": "medium",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "LLM",
+          "AIAgents"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwki9001pinjjkg7uv2ct",
+        "titleRu": "ИИ-система адаптивного стратегического консультирования по севооборотам для персонализированного клиентского сервиса",
+        "titleEn": null,
+        "businessImpact": "medium",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "LLM",
+          "AIAgents"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwkia001rinjjt0ntu6in",
+        "titleRu": "ИИ-помощник для персонализированного планирования развития фермерского хозяйства",
+        "titleEn": null,
+        "businessImpact": "medium",
+        "implementationSpeed": "medium",
+        "technologies": [
+          "ClassicML",
+          "LLM",
+          "AIAgents"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwkia001tinjjdj5alaz9",
+        "titleRu": "AI-платформа персонализированного подбора оптимальной бизнес-модели фермы",
+        "titleEn": null,
+        "businessImpact": "medium",
+        "implementationSpeed": "medium",
+        "technologies": [
+          "ClassicML",
+          "LLM"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwkia001vinjjyac2rx65",
+        "titleRu": "ИИ-платформа персонализированных стратегий устойчивого развития для агроклиентов",
+        "titleEn": null,
+        "businessImpact": "medium",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "LLM",
+          "AIAgents"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwkia001xinjjs6fu3ky6",
+        "titleRu": "ИИ-оптимизация распределения инвестиций между отраслями растениеводства",
+        "titleEn": null,
+        "businessImpact": "medium",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "LLM"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwkia001zinjjrxbzlylh",
+        "titleRu": "ИИ-система оптимального размещения сельскохозяйственных производственных мощностей в регионе",
+        "titleEn": null,
+        "businessImpact": "strong",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "LLM"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwkia0021injjoonhcedp",
+        "titleRu": "ИИ-модель оптимизации портфеля сельхозкультур с учетом рисков",
+        "titleEn": null,
+        "businessImpact": "strong",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "LLM"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwkia0023injj9zjqlbg2",
+        "titleRu": "ИИ-алгоритм оптимального использования и планирования земельных ресурсов агрохолдинга",
+        "titleEn": null,
+        "businessImpact": "strong",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "AIAgents"
+        ],
+        "caseCount": 0,
+        "cases": []
+      },
+      {
+        "id": "cmryiwkia0025injjtod6r5p3",
+        "titleRu": "ИИ-система балансировки ресурсов между органическим и традиционным производством",
+        "titleEn": null,
+        "businessImpact": "strong",
+        "implementationSpeed": "slow",
+        "technologies": [
+          "ClassicML",
+          "LLM",
+          "AIAgents"
+        ],
+        "caseCount": 0,
+        "cases": []
+      }
+    ],
+    "total": 500
+  },
+  "/api/cases/<industry-cuid> (negative)": {
+    "message": "Кейс не найден"
+  },
+  "/api/partner-logos": {
+    "logos": [
+      {
+        "id": "cmrz99c9d0000int067ray3sk",
+        "name": "Северсталь",
+        "imageUrl": "/api/partner-logos/cmrz99c9d0000int067ray3sk/image",
+        "linkUrl": null,
+        "order": 0
+      },
+      {
+        "id": "cmrz99c9g0001int0y6n8l36q",
+        "name": "Т-Банк",
+        "imageUrl": "/api/partner-logos/cmrz99c9g0001int0y6n8l36q/image",
+        "linkUrl": null,
+        "order": 1
+      },
+      {
+        "id": "cmrz99c9h0002int0cydy5pai",
+        "name": "Kaspersky",
+        "imageUrl": "/api/partner-logos/cmrz99c9h0002int0cydy5pai/image",
+        "linkUrl": null,
+        "order": 2
+      },
+      {
+        "id": "cmrz99c9j0003int05zk70n9m",
+        "name": "Аэрофлот",
+        "imageUrl": "/api/partner-logos/cmrz99c9j0003int05zk70n9m/image",
+        "linkUrl": null,
+        "order": 3
+      },
+      {
+        "id": "cmrz99c9l0004int0exykmga9",
+        "name": "Самолёт",
+        "imageUrl": "/api/partner-logos/cmrz99c9l0004int0exykmga9/image",
+        "linkUrl": null,
+        "order": 4
+      },
+      {
+        "id": "cmrz99c9m0005int0u37u2onk",
+        "name": "ДОМ.РФ",
+        "imageUrl": "/api/partner-logos/cmrz99c9m0005int0u37u2onk/image",
+        "linkUrl": null,
+        "order": 5
+      },
+      {
+        "id": "cmrz99c9n0006int0f48cu3pp",
+        "name": "Ростелеком",
+        "imageUrl": "/api/partner-logos/cmrz99c9n0006int0f48cu3pp/image",
+        "linkUrl": null,
+        "order": 6
+      },
+      {
+        "id": "cmrz99c9p0007int0r3ybj7me",
+        "name": "СИБУР",
+        "imageUrl": "/api/partner-logos/cmrz99c9p0007int0r3ybj7me/image",
+        "linkUrl": null,
+        "order": 7
+      },
+      {
+        "id": "cmrz99c9q0008int0k9phikv7",
+        "name": "Уралхим",
+        "imageUrl": "/api/partner-logos/cmrz99c9q0008int0k9phikv7/image",
+        "linkUrl": null,
+        "order": 8
+      },
+      {
+        "id": "cmrz99c9r0009int0mtqj3h0r",
+        "name": "Альфа-Банк",
+        "imageUrl": "/api/partner-logos/cmrz99c9r0009int0mtqj3h0r/image",
+        "linkUrl": null,
+        "order": 9
+      },
+      {
+        "id": "cmrz99c9t000bint0lueui4c8",
+        "name": "ФосАгро",
+        "imageUrl": "/api/partner-logos/cmrz99c9t000bint0lueui4c8/image",
+        "linkUrl": null,
+        "order": 10
+      },
+      {
+        "id": "cmrz99c9u000cint0hm32ybgr",
+        "name": "Avito",
+        "imageUrl": "/api/partner-logos/cmrz99c9u000cint0hm32ybgr/image",
+        "linkUrl": null,
+        "order": 11
+      },
+      {
+        "id": "cmrz99c9s000aint04ojlpcu8",
+        "name": "билайн",
+        "imageUrl": "/api/partner-logos/cmrz99c9s000aint04ojlpcu8/image",
+        "linkUrl": null,
+        "order": 12
+      },
+      {
+        "id": "cmrz99c9v000dint0sqfwttv1",
+        "name": "Московская биржа",
+        "imageUrl": "/api/partner-logos/cmrz99c9v000dint0sqfwttv1/image",
+        "linkUrl": null,
+        "order": 13
+      },
+      {
+        "id": "cmrz99c9w000eint0jmze3y90",
+        "name": "ВЭБ.РФ",
+        "imageUrl": "/api/partner-logos/cmrz99c9w000eint0jmze3y90/image",
+        "linkUrl": null,
+        "order": 14
+      },
+      {
+        "id": "cmrz99c9x000fint0n3h259u0",
+        "name": "Норникель",
+        "imageUrl": "/api/partner-logos/cmrz99c9x000fint0n3h259u0/image",
+        "linkUrl": null,
+        "order": 15
+      }
+    ]
+  },
+  "/api/auth/me": {
+    "user": null
+  },
+  "/api/submissions (404)": {
+    "message": "Route GET:/api/submissions not found",
+    "error": "Not Found",
+    "statusCode": 404
+  },
+  "/api/cases/2018 (400, year rejected)": {
+    "message": "params/id Invalid cuid"
+  },
+  "GET / (1649-byte SPA shell)": "<!doctype html>\n<html lang=\"ru\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>Витрина ИИ-кейсов</title>\n    <meta\n      name=\"description\"\n      content=\"Цифровая платформа, консолидирующая опыт передовых компаний российского рынка по внедрению ИИ: сценарии применения в 10 отраслях, кейсы с лучшими практиками, эксперты для обмена опытом.\"\n    />\n    <meta property=\"og:title\" content=\"Витрина ИИ-кейсов\" />\n    <meta\n      property=\"og:description\"\n      content=\"Опыт передовых компаний российского рынка по внедрению ИИ: сценарии применения в 10 отраслях, кейсы с лучшими практиками, эксперты для обмена опытом.\"\n    />\n    <meta property=\"og:type\" content=\"website\" />\n    <meta property=\"og:locale\" content=\"ru_RU\" />\n    <meta property=\"og:site_name\" content=\"Витрина ИИ-кейсов\" />\n    <meta name=\"twitter:card\" content=\"summary\" />\n    <link rel=\"icon\" href=\"/favicon.ico\" sizes=\"16x16 32x32 48x48\" />\n    <link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/icons/favicon-32x32.png\" />\n    <link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"/icons/favicon-16x16.png\" />\n    <link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/icons/apple-touch-icon.png\" />\n    <link rel=\"manifest\" href=\"/site.webmanifest\" />\n    <link rel=\"preload\" as=\"image\" href=\"/hero.webp\" fetchpriority=\"high\" />\n    <meta name=\"theme-color\" content=\"#050d1d\" />\n    <script type=\"module\" crossorigin src=\"/assets/index-gnHp2R5u.js\"></script>\n    <link rel=\"stylesheet\" crossorigin href=\"/assets/index-BnFeytTf.css\">\n  </head>\n  <body>\n    <div id=\"root\"></div>\n  </body>\n</html>\n",
+  "GET /library/sber-atm (200, but SPA shell, 1649 bytes)": "<!doctype html>\n<html lang=\"ru\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>Витрина ИИ-кейсов</title>\n    <meta\n      name=\"description\"\n      content=\"Цифровая платформа, консолидирующая опыт передовых компаний российского рынка по внедрению ИИ: сценарии применения в 10 отраслях, кейсы с лучшими практиками, эксперты для обмена опытом.\"\n    />\n    <meta property=\"og:title\" content=\"Витрина ИИ-кейсов\" />\n    <meta\n      property=\"og:description\"\n      content=\"Опыт передовых компаний российского рынка по внедрению ИИ: сценарии применения в 10 отраслях, кейсы с лучшими практиками, эксперты для обмена опытом.\"\n    />\n    <meta property=\"og:type\" content=\"website\" />\n    <meta property=\"og:locale\" content=\"ru_RU\" />\n    <meta property=\"og:site_name\" content=\"Витрина ИИ-кейсов\" />\n    <meta name=\"twitter:card\" content=\"summary\" />\n    <link rel=\"icon\" href=\"/favicon.ico\" sizes=\"16x16 32x32 48x48\" />\n    <link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/icons/favicon-32x32.png\" />\n    <link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"/icons/favicon-16x16.png\" />\n    <link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/icons/apple-touch-icon.png\" />\n    <link rel=\"manifest\" href=\"/site.webmanifest\" />\n    <link rel=\"preload\" as=\"image\" href=\"/hero.webp\" fetchpriority=\"high\" />\n    <meta name=\"theme-color\" content=\"#050d1d\" />\n    <script type=\"module\" crossorigin src=\"/assets/index-gnHp2R5u.js\"></script>\n    <link rel=\"stylesheet\" crossorigin href=\"/assets/index-BnFeytTf.css\">\n  </head>\n  <body>\n    <div id=\"root\"></div>\n  </body>\n</html>\n"
+}
